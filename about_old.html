@@ -151,19 +151,38 @@
                 </div>
             </div>
         </div>
-        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
-            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-            <span class="visually-hidden">Previous</span>
-        </button>
-        <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
-            <span class="carousel-control-next-icon" aria-hidden="true"></span>
-            <span class="visually-hidden">Next</span>
-        </button>
+        <!-- Add more .carousel-item elements here with their respective images -->
     </div>
+	<button class="carousel-control-prev" type="button" data-bs-target="#heroCarousel" data-bs-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Previous</span>
+  </button>
+	<button class="carousel-control-next" type="button" data-bs-target="#heroCarousel" data-bs-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Next</span>
+  </button>
+</div>
+<!-- Bootstrap JavaScript Bundle with Popper (include at the end of the body) -->
+
+    <!-- Overlay Content -->
+    <div class="overlay-content position-absolute w-100 h-100">
+        <!-- Top-left Logo -->
+        <div class="logo-and-date position-absolute" style="top: 80px; left: 0; padding: 20px;">
+            <img src="/web/20240414203806im_/http://icsec2024.org/assets/images/newlogo.png" alt="ICSEC 2024 Logo" style="width: 250px; height: auto;">
+        </div>
+        <!-- Centered Title -->
+        <div class="d-flex justify-content-center align-items-center h-100">
+            <h3 class="text-uppercase text-white fw-semibold display-3" data-aos="fade-up">
+                ABOUT
+            </h3>
+        </div>
+    </div>
+</section>
+   
 
 
-    <!-- ABOUT -->
-    <section id="about" class="section-padding">
+    
+<section id="about" class="section-padding">
         <div class="container">
             <div class="row">
                 <div class="col-12 text-center" data-aos="fade-down" data-aos-delay="50">
@@ -442,40 +461,97 @@
                     <div class="section-title">
                         <h1 class="display-4 fw-semibold text-uppercase">co-organized BY</h1>
                         <div class="line"></div>
-                        <div class="row">
-                            <div class="col-lg-3 d-flex justify-content-center align-items-center">
-                                <img src="./assets/images/organnized/1.png" class="img-fluid" alt="">
-                            </div>
-                            <div class="col-lg-3 d-flex justify-content-center align-items-center">
-                                <img src="./assets/images/organnized/2.png" class="img-fluid" alt="">
-                            </div>
-                            <div class="col-lg-3 d-flex justify-content-center align-items-center">
-                                <img src="./assets/images/organnized/3.png" class="img-fluid" alt="">
-                            </div>
-                            <div class="col-lg-3 d-flex justify-content-center align-items-center">
-                                <img src="./assets/images/organnized/4.png" class="img-fluid" alt="">
-                            </div>
-                            <div class="col-lg-3 d-flex justify-content-center align-items-center">
-                                <img src="./assets/images/organnized/5.png" class="img-fluid" alt="">
-                            </div>
-                            <div class="col-lg-3 d-flex justify-content-center align-items-center">
-                                <img src="./assets/images/organnized/6.png" class="img-fluid" alt="">
-                            </div>
-                            <div class="col-lg-3 d-flex justify-content-center align-items-center">
-                                <img src="./assets/images/organnized/7.png" class="img-fluid" alt="">
-                            </div>
-                            <div class="col-lg-3 d-flex justify-content-center align-items-center">
-                                <img src="./assets/images/organnized/8.png" class="img-fluid" alt="">
-                            </div>
-                            <div class="col-lg-3 d-flex justify-content-center align-items-center">
-                                <img src="./assets/images/organnized/9.png" class="img-fluid" alt="">
-                            </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row g-4 text-center ">
+                <div class="col-md-2" data-aos="fade-down" data-aos-delay="150">
+                    <div class="team-member image-zoom">
+                        <div class="image-zoom-wrapper">
+                            <img src="/web/20240414203806im_/http://icsec2024.org/assets/images/60years_kku.png" class="w-75" alt="">
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-2" data-aos="fade-down" data-aos-delay="250">
+                    <div class="team-member image-zoom">
+                        <div class="image-zoom-wrapper">
+                            <img src="/web/20240414203806im_/http://icsec2024.org/assets/images/CP_Logo_Transparent_BG.png" class="w-75 mt-4" style="padding-top:1rem" alt="">
+                        </div>
+
+                    </div>
+                </div>
+				<div class="col-md-2" data-aos="fade-down" data-aos-delay="350">
+                    <div class="team-member image-zoom">
+                        <div class="image-zoom-wrapper">
+                            <img src="/web/20240414203806im_/http://icsec2024.org/assets/images/encom.jpg" class="w-50" alt="">
+                        </div>
+                    </div>
+                </div>
+				<div class="col-md-2" data-aos="fade-down" data-aos-delay="350">
+                    <div class="team-member image-zoom">
+                        <div class="image-zoom-wrapper">
+                            <img src="/web/20240414203806im_/http://icsec2024.org/assets/images/2_IEEEComSocie.png" class="w-75 mt-4" alt="">
+                        </div>
+                    </div>
+                </div>
+				<div class="col-md-2" data-aos="fade-down" data-aos-delay="350">
+                    <div class="team-member image-zoom">
+                        <div class="image-zoom-wrapper">
+                            <img src="/web/20240414203806im_/http://icsec2024.org/assets/images/4_ECTI.jpeg" class="w-50 mt-4" alt="">
+                        </div>
+                    </div>
+                </div>
+				<div class="col-md-2" data-aos="fade-down" data-aos-delay="350">
+                    <div class="team-member image-zoom">
+                        <div class="image-zoom-wrapper">
+                            <img src="/web/20240414203806im_/http://icsec2024.org/assets/images/1.png" class="w-75 mt-4" alt="">
                         </div>
                     </div>
                 </div>
             </div>
         </div>
     </section>
+
+    <!-- ORGANIZED BY -->
+   
+<!-- Modal -->
+<div class="modal fade" id="showcallforSponsorship" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+  <div class="modal-dialog  modal-dialog-scrollable">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h1 class="modal-title fs-5" id="staticBackdropLabel">Call for Sponsorship Form</h1>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+        <img src="/web/20240414203806im_/http://icsec2024.org/assets/images/callsupport.jpg">
+	  </div>
+      <div class="modal-footer">
+		<a type="button" class="btn btn-success" href="https://web.archive.org/web/20240414203806/https://drive.google.com/file/d/1chDsIkHevS52ziEZ_FhPwf5Nv9lDFg5w/view?usp=sharing" target="_blank">dowload</a>
+        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<!-- Modal -->
+<div class="modal fade" id="showcallforsupport" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h1 class="modal-title fs-5" id="staticBackdropLabel">Call for Support Us</h1>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+        <img width="100%" height="100%" src="/web/20240414203806im_/http://icsec2024.org/assets/images/sponsorpackage.jpg">
+	  </div>
+      <div class="modal-footer">
+		<a type="button" class="btn btn-success" href="https://web.archive.org/web/20240414203806/https://drive.google.com/file/d/122fdTfBbD0QN1bvRtCPpIvuni6LgBux9/view?usp=sharing" target="_blank">dowload</a>
+        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
 
 
       <!-- FOOTER -->
@@ -484,10 +560,9 @@
             <div class="container">
                 <div class="row gy-5">
                     <div class="col-lg-4 col-sm-6">
-                        <a class="navbar-brand" href="./index">
-                            <img src="./assets/images/logo2024.png"
-                                width="160" alt="">
-                        </a>
+                       <a class="navbar-brand" href="./index">
+                <img src="/web/20240414203806im_/http://icsec2024.org/assets/images/logo2024.png" width="160" alt="">
+            </a>
                         <div class="line"></div>
                         <p>College of Computing, Khon Kaen University.
                             <br>123 Vidhayavibaj Building,
@@ -495,10 +570,8 @@
                             Khon Kaen 40002
                         </p>
                         <div class="social-icons">
-                            <a
-                                href="https://www.facebook.com/computing.kku"><i
-                                    class="ri-facebook-fill" style="color: white;"></i></a>
-                            
+                            <a href="https://web.archive.org/web/20240414203806/https://www.facebook.com/computing.kku"><i class="ri-facebook-fill"></i></a>
+                            <a href="https://web.archive.org/web/20240414203806/https://www.youtube.com/channel/UCJbH9xZZ9rNGfKahEebeFOA"><i class="ri-youtube-fill"></i></a>
                         </div>
                     </div>
 
@@ -544,10 +617,8 @@
             <div class="container">
                 <div class="row g-4 justify-content-center">
                     <div class="col-auto">
-                        <p class="mb-0">© Copyright by <a
-                                href="https://web.archive.org/web/20240511094012/https://computing.kku.ac.th/">College
-                                of Computing KKU</a></p>
-
+                        <p class="mb-0">© Copyright by <a href="https://web.archive.org/web/20240414203806/https://computing.kku.ac.th/">College of Computing KKU</a></p>
+                        
                     </div>
                 </div>
             </div>
@@ -575,80 +646,47 @@
         </div>
     </div>
 
-    <div class="modal fade" id="showcallforSponsorship" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1"
-        aria-labelledby="showcallforSponsorship" aria-hidden="true">
-        <div class="modal-dialog">
-            <div class="modal-content">
-                <div class="modal-header">
-                    <h1 class="modal-title fs-5" id="staticBackdropLabel">Sponsorship Form</h1>
-                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-                </div>
-                <div class="modal-body">
-                    <img src="./assets/images/supform.png" alt="" srcset="">
-                </div>
-                <div class="modal-footer">
-                    <a type="button" class="btn btn-primary" target="_blank" href="https://drive.google.com/file/d/1chDsIkHevS52ziEZ_FhPwf5Nv9lDFg5w/view" style="color: white;">dowload</a>
-                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
-                </div>
-            </div>
-        </div>
-    </div>
-
-    <div class="modal fade" id="showcallforpaper" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1"
-    aria-labelledby="showcallforpaper" aria-hidden="true">
-    <div class="modal-dialog">
-        <div class="modal-content">
-            <div class="modal-header">
-                <h1 class="modal-title fs-5" id="staticBackdropLabel"></h1>
-                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-            </div>
-            <div class="modal-body">
-                <img src="./assets/images/organnized/icsec2024v4.jpg" alt="" srcset="">
-            </div>
-            <div class="modal-footer">
-                <a type="button" class="btn btn-primary" target="_blank" href="https://drive.google.com/file/d/1bBxnsS_qGDyS2jXqUZJSyYJes4R7Sy41/view" style="color: white;">dowload</a>
-                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
-            </div>
-        </div>
-    </div>
-</div>
 
 
+
+
+
+    <script src="https://web.archive.org/web/20240414203806js_/https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://web.archive.org/web/20240414203806js_/https://cdn.jsdelivr.net/npm/@fancyapps/ui@4.0/dist/fancybox.umd.js"></script>
+    <script src="https://web.archive.org/web/20240414203806js_/https://unpkg.com/aos@next/dist/aos.js"></script>
+    <script src="/web/20240414203806js_/http://icsec2024.org/assets/js/main.js"></script>
     <script>
         function updateCountdown() {
-            // Set the date as November 8, 2024, 00:00:00 in Thailand time
-            const countdownDate = new Date('November 6, 2024 00:00:00 GMT+0700').getTime();
-            const now = new Date().getTime();
-            const timeleft = countdownDate - now;
-
-            // Calculating the days, hours, minutes and seconds left
-            const days = Math.floor(timeleft / (1000 * 60 * 60 * 24));
-            const hours = Math.floor((timeleft % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
-            const minutes = Math.floor((timeleft % (1000 * 60 * 60)) / (1000 * 60));
-            const seconds = Math.floor((timeleft % (1000 * 60)) / 1000);
-
-            // Output the result to the respective elements
-            document.getElementById("days").innerText = days < 10 ? '0' + days : days;
-            document.getElementById("hours").innerText = hours < 10 ? '0' + hours : hours;
-            document.getElementById("minutes").innerText = minutes < 10 ? '0' + minutes : minutes;
-            document.getElementById("seconds").innerText = seconds < 10 ? '0' + seconds : seconds;
-
-            // If the countdown is over, display expired message
-            if (timeleft < 0) {
-                clearInterval(countdownInterval);
-                document.getElementById("countdown").innerHTML = "EXPIRED";
-            }
-        }
-
-        // Update the countdown every second
-        const countdownInterval = setInterval(updateCountdown, 1000);
-
-    </script>
-
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/@fancyapps/ui@4.0/dist/fancybox.umd.js"></script>
-    <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
-    <script src="./assets/js/main.js"></script>
+      // Set the date as November 8, 2024, 00:00:00 in Thailand time
+      const countdownDate = new Date('November 8, 2024 00:00:00 GMT+0700').getTime();
+      const now = new Date().getTime();
+      const timeleft = countdownDate - now;
+    
+      // Calculating the days, hours, minutes and seconds left
+      const days = Math.floor(timeleft / (1000 * 60 * 60 * 24));
+      const hours = Math.floor((timeleft % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+      const minutes = Math.floor((timeleft % (1000 * 60 * 60)) / (1000 * 60));
+      const seconds = Math.floor((timeleft % (1000 * 60)) / 1000);
+    
+      // Output the result to the respective elements
+      document.getElementById("days").innerText = days < 10 ? '0' + days : days;
+      document.getElementById("hours").innerText = hours < 10 ? '0' + hours : hours;
+      document.getElementById("minutes").innerText = minutes < 10 ? '0' + minutes : minutes;
+      document.getElementById("seconds").innerText = seconds < 10 ? '0' + seconds : seconds;
+    
+      // If the countdown is over, display expired message
+      if (timeleft < 0) {
+        clearInterval(countdownInterval);
+        document.getElementById("countdown").innerHTML = "EXPIRED";
+      }
+    }
+    
+    // Update the countdown every second
+    const countdownInterval = setInterval(updateCountdown, 1000);
+    
+      </script>
+      <script src="/web/20240414203806js_/http://icsec2024.org/assets/js/script.js"></script>
+		<script src="/web/20240414203806js_/http://icsec2024.org/add_active.js"></script>
 </body>
 
 </html>
