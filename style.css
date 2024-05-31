@@ -13,7 +13,7 @@
     bottom: 0;
     left: 0;
     right: 0;
-    background-color: rgba(0, 0, 0, 0.7);
+    background-color: rgba(82, 81, 81, 0.7);
     overflow: hidden;
     width: 50%;
     height: 0;
@@ -21,7 +21,7 @@
 }
 
 .image-card:hover .overlay {
-    height: 40%;
+    height: 100%;
 }
 
 .text {
