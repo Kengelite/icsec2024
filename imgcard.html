@@ -1,24 +1,114 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Image Card</title>
-    <link href="https://stackpath.bootstrapcdn.com/bootstrap/5.1.3/css/bootstrap.min.css" rel="stylesheet">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Keynote Speaker</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/css/bootstrap.min.css">
+    <link href="https://cdn.jsdelivr.net/npm/remixicon@2.5.0/fonts/remixicon.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/ui@4.0/dist/fancybox.css">
+    <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+    <link rel="stylesheet" href="./assets/css/style.css">
+
     <link rel="stylesheet" href="style.css">
 </head>
-<body>
+
+<body data-bs-spy="scroll" data-bs-target=".navbar" >
+
+    <!-- NAVBAR -->
+    <nav class="navbar navbar-expand-lg bg-white sticky-top">
+        <div class="container">
+            <a class="navbar-brand" href="#">
+                <img src="./assets/images/logo-dark.svg" alt="">
+            </a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
+                aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav ms-auto">
+                    <li class="nav-item">
+                        <a class="nav-link" href="#hero">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#about">About</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#services">Services</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#portfolio">Portfolio</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#reviews">Reviews</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#team">Team</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#contact">Contact</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#blog">Blog</a>
+                    </li>
+                </ul>
+                <a href="#" class="btn btn-brand ms-lg-3">Download</a>
+            </div>
+        </div>
+    </nav>
+
+    
     <div class="container my-5">
         <div class="row">
+
             <div class="col-md-4">
                 <div class="card image-card">
-                    <img src="https://via.placeholder.com/350x150" class="card-img-top" alt="Image">
+                    <img src="assets\images\keynoteSpeaker\DusitNiyato2.jpeg" class="card-img-top" alt="Image">
                     
                     <div class="overlay">
-                        <div class="text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis incidunt omnis molestiae laudantium atque ad magnam vero iste necessitatibus rerum praesentium maxime officia dolorum, dolore exercitationem voluptates nobis corporis quas.</div>
+                        <div class="text">
+                            <h5 style="color: white;">Professor Dusit Niyato</h5>
+                            <h5 style="color: white;">Ph.D., IEEE Fellow, IET Fellow</h5><br>
+                            <p>President's Chair Professor in Computer Science and Engineering School of Computer Science and Engineering (SCSE), Nanyang Technological University, Singapore.
+                            </p>
+                        </div>
                     </div>
+                    
                 </div>
             </div>
+
+            <div class="col-md-4">
+                <div class="card image-card">
+                    <img src="assets\images\keynoteSpeaker\ThomasBäck2.jpeg" class="card-img-top" alt="Image">
+                    
+                    <div class="overlay">
+                        <div class="text">
+                            <h5 style="color: white;">Professor Thomas Bäck</h5>
+                            <h5 style="color: white;">Ph.D., IEEE Fellow</h5><br>
+                            <p>Leiden Institute of Advanced Computer Science (LIACS), Leiden University, Netherlands.
+                            </p>
+                        </div>
+                    </div>
+                    
+                </div>
+            </div>
+
+            <div class="col-md-4">
+                <div class="card image-card">
+                    <img src="assets\images\keynoteSpeaker\GittaKutyniok.jpeg" class="card-img-top" alt="Image">
+                    
+                    <div class="overlay">
+                        <div class="text">
+                            <h5 style="color: white;">Professor Gitta Kutyniok</h5>
+                            <h5 style="color: white;">Ph.D., IEEE Fellow</h5><br>
+                            <p>Ludwig-Maximilians Universität München.
+                            </p>
+                        </div>
+                    </div>
+                    
+                </div>
+            </div>
+
         </div>
     </div>
 
