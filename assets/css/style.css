@@ -1,6 +1,6 @@
 /* FONTS */
 @import url(../css/clash-display.css);
-
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400&display=swap');
 /* VARIABLES */
 :root {
     --c-dark: #212529;
@@ -15,7 +15,8 @@
 
 /* RESET & HELPERS */
 body {
-    font-family: var(--font-base);
+    /* font-family: var(--font-base); */
+    font-family: 'Poppins', sans-serif;
     line-height: 1.7;
     color: var(--c-body);
 }
@@ -181,9 +182,14 @@ img {
 
 /* COUNTER */
 #counter {
-    background: linear-gradient(rgba(var(--c-brand-rgb), 0.8), rgba(var(--c-brand-rgb), 0.8)), url(../images/counter.jpg);
+    background: linear-gradient(rgba(var(--c-brand-rgb), 0.8), rgba(var(--c-brand-rgb), 0.8)), url(../images/silde/bg3.png);
     background-position: center;
     background-size: cover;
+}
+@media (max-width: 1000px) {
+    #counter {
+        width: 100%; 
+    }
 }
 
 /* PORTFOLIO */
