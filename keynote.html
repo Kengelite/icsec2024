@@ -12,6 +12,24 @@
     <link rel="stylesheet" href="./assets/css/style.css">
 
     <link rel="stylesheet" href="style.css">
+
+    <style>
+        * {
+            color: black;
+        }
+
+        .text {
+            color: rgb(255, 255, 255);
+            font-size: 15px;
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            /* text-align: center; */
+            padding: 20px;
+        }
+    </style>
+
 </head>
 
 <body data-bs-spy="scroll" data-bs-target=".navbar">
@@ -61,8 +79,7 @@
                         </div>
                         <div class="dropdown-menu" aria-labelledby="navbarDropdown_submission">
                             <a class="dropdown-item" href="./submission">Submission Guideline</a>
-                            <a class="dropdown-item"
-                                href="https://edas.info/newPaper.php?c=32081&amp;track=122516"
+                            <a class="dropdown-item" href="https://edas.info/newPaper.php?c=32081&amp;track=122516"
                                 target="_blank">Submit Your Paper</a>
                             <a class="dropdown-item" href="./RegistrationFee">Registration Fee</a>
                         </div>
@@ -180,52 +197,54 @@
                     <div class="col-md-4">
                         <div class="card image-card">
                             <img src="assets\images\keynoteSpeaker\DusitNiyato2.jpeg" class="card-img-top" alt="Image">
-        
+
                             <div class="overlay">
                                 <div class="text">
                                     <h5 style="color: white;">Professor Dusit Niyato</h5>
                                     <h5 style="color: white;">Ph.D., IEEE Fellow, IET Fellow</h5><br>
-                                    <p>President's Chair Professor in Computer Science and Engineering School of Computer
+                                    <p style="color: white;">President's Chair Professor in Computer Science and Engineering School of
+                                        Computer
                                         Science and Engineering (SCSE), Nanyang Technological University, Singapore.
                                     </p>
                                     <a href="#" class="btn btn-primary">View Profile</a>
                                 </div>
                             </div>
-        
+
                         </div>
                     </div>
-        
+
                     <div class="col-md-4">
                         <div class="card image-card">
                             <img src="assets\images\keynoteSpeaker\ThomasBäck2.jpeg" class="card-img-top" alt="Image">
-        
+
                             <div class="overlay">
                                 <div class="text">
                                     <h5 style="color: white;">Professor Thomas Bäck</h5>
                                     <h5 style="color: white;">Ph.D., IEEE Fellow</h5><br>
-                                    <p>Leiden Institute of Advanced Computer Science (LIACS), Leiden University, Netherlands.
+                                    <p style="color: white;">Leiden Institute of Advanced Computer Science (LIACS), Leiden University,
+                                        Netherlands.
                                     </p>
                                     <a href="#" class="btn btn-primary">View Profile</a>
                                 </div>
                             </div>
-        
+
                         </div>
                     </div>
-        
+
                     <div class="col-md-4">
                         <div class="card image-card">
                             <img src="assets\images\keynoteSpeaker\GittaKutyniok.jpeg" class="card-img-top" alt="Image">
-        
+
                             <div class="overlay">
                                 <div class="text">
                                     <h5 style="color: white;">Professor Gitta Kutyniok</h5>
                                     <h5 style="color: white;">Ph.D., IEEE Fellow</h5><br>
-                                    <p>Ludwig-Maximilians Universität München.
+                                    <p style="color: white;">Ludwig-Maximilians Universität München.
                                     </p>
                                     <a href="#" class="btn btn-primary">View Profile</a>
                                 </div>
                             </div>
-        
+
                         </div>
                     </div>
                 </div>
@@ -378,7 +397,7 @@
     <script src="https://cdn.jsdelivr.net/npm/@fancyapps/ui@4.0/dist/fancybox.umd.js"></script>
     <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
     <script src="./assets/js/main.js"></script>
-    
+
     <script>
         document.addEventListener('DOMContentLoaded', function () {
             const imageCards = document.querySelectorAll('.image-card');
