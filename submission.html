@@ -22,12 +22,12 @@
     .text-center {
         text-align: center;
     }
-
-    /* ให้เนื้อหาอยู่ใน column กลางของ row */
-    .col-12 {
-        margin: 0 auto;
-        max-width: 800px; /* กำหนดความกว้างสูงสุดของ content */
+    
+    p {
+    line-height: 1.5; /* หรือค่าอื่น ๆ ที่คุณต้องการ */
     }
+
+
 
     /* ปรับขนาดและรูปแบบของเนื้อหา */
     .display-4 {
@@ -97,24 +97,24 @@
                             <a class="dropdown-item" href="./about.html">About</a>
                             <a class="dropdown-item" data-bs-toggle="modal" data-bs-target="#showcallforpaper">Call
                                 for Papers</a>
-                            <a class="dropdown-item" href="./special_session">Special Sessions</a>
+                            <a class="dropdown-item" href="./special_session.html">Special Sessions</a>
                             <!-- <a class="dropdown-item" href="./Invitedspeakers">Invited speakers</a>-->
-                            <a class="dropdown-item" href="./committee">Committee</a>
-                            <a class="dropdown-item" href="./reviewer">Reviewer</a>
+                            <a class="dropdown-item" href="./committee.html">Committee</a>
+                            <a class="dropdown-item" href="./reviewer.html">Reviewer</a>
                             <!-- More sub-committee links can be added here -->
                         </div>
                     </li>
                     <li class="nav-item dropdown">
-                        <div class="nav-link dropdown-toggle" id="navbarDropdown_submission" role="button"
+                        <div class="nav-link dropdown-toggle active" id="navbarDropdown_submission" role="button"
                             data-bs-toggle="dropdown" aria-expanded="false">
                             Submissions
                         </div>
                         <div class="dropdown-menu" aria-labelledby="navbarDropdown_submission">
-                            <a class="dropdown-item" href="./submission">Submission Guideline</a>
+                            <a class="dropdown-item active" href="./submission.html">Submission Guideline</a>
                             <a class="dropdown-item"
-                                href="/https://edas.info/newPaper.php?c=32081&amp;track=122516"
+                                href="https://edas.info/newPaper.php?c=32081&amp;track=122516"
                                 target="_blank">Submit Your Paper</a>
-                            <a class="dropdown-item" href="./RegistrationFee">Registration Fee</a>
+                            <a class="dropdown-item" href="./RegistrationFee.html">Registration Fee</a>
                         </div>
                     </li>
 
@@ -139,13 +139,13 @@
                             Venues
                         </div>
                         <div class="dropdown-menu" aria-labelledby="navbarDropdown_venues">
-                            <a class="dropdown-item" href="./accommodations">Accommodations</a>
-                            <a class="dropdown-item" href="./transportation">Transportation</a>
-                            <a class="dropdown-item" href="./attractions">Attractions</a>
+                            <a class="dropdown-item" href="./accommodations.html">Accommodations</a>
+                            <a class="dropdown-item" href="./transportation.html">Transportation</a>
+                            <a class="dropdown-item" href="./attractions.html">Attractions</a>
                         </div>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" id="stdgrants" href="./stdgrants">Student Grants</a>
+                        <a class="nav-link" id="stdgrants" href="./stdgrants.html">Student Grants</a>
                     </li>
                     <!-- <li class="nav-item">
                         <a class="nav-link" id="contacts" href="./contact">Contact us</a>
@@ -286,12 +286,65 @@
         </div>
     </section>
     
-    
-        
-    
-
     <!-- SERVICES -->
    
+    <!-- MODALS -->
+        <!-- Modal -->
+        <div class="modal fade" id="showcallforsupportus" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1"
+        aria-labelledby="showcallforsupportus" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h1 class="modal-title fs-5" id="staticBackdropLabel">Support Us</h1>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    <img src="./assets/images/sponsorus.jpg" alt="" srcset="">
+                </div>
+                <div class="modal-footer">
+                    <a type="button" class="btn btn-primary" target="_blank" href="https://drive.google.com/file/d/122fdTfBbD0QN1bvRtCPpIvuni6LgBux9/view" style="color: white;">dowload</a>
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="modal fade" id="showcallforSponsorship" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1"
+        aria-labelledby="showcallforSponsorship" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h1 class="modal-title fs-5" id="staticBackdropLabel">Sponsorship Form</h1>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    <img src="./assets/images/supform.png" alt="" srcset="">
+                </div>
+                <div class="modal-footer">
+                    <a type="button" class="btn btn-primary" target="_blank" href="https://drive.google.com/file/d/1chDsIkHevS52ziEZ_FhPwf5Nv9lDFg5w/view" style="color: white;">dowload</a>
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="modal fade" id="showcallforpaper" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1"
+    aria-labelledby="showcallforpaper" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h1 class="modal-title fs-5" id="staticBackdropLabel"></h1>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <img src="./assets/images/organnized/icsec2024v4.jpg" alt="" srcset="">
+            </div>
+            <div class="modal-footer">
+                <a type="button" class="btn btn-primary" target="_blank" href="https://drive.google.com/file/d/1bBxnsS_qGDyS2jXqUZJSyYJes4R7Sy41/view" style="color: white;">dowload</a>
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+            </div>
+        </div>
+    </div>
 
    
 
