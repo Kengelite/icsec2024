@@ -75,7 +75,16 @@
 .justify {
     text-align: justify;
 }
+.two-columns {
+        column-gap: 20px; /* ระยะห่างระหว่างคอลัมน์ */
+    }
 
+    /* สื่อการตอบสนองสำหรับหน้าจอคอมพิวเตอร์ */
+    @media (min-width: 768px) {
+        .two-columns {
+            columns: 2; /* แบ่งเป็น 2 คอลัมน์ */
+        }
+    }
     </style>
 </head>
 
@@ -243,7 +252,7 @@
                     <div class="section-title">
                         <h1 class="display-4 fw-semibold">International Advisory Committee</h1>
                         <div class="line"></div>
-                        <ul class="left-align justify">
+                        <ul class="left-align justify two-columns">
                             <li>Rajkumar Buyya<br>University of Melbourne, Australia</li>
                             <li>Ian F. Akyildiz<br>Georgia Institute of Technology, USA</li>
                             <li>Guang Bin Huang<br>Nanyang Technological University, Singapore</li>
@@ -285,7 +294,7 @@
                     <div class="section-title">
                         <h1 class="display-4 fw-semibold">Advisory Committee</h1>
                         <div class="line"></div>
-                        <ul class="left-align justify">
+                        <ul class="left-align justify two-columns">
                             <li>Booncharoen Sirinaovakul<br>King Mongkutâ€™s University of Technology Thonburi, Thailand</li>
                             <li>Chai Wutiwiwatchai<br>National Electronics and Computer Technology Center, Thailand</li>
                             <li>Boonserm Kijsirikul<br>Chulalongkorn University, Thailand</li>
@@ -307,7 +316,7 @@
                     <div class="section-title">
                         <h1 class="display-4 fw-semibold">Steering Committee</h1>
                         <div class="line"></div>
-                        <ul class="left-align justify">
+                        <ul class="left-align justify two-columns">
                             <li>Anan Phonphoem<br>Kasetsart University, Thailand</li>
                             <li>Chidchanok Lursinsap<br>Chulalongkorn University, Thailand</li>
                             <li>Ekkarat Boonchieng<br>Chiang Mai University, Thailand</li>
