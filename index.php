@@ -10,7 +10,7 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/ui@4.0/dist/fancybox.css">
     <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
     <link rel="stylesheet" href="./assets/css/style.css">
-    <link rel="icon" href="./assets/images/organnized/ICSEC.png" >
+    <link rel="icon" href="./assets/images/organnized/ICSEC.png">
     <style>
         * {
             color: black;
@@ -21,12 +21,8 @@
 
 <body data-bs-spy="scroll" data-bs-target=".navbar">
 
-   <?php
-   include './menu.php';
-   ?>
-
-<?php
-    include './footer.php';
+    <?php
+    include './menu.php';
     ?>
 
     <!-- HERO -->
@@ -41,8 +37,8 @@
             <div class="carousel-item active">
                 <img src="./assets/images/silde/bg1.png" class="d-block w-100" alt="...">
                 <div class="carousel-caption d-flex h-100 align-items-center justify-content-center">
-                   <h2 style="color: white;">THE
-                    28<sup style="color: white;">TH</sup> INTERNATIONAL COMPUTER SCIENCE AND ENGINEERING CONFERENCE 2024</span></h2>
+                    <h2 style="color: white;">THE
+                        28<sup style="color: white;">TH</sup> INTERNATIONAL COMPUTER SCIENCE AND ENGINEERING CONFERENCE 2024</span></h2>
                 </div>
             </div>
             <div class="carousel-item">
@@ -139,7 +135,7 @@
                             <li>Computer Vision and Image Processing</li>
                             <li>Cryptography, Forensics, and Cyber Security</li>
                             <li>Cyber-Physical Systems</li>
-                          
+
                         </ul>
                     </div>
                     <div class="col-lg-6">
@@ -174,7 +170,7 @@
                     <div class="section-title">
                         <h1 class="display-4 fw-semibold">IMPORTANT DATES</h1>
                         <div class="line"></div>
-                               
+
                         <!-- <p>We love to craft digital experiances for brands rather than crap and more lorem ipsums and do crazy skills</p> -->
 
                     </div>
@@ -182,108 +178,108 @@
             </div>
             <div class="row justify-content-between align-items-center">
                 <div class="col-lg-6">
-                <div id="counter" class="section-padding d-flex align-items-center">
-                    <div class="container text-center">
-                        <span class="sm-title text-white" data-aos="fade-down" data-aos-delay="150">
-                            THE 28<sup style="color: white;">TH</sup> INTERNATIONAL COMPUTER SCIENCE AND ENGINEERING CONFERENCE 2024
-                        </span>
-                        <div id="countdown" class="countdown-container d-flex justify-content-center align-items-center" style="flex-wrap: wrap;">
-                            <div class="time-segment mx-2" data-aos="fade-down" data-aos-delay="150">
-                                <div>
-                                    <span class="time-label" style="color: white;">Days</span>
+                    <div id="counter" class="section-padding d-flex align-items-center">
+                        <div class="container text-center">
+                            <span class="sm-title text-white" data-aos="fade-down" data-aos-delay="150">
+                                THE 28<sup style="color: white;">TH</sup> INTERNATIONAL COMPUTER SCIENCE AND ENGINEERING CONFERENCE 2024
+                            </span>
+                            <div id="countdown" class="countdown-container d-flex justify-content-center align-items-center" style="flex-wrap: wrap;">
+                                <div class="time-segment mx-2" data-aos="fade-down" data-aos-delay="150">
+                                    <div>
+                                        <span class="time-label" style="color: white;">Days</span>
+                                    </div>
+                                    <span id="days" style="color: white;" class="time-value">00</span>
                                 </div>
-                                <span id="days" style="color: white;" class="time-value">00</span>
-                            </div>
-                            <div class="time-segment mx-2" data-aos="fade-down" data-aos-delay="150">
-                                <div>
-                                    <span class="time-label" style="color: white;">Hours</span>
+                                <div class="time-segment mx-2" data-aos="fade-down" data-aos-delay="150">
+                                    <div>
+                                        <span class="time-label" style="color: white;">Hours</span>
+                                    </div>
+                                    <span id="hours" style="color: white;" class="time-value">00</span>
                                 </div>
-                                <span id="hours" style="color: white;" class="time-value">00</span>
-                            </div>
-                            <div class="time-segment mx-2" data-aos="fade-down" data-aos-delay="150">
-                                <div>
-                                    <span class="time-label" style="color: white;">Minutes</span>
+                                <div class="time-segment mx-2" data-aos="fade-down" data-aos-delay="150">
+                                    <div>
+                                        <span class="time-label" style="color: white;">Minutes</span>
+                                    </div>
+                                    <span id="minutes" style="color: white;" class="time-value">00</span>
                                 </div>
-                                <span id="minutes" style="color: white;" class="time-value">00</span>
-                            </div>
-                            <div class="time-segment mx-2" data-aos="fade-down" data-aos-delay="150">
-                                <div>
-                                    <span class="time-label" style="color: white;">Seconds</span>
+                                <div class="time-segment mx-2" data-aos="fade-down" data-aos-delay="150">
+                                    <div>
+                                        <span class="time-label" style="color: white;">Seconds</span>
+                                    </div>
+                                    <span id="seconds" style="color: white;" class="time-value">00</span>
                                 </div>
-                                <span id="seconds" style="color: white;" class="time-value">00</span>
                             </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-6">
-                <div data-aos="fade-down" data-aos-delay="150" class="row">
-                    <div class="col-lg-6">
-                    <div class="d-flex mb-2 mt-2">
-                        <div class="iconbox me-4">
-                            <i class="ri-calendar-2-line"></i>
-                        </div>
-                        <div>
-                            <h5>Proposal due for special sessions </h5>
-                            <p> 30 April 2024</p>
-                        </div>
-                    </div>
-                    <div class="d-flex mb-2">
-                        <div class="iconbox me-4">
-                            <i class="ri-calendar-2-line"></i>
-                        </div>
-                        <div>
-                            <h5>Paper submission deadline </h5>
-                            <p>14 June 2024 (Round 1)
-                                <br>12 July 2024 (Round 2)
-                            </p>
-                        </div>
-                    </div>
-                    <div class="d-flex mb-2">
-                        <div class="iconbox me-4">
-                            <i class="ri-calendar-2-line"></i>
-                        </div>
-                        <div>
-                            <h5>Notification of acceptance</h5>
-                            <p>16 August 2024 (Round 1)
-                                <br>
-                                13 September 2024 (Round 2)
-                            </p>
-
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-6">
-                    <div class="d-flex mb-2">
-                        <div class="iconbox me-4">
-                            <i class="ri-calendar-2-line"></i>
+                    <div data-aos="fade-down" data-aos-delay="150" class="row">
+                        <div class="col-lg-6">
+                            <div class="d-flex mb-2 mt-2">
+                                <div class="iconbox me-4">
+                                    <i class="ri-calendar-2-line"></i>
+                                </div>
+                                <div>
+                                    <h5>Proposal due for special sessions </h5>
+                                    <p> 30 April 2024</p>
+                                </div>
+                            </div>
+                            <div class="d-flex mb-2">
+                                <div class="iconbox me-4">
+                                    <i class="ri-calendar-2-line"></i>
+                                </div>
+                                <div>
+                                    <h5>Paper submission deadline </h5>
+                                    <p>14 June 2024 (Round 1)
+                                        <br>12 July 2024 (Round 2)
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="d-flex mb-2">
+                                <div class="iconbox me-4">
+                                    <i class="ri-calendar-2-line"></i>
+                                </div>
+                                <div>
+                                    <h5>Notification of acceptance</h5>
+                                    <p>16 August 2024 (Round 1)
+                                        <br>
+                                        13 September 2024 (Round 2)
+                                    </p>
+
+                                </div>
+                            </div>
                         </div>
-                        <div>
-                            <h5>Camera Ready Submission Deadline </h5>
-                            <p>16 August – 30 September 2024</p>
-                        </div>
-                    </div>
-                    <div class="d-flex mb-2">
-                        <div class="iconbox me-4">
-                            <i class="ri-calendar-2-line"></i>
-                        </div>
-                        <div>
-                            <h5>Registration </h5>
-                            <p>16 August – 31 October 2024</p>
-                        </div>
-                    </div>
-                    <div class="d-flex mb-2">
-                        <div class="iconbox me-4">
-                            <i class="ri-calendar-2-line"></i>
-                        </div>
-                        <div>
-                            <h5>Conference dates </h5>
-                            <p>6 – 8 November 2024</p>
+                        <div class="col-lg-6">
+                            <div class="d-flex mb-2">
+                                <div class="iconbox me-4">
+                                    <i class="ri-calendar-2-line"></i>
+                                </div>
+                                <div>
+                                    <h5>Camera Ready Submission Deadline </h5>
+                                    <p>16 August – 30 September 2024</p>
+                                </div>
+                            </div>
+                            <div class="d-flex mb-2">
+                                <div class="iconbox me-4">
+                                    <i class="ri-calendar-2-line"></i>
+                                </div>
+                                <div>
+                                    <h5>Registration </h5>
+                                    <p>16 August – 31 October 2024</p>
+                                </div>
+                            </div>
+                            <div class="d-flex mb-2">
+                                <div class="iconbox me-4">
+                                    <i class="ri-calendar-2-line"></i>
+                                </div>
+                                <div>
+                                    <h5>Conference dates </h5>
+                                    <p>6 – 8 November 2024</p>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>
-                </div>
-            </div>
             </div>
         </div>
     </section>
@@ -327,8 +323,7 @@
                             readers and authors. The journal aims to publish high quality research works related to
                             engineering and applied science disciplines.</p>
                         <p>Scopus Q2</p>
-                        <p><a
-                                href="https://ph01.tci-thaijo.org/index.php/easr">https://ph01.tci-thaijo.org/index.php/easr</a>
+                        <p><a href="https://ph01.tci-thaijo.org/index.php/easr">https://ph01.tci-thaijo.org/index.php/easr</a>
                         </p>
                         <p>2539-6161 print</p>
                         <p>2539-6218 online</p>
@@ -336,15 +331,14 @@
                 </div>
                 <div class="row  ms-1 mt-4" style="background-color: rgb(237, 237, 237); border-radius: .5rem;">
                     <div class="col-lg-4 col-md-4 my-3">
-                        <img src="./assets/images/journal/Cover.png" width="100%"  alt="" srcset="">
+                        <img src="./assets/images/journal/Cover.png" width="100%" alt="" srcset="">
                     </div>
                     <div class="col-lg-7 col-md-7 m-3">
                         <h3>Journal of Internet Technology (JIT)</h3>
                         <p>accepts original technical articles in all disciplines of Internet Technology and
                             Applications.</p>
                         <p>Scopus Q3</p>
-                        <p><a
-                                href="https://ph01.tci-thaijo.org/index.php/easr">https://ph01.tci-thaijo.org/index.php/easr</a>
+                        <p><a href="https://ph01.tci-thaijo.org/index.php/easr">https://ph01.tci-thaijo.org/index.php/easr</a>
                         </p>
                         <p>2539-6161 print</p>
                         <p>2539-6218 online</p>
@@ -405,63 +399,7 @@
     ?>
 
 
-    <!-- Modal -->
-    <div class="modal fade" id="showcallforsupportus" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1"
-        aria-labelledby="showcallforsupportus" aria-hidden="true">
-        <div class="modal-dialog">
-            <div class="modal-content">
-                <div class="modal-header">
-                    <h1 class="modal-title fs-5" id="staticBackdropLabel">Support Us</h1>
-                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-                </div>
-                <div class="modal-body">
-                    <img src="./assets/images/sponsorus.jpg" alt="" srcset="">
-                </div>
-                <div class="modal-footer">
-                    <a type="button" class="btn btn-primary" target="_blank" href="https://drive.google.com/file/d/122fdTfBbD0QN1bvRtCPpIvuni6LgBux9/view" style="color: white;">dowload</a>
-                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
-                </div>
-            </div>
-        </div>
-    </div>
 
-    <div class="modal fade" id="showcallforSponsorship" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1"
-        aria-labelledby="showcallforSponsorship" aria-hidden="true">
-        <div class="modal-dialog">
-            <div class="modal-content">
-                <div class="modal-header">
-                    <h1 class="modal-title fs-5" id="staticBackdropLabel">Sponsorship Form</h1>
-                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-                </div>
-                <div class="modal-body">
-                    <img src="./assets/images/supform.png" alt="" srcset="">
-                </div>
-                <div class="modal-footer">
-                    <a type="button" class="btn btn-primary" target="_blank" href="https://drive.google.com/file/d/1chDsIkHevS52ziEZ_FhPwf5Nv9lDFg5w/view" style="color: white;">dowload</a>
-                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
-                </div>
-            </div>
-        </div>
-    </div>
-
-    <div class="modal fade" id="showcallforpaper" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1"
-    aria-labelledby="showcallforpaper" aria-hidden="true">
-    <div class="modal-dialog">
-        <div class="modal-content">
-            <div class="modal-header">
-                <h1 class="modal-title fs-5" id="staticBackdropLabel"></h1>
-                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-            </div>
-            <div class="modal-body">
-                <img src="./assets/images/organnized/icsec2024v4.jpg" alt="" srcset="">
-            </div>
-            <div class="modal-footer">
-                <a type="button" class="btn btn-primary" target="_blank" href="https://drive.google.com/file/d/1bBxnsS_qGDyS2jXqUZJSyYJes4R7Sy41/view" style="color: white;">dowload</a>
-                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
-            </div>
-        </div>
-    </div>
-</div>
 
 
     <script>
@@ -492,7 +430,6 @@
 
         // Update the countdown every second
         const countdownInterval = setInterval(updateCountdown, 1000);
-
     </script>
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
