@@ -21,16 +21,11 @@
 
 <body data-bs-spy="scroll" data-bs-target=".navbar">
 
-<<<<<<< HEAD
+
     <?php
     include './menu.php';
     ?>
-=======
-   <?php
-   include './menu.php';
-   ?>
 
->>>>>>> origin/main
 
     <!-- HERO -->
     <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
