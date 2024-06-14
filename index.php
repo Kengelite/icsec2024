@@ -25,9 +25,6 @@
    include './menu.php';
    ?>
 
-<?php
-    include './footer.php';
-    ?>
 
     <!-- HERO -->
     <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
@@ -462,6 +459,7 @@
         </div>
     </div>
 </div>
+
 
 
     <script>
