@@ -54,97 +54,9 @@
 
 <body data-bs-spy="scroll" data-bs-target=".navbar">
 
-    <!-- NAVBAR -->
-    <nav class="navbar navbar-expand-lg bg-white sticky-top">
-        <div class="container">
-            <a class="navbar-brand" href="./index.html"><img
-                src="./assets/images/organnized/ICSEC.png" width="100" alt=""></a>
-        <a class="navbar-brand" href="https://kku.ac.th/"><img
-                src="./assets/images/organnized/1.png" width="80"
-                alt=""></a>
-        <a class="navbar-brand"
-            href="https://computing.kku.ac.th/index"><img
-                src="./assets/images/organnized/2.png" width="100" alt=""></a>
-
-
-
-
-
-            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
-                aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-                <span class="navbar-toggler-icon"></span>
-            </button>
-            <div class="collapse navbar-collapse" id="navbarNav">
-                <ul class="navbar-nav ms-auto">
-                    <li class="nav-item">
-                        <a class="nav-link" id="home_index" href="./index.html">HOME</a>
-                    </li>
-                    <li class="nav-item dropdown">
-                        <div class="nav-link dropdown-toggle" id="navbarDropdown_icsec" role="button"
-                            data-bs-toggle="dropdown" aria-expanded="false">
-                            ICSEC2024
-                        </div>
-                        <div class="dropdown-menu" aria-labelledby="navbarDropdown_icsec">
-                            <a class="dropdown-item" href="./about.html">About</a>
-                            <a class="dropdown-item" data-bs-toggle="modal" data-bs-target="#showcallforpaper">Call
-                                for Papers</a>
-                            <a class="dropdown-item" href="./special_session.html">Special Sessions</a>
-                            <!-- <a class="dropdown-item" href="./Invitedspeakers">Invited speakers</a>-->
-                            <a class="dropdown-item" href="./committee.html">Committee</a>
-                            <a class="dropdown-item" href="./reviewer.html">Reviewer</a>
-                            <!-- More sub-committee links can be added here -->
-                        </div>
-                    </li>
-                    <li class="nav-item dropdown">
-                        <div class="nav-link dropdown-toggle" id="navbarDropdown_submission" role="button"
-                            data-bs-toggle="dropdown" aria-expanded="false">
-                            Submissions
-                        </div>
-                        <div class="dropdown-menu" aria-labelledby="navbarDropdown_submission">
-                            <a class="dropdown-item" href="./submission.html">Submission Guideline</a>
-                            <a class="dropdown-item"
-                                href="https://edas.info/newPaper.php?c=32081&amp;track=122516"
-                                target="_blank">Submit Your Paper</a>
-                            <a class="dropdown-item" href="./RegistrationFee.html">Registration Fee</a>
-                        </div>
-                    </li>
-
-                    <li class="nav-item dropdown">
-                        <div class="nav-link dropdown-toggle" id="navbarDropdown_program" role="button"
-                            data-bs-toggle="dropdown" aria-expanded="false">
-                            Program
-                        </div>
-                        <div class="dropdown-menu" aria-labelledby="navbarDropdown_submission">
-                            <a class="dropdown-item" href="./keynote.html">Keynote Speakers</a>
-                            <a class="dropdown-item" href="./invited.html">Invited Speakers</a>
-                            <a class="dropdown-item" href="./tutorials.html">Tutorials</a>
-                            <a class="dropdown-item" href="./workshops.html">Workshops</a>
-                            <!-- <a class="dropdown-item" href="./schedules">Schedules</a> -->
-                        </div>
-                    </li>
-
-
-                    <li class="nav-item dropdown">
-                        <div class="nav-link dropdown-toggle" id="navbarDropdown_venues" role="button"
-                            data-bs-toggle="dropdown" aria-expanded="false">
-                            Venues
-                        </div>
-                        <div class="dropdown-menu" aria-labelledby="navbarDropdown_venues">
-                            <a class="dropdown-item" href="./accommodations.html">Accommodations</a>
-                            <a class="dropdown-item" href="./transportation.html">Transportation</a>
-                            <a class="dropdown-item" href="./attractions.html">Attractions</a>
-                        </div>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link active" id="stdgrants" href="./stdgrants.html">Student Grants</a>
-                    </li>
-                    <!-- <li class="nav-item">
-                        <a class="nav-link" id="contacts" href="./contact">Contact us</a>
-                    </li> -->
-                </ul>
-            </div>
-        </div>
-    </nav>
+<?php
+   include './menu.php';
+   ?>
 
     <!-- HERO -->
     <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
@@ -272,82 +184,9 @@
 
     <!-- SERVICES -->
 
-
-<!-- FOOTER -->
-<footer style="background-color: #032738;">
-    <div class="footer-top">
-        <div class="container">
-            <div class="row gy-5">
-                <div class="col-lg-4 col-sm-6">
-                    <a class="navbar-brand" href="./index.html">
-                        <img src="./assets/images/logo2024.png"
-                            width="160" alt="">
-                    </a>
-                    <div class="line"></div>
-                    <p>College of Computing, Khon Kaen University.
-                        <br>123 Vidhayavibaj Building,
-                        Mitraparp road Muang District,
-                        Khon Kaen 40002
-                    </p>
-                    <div class="social-icons">
-                        <a
-                            href="https://www.facebook.com/computing.kku"><i
-                                class="ri-facebook-fill" style="color: white;"></i></a>
-                        
-                    </div>
-                </div>
-
-
-                <div class="col-lg-3 col-sm-6">
-                    <h5 class="mb-0 text-white">CONTACT</h5>
-                    <div class="line"></div>
-                    <ul>
-                        <li><a href="#" onmouseover="this.style.color='white'"
-                                onmouseout="this.style.color='rgba(255,255,255,0.7)'">
-                                <i class="ri-mail-fill text-white"></i> icsec2024@kku.ac.th</a></li>
-                    </ul>
-
-                    <h5 class="mb-0 text-white">Last Updated:</h5>
-                    <div class="line"></div>
-                    <ul>
-                        <li> April 20, 2024 2:25 PM</li>
-                    </ul>
-
-
-                </div>
-
-                <div class="col-lg-3 col-sm-6">
-                    <h5 class="mb-0 text-white">SPONSOR</h5>
-                    <div class="line"></div>
-                    <ul>
-                        <li>
-                            <div style="cursor: pointer;color: white;"   data-bs-toggle="modal"
-                                data-bs-target="#showcallforsupportus">Support Us</div>
-                        </li>
-                        <li>
-                            <div style="cursor: pointer;color: white;"   data-bs-toggle="modal"
-                                data-bs-target="#showcallforSponsorship">Sponsorship Form</div>
-                        </li>
-                    </ul>
-
-
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="footer-bottom">
-        <div class="container">
-            <div class="row g-4 justify-content-center">
-                <div class="col-auto">
-                    <p class="mb-0">© Copyright by <a
-                            href="https://computing.kku.ac.th/">College
-                            of Computing KKU</a></p>
-
-                </div>
-            </div>
-        </div>
-    </div>
-</footer>
+    <?php
+    include './footer.php';
+    ?>
 
 
     <!-- Modal -->

@@ -60,96 +60,9 @@
 
 <body data-bs-spy="scroll" data-bs-target=".navbar">
 
-    <!-- NAVBAR -->
-    <nav class="navbar navbar-expand-lg bg-white sticky-top">
-        <div class="container">
-            <a class="navbar-brand" href="./index.html"><img
-                src="./assets/images/organnized/ICSEC.png" width="100" alt=""></a>
-        <a class="navbar-brand" href="https://kku.ac.th/"><img
-                src="./assets/images/organnized/1.png" width="80"
-                alt=""></a>
-        <a class="navbar-brand"
-            href="https://computing.kku.ac.th/index"><img
-                src="./assets/images/organnized/2.png" width="100" alt=""></a>
-
-
-
-
-            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
-                aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-                <span class="navbar-toggler-icon"></span>
-            </button>
-            <div class="collapse navbar-collapse" id="navbarNav">
-                <ul class="navbar-nav ms-auto">
-                    <li class="nav-item">
-                        <a class="nav-link" href="./index.html">HOME</a>
-                    </li>
-                    <li class="nav-item dropdown">
-                        <div class="nav-link dropdown-toggle " id="navbarDropdown_icsec" role="button"
-                            data-bs-toggle="dropdown" aria-expanded="false">
-                            ICSEC2024
-                        </div>
-                        <div class="dropdown-menu" aria-labelledby="navbarDropdown_icsec">
-                            <a class="dropdown-item " href="./about.html">About</a>
-                            <a class="dropdown-item" data-bs-toggle="modal" data-bs-target="#showcallforpaper">Call
-                                for Papers</a>
-                            <a class="dropdown-item" href="./special_session.html">Special Sessions</a>
-                            <!-- <a class="dropdown-item" href="./Invitedspeakers">Invited speakers</a>-->
-                            <a class="dropdown-item" href="./committee.html">Committee</a>
-                            <a class="dropdown-item" href="./reviewer.html">Reviewer</a>
-                            <!-- More sub-committee links can be added here -->
-                        </div>
-                    </li>
-                    <li class="nav-item dropdown">
-                        <div class="nav-link dropdown-toggle" id="navbarDropdown_submission" role="button"
-                            data-bs-toggle="dropdown" aria-expanded="false">
-                            Submissions
-                        </div>
-                        <div class="dropdown-menu" aria-labelledby="navbarDropdown_submission">
-                            <a class="dropdown-item" href="./submission.html">Submission Guideline</a>
-                            <a class="dropdown-item"
-                                href="https://edas.info/newPaper.php?c=32081&amp;track=122516"
-                                target="_blank">Submit Your Paper</a>
-                            <a class="dropdown-item" href="./RegistrationFee.html">Registration Fee</a>
-                        </div>
-                    </li>
-
-                    <li class="nav-item dropdown">
-                        <div class="nav-link dropdown-toggle" id="navbarDropdown_program" role="button"
-                            data-bs-toggle="dropdown" aria-expanded="false">
-                            Program
-                        </div>
-                        <div class="dropdown-menu" aria-labelledby="navbarDropdown_submission">
-                            <a class="dropdown-item" href="./keynote.html">Keynote Speakers</a>
-                            <a class="dropdown-item" href="./invited.html">Invited Speakers</a>
-                            <a class="dropdown-item" href="./tutorials.html">Tutorials</a>
-                            <a class="dropdown-item" href="./workshops.html">Workshops</a>
-                            <!-- <a class="dropdown-item" href="./schedules">Schedules</a> -->
-                        </div>
-                    </li>
-
-
-                    <li class="nav-item dropdown">
-                        <div class="nav-link dropdown-toggle active" id="navbarDropdown_venues" role="button"
-                            data-bs-toggle="dropdown" aria-expanded="false">
-                            Venues
-                        </div>
-                        <div class="dropdown-menu" aria-labelledby="navbarDropdown_venues">
-                            <a class="dropdown-item " href="./accommodations.html">Accommodations</a>
-                            <a class="dropdown-item active" href="./transportation.html">Transportation</a>
-                            <a class="dropdown-item " href="./attractions.html">Attractions</a>
-                        </div>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" id="stdgrants" href="./stdgrants.html">Student Grants</a>
-                    </li>
-                    <!-- <li class="nav-item">
-                        <a class="nav-link" id="contacts" href="./contact">Contact us</a>
-                    </li> -->
-                </ul>
-            </div>
-        </div>
-    </nav>
+<?php
+   include './menu.php';
+   ?>
 
     <!-- HERO -->
     <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
@@ -163,25 +76,25 @@
             <div class="carousel-item active">
                 <img src="./assets/images/silde/bg1.png" class="d-block w-100" alt="...">
                 <div class="carousel-caption d-flex h-100 align-items-center justify-content-center">
-                   <h2 style="color: white;">TRANSPORTATION</h2>
+                   <h2 style="color: white;">ATTRACTION</h2>
                 </div>
             </div>
             <div class="carousel-item">
                 <img src="./assets/images/silde/bg2.png" class="d-block w-100" alt="...">
                 <div class="carousel-caption d-flex h-100 align-items-center justify-content-center">
-                    <h2 style="color: white;">TRANSPORTATION</h2>
+                    <h2 style="color: white;">ATTRACTION</h2>
                 </div>
             </div>
             <div class="carousel-item">
                 <img src="./assets/images/silde/bg3.png" class="d-block w-100" alt="...">
                 <div class="carousel-caption d-flex h-100 align-items-center justify-content-center">
-                    <h2 style="color: white;">TRANSPORTATION</h2>
+                    <h2 style="color: white;">ATTRACTION</h2>
                 </div>
             </div>
             <div class="carousel-item">
                 <img src="./assets/images/silde/bg4.png" class="d-block w-100" alt="...">
                 <div class="carousel-caption d-flex h-100 align-items-center justify-content-center">
-                    <h2 style="color: white;">TRANSPORTATION</h2>
+                    <h2 style="color: white;">ATTRACTION</h2>
                 </div>
             </div>
         </div>
@@ -202,7 +115,7 @@
             <div class="row">
                 <div class="col-12 text-center" data-aos="fade-down" data-aos-delay="50">
                     <div class="section-title">
-                        <h1 class="display-4 fw-semibold">TRANSPORTATION</h1>
+                        <h1 class="display-4 fw-semibold">ATTRACTION</h1>
                         <div class="line"></div>
                     </div>
                 </div>
@@ -210,32 +123,35 @@
             <div class="row">
                 <div class="col-lg-6">
                     <!-- ข้อความข้างๆรูปภาพ -->
-                    <h2>Khon Kaen International Airport</h2>
+                    <h2>Phra Mahathat Kaen Nakhon</h2>
                     <p class="about-text" style="text-align: justify;">
-                      The airport has seen an annual growth rate of 20 percent annually since 2013, handling around two
-                        million passengers in 2017. The Department of Airports (DOA) has signed a memorandum of
-                        understanding (MOU) to upgrade Khon Kaen Airport by 2021. The two billion baht project will increase
-                        passenger capacity from 2.8 million to five million per year. The terminal will be expanded from
-                        16,500 m2 to 44,500 m2 to accommodate 1,000–2,000 passengers per hour.
+                      Phra Mahathat Kaen Nakhon or Phra That Kao Chan is a reinforced concrete building made of brick and
+                        cement. It has a pagoda-shaped top. At the top of the pagoda you can see views of Bueng Kaen Nakhon
+                        and Khon Kaen city. Phra That Kaen Nakhon is 80 meters high with 4 Phra Chulathat located at 4
+                        corners and surrounded by a 7-headed Naga glass wall. It is an art form of the Dvaravati period.
+                        Mixing Indochina arts Inside the Phra That there are 9 floors. And inside the floor will be covered
+                        with marble.
+                        <br>
+                          Tourists can visit inside. Phra Mahathat Kaen Nakhon has a total of 9 floors, with every floor
+                        having different beauty and interest. The top floor will house the Buddha's relics. For example, the
+                        first floor will be interesting. It looks like an auditorium. There are 4 main Buddha images
+                        enshrined.
                     </p>
                 </div>
                 <div class="col-lg-6">
                     <div id="myCarousel" class="carousel slide carousel-fade" data-bs-ride="carousel">
                         <div class="carousel-inner" data-bs-interval="50">
                             <div class="carousel-item active">
-                                <img src="./assets/images/Airport1.png" class="d-block " alt="...">
+                                <img src="./assets/images/PraMahathatKaenNakhon.jpg" class="d-block " alt="...">
                             </div>
                             <div class="carousel-item">
-                                <img src="./assets/images/Airport2.png" class="d-block " alt="...">
+                                <img src="./assets/images/PraMahathatKaenNakhon2.jpg" class="d-block " alt="...">
                             </div>
                             <div class="carousel-item">
-                                <img src="./assets/images/Airport3.png" class="d-block " alt="...">
+                                <img src="./assets/images/PraMahathatKaenNakhon3.jpg" class="d-block " alt="...">
                             </div>
                             <div class="carousel-item">
-                                <img src="./assets/images/Airport4.png" class="d-block " alt="...">
-                            </div>
-                            <div class="carousel-item">
-                                <img src="./assets/images/Airport5.png" class="d-block " alt="...">
+                                <img src="./assets/images/PraMahathatKaenNakhon4.jpg" class="d-block " alt="...">
                             </div>
                         </div>
                         <button class="carousel-control-prev" type="button" data-bs-target="#myCarousel"
@@ -257,19 +173,19 @@
                     <div id="myCarousel2" class="carousel slide carousel-fade" data-bs-ride="carousel">
                         <div class="carousel-inner" data-bs-interval="50">
                             <div class="carousel-item active">
-                                <img src="./assets/images/railway1.png" class="d-block " alt="...">
+                                <img src="./assets/images/Phutthabat.jpg" class="d-block " alt="...">
                             </div>
                             <div class="carousel-item">
-                                <img src="./assets/images/railway2.png" class="d-block " alt="...">
+                                <img src="./assets/images/Phutthabat2.jpg" class="d-block " alt="...">
                             </div>
                             <div class="carousel-item">
-                                <img src="./assets/images/railway3.png" class="d-block " alt="...">
+                                <img src="./assets/images/Phutthabat3.jpg" class="d-block " alt="...">
                             </div>
                             <div class="carousel-item">
-                                <img src="./assets/images/railway4.png" class="d-block " alt="...">
+                                <img src="./assets/images/Phutthabat4.jpg" class="d-block " alt="...">
                             </div>
                             <div class="carousel-item">
-                                <img src="./assets/images/railway5.png" class="d-block " alt="...">
+                                <img src="./assets/images/Phutthabat5.jpg" class="d-block " alt="...">
                             </div>
                         </div>
                         <button class="carousel-control-prev" type="button" data-bs-target="#myCarousel2"
@@ -286,14 +202,21 @@
                 </div>
                 <div class="col-lg-6">
                     <!-- ข้อความข้างๆรูปภาพ -->
-                    <h2 class="about-text">Khon Kaen Railway Station</h2>
+                    <h2 class="about-text">Wat Phra Phutthabat Phu Phan Kham</h2>
                     <p class="about-text" style="text-align: justify;">
-                      Khon Kaen railway station is a railway station located in Nai Mueang Subdistrict, Khon Kaen City,
-                        Khon Kaen. It is a class 1 railway station located 449.752 km (279.5 mi) from Bangkok railway
-                        station. The station opened on April 1, 1933, as part of the Northeastern Line Nakhon
-                        Ratchasima–Khon Kaen section. On June 24, 1941, the line extended to Udon Thani. The station was
-                        rebuilt as the first elevated station of Northeastern region in 2019, with the Thanon Chira
-                        Junction–Khon Kaen double-track railway project.
+                      Wat Phra Phutthabat Phu Phan Kham It is a temple located on the top of Phu Phan Kham Mountain. To go
+                        up to worship Luang Pho Khao which is enshrined on the top of Phu Phan Kham mountain. You have to
+                        walk up 1049 steps. It is a test of your willpower, faith, and determination in conquering the
+                        Phuphan Kham Mountain. At the entrance to the stairs is a 7-headed Nagarat statue with a pipe all
+                        the way to the top. Along the path there are lush green trees.
+                        <br>
+                          Wat Phra Phutthabat Phu Phan Kham It is one of the temples located on a mountain that has one of the
+                        largest Buddha statues in Khon Kaen Province, Phra Buddha Uttaramahamongkol Ubon Ratchathani.
+                        Villagers often call him Luang Pho Khao or Luang Pho Phu Phan Kham. Big white Buddha statue The
+                        monks rested in admiration. People flock to worship and pray for blessings and prosperity in life.
+                        There are not many. In the area below Luang Por Khao, there are still places of worship. Let's make
+                        a wish too.
+    
                     </p>
                 </div>
             </div>
@@ -301,30 +224,38 @@
             <div class="row">
                 <div class="col-lg-6">
                     <!-- ข้อความข้างๆรูปภาพ -->
-                    <h2>Bus Terminal no.3 Khon Kaen</h2>
+                    <h2>Ton Tann Green Market</h2>
                     <p class="about-text" style="text-align: justify;">
-                      The 3rd Provincial Bus Terminal of Khon Kaen, also known as "BKS 3," is a well-known transportation
-                        hub. It is considered one of the most modern and less congested bus terminals because it is located
-                        approximately 8 kilometers away from the city center. The 3rd Provincial Bus Terminal of Khon Kaen
-                        provides long-distance bus services to various destinations, including Bangkok to Khon Kaen and
-                        Chiang Mai to Khon Kaen. Additionally, it offers direct bus services from Khon Kaen to Vientiane,
-                        the capital of Laos.
+                      Check out this cool new shopping spot in Khon Kaen! It's all about creating a chill vibe, perfect
+                        for those post-work evenings. Imagine a place where art lovers, collectors, and inventors can hang
+                        out and showcase their stuff. They've got storytelling sessions, drama performances, dance shows,
+                        photography exhibits, and even street performances. It's not just about shopping; it's a cool space
+                        for people with similar interests to connect. Classic car and big bike crews often drop by to flaunt
+                        their wheels and swap ideas. If you're into a laid-back shopping scene and good vibes, this is the
+                        spot for you!
+    
                     </p>
                 </div>
                 <div class="col-lg-6">
                     <div id="myCarousel3" class="carousel slide carousel-fade" data-bs-ride="carousel">
                         <div class="carousel-inner" data-bs-interval="50">
                             <div class="carousel-item active">
-                                <img src="./assets/images/terminal1.png" class="d-block " alt="...">
+                                <img src="./assets/images/tontan.jpg" class="d-block " alt="...">
                             </div>
                             <div class="carousel-item">
-                                <img src="./assets/images/terminal2.png" class="d-block " alt="...">
+                                <img src="./assets/images/tontan2.jpg" class="d-block " alt="...">
                             </div>
                             <div class="carousel-item">
-                                <img src="./assets/images/terminal3.png" class="d-block " alt="...">
+                                <img src="./assets/images/tontan3.jpg" class="d-block " alt="...">
                             </div>
                             <div class="carousel-item">
-                                <img src="./assets/images/terminal4.png" class="d-block " alt="...">
+                                <img src="./assets/images/tontan4.jpg" class="d-block " alt="...">
+                            </div>
+                            <div class="carousel-item">
+                                <img src="./assets/images/tontan5.jpg" class="d-block " alt="...">
+                            </div>
+                            <div class="carousel-item">
+                                <img src="./assets/images/tontan6.jpg" class="d-block " alt="...">
                             </div>
                         </div>
                         <button class="carousel-control-prev" type="button" data-bs-target="#myCarousel3"
@@ -345,6 +276,7 @@
         </div>
     </section>
     
+
     <!-- Optional JavaScript -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.bundle.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/@fancyapps/ui@4.0/dist/fancybox.umd.js"></script>
@@ -356,81 +288,9 @@
         });
     </script>
 
-<!-- FOOTER -->
-      <footer style="background-color: #032738;">
-        <div class="footer-top">
-            <div class="container">
-                <div class="row gy-5">
-                    <div class="col-lg-4 col-sm-6">
-                        <a class="navbar-brand" href="./index.html">
-                            <img src="./assets/images/logo2024.png"
-                                width="160" alt="">
-                        </a>
-                        <div class="line"></div>
-                        <p>College of Computing, Khon Kaen University.
-                            <br>123 Vidhayavibaj Building,
-                            Mitraparp road Muang District,
-                            Khon Kaen 40002
-                        </p>
-                        <div class="social-icons">
-                            <a
-                                href="https://www.facebook.com/computing.kku"><i
-                                    class="ri-facebook-fill" style="color: white;"></i></a>
-                            
-                        </div>
-                    </div>
-
-
-                    <div class="col-lg-3 col-sm-6">
-                        <h5 class="mb-0 text-white">CONTACT</h5>
-                        <div class="line"></div>
-                        <ul>
-                            <li><a href="#" onmouseover="this.style.color='white'"
-                                    onmouseout="this.style.color='rgba(255,255,255,0.7)'">
-                                    <i class="ri-mail-fill text-white"></i> icsec2024@kku.ac.th</a></li>
-                        </ul>
-
-                        <h5 class="mb-0 text-white">Last Updated:</h5>
-                        <div class="line"></div>
-                        <ul>
-                            <li> April 20, 2024 2:25 PM</li>
-                        </ul>
-
-
-                    </div>
-
-                    <div class="col-lg-3 col-sm-6">
-                        <h5 class="mb-0 text-white">SPONSOR</h5>
-                        <div class="line"></div>
-                        <ul>
-                            <li>
-                                <div style="cursor: pointer;color: white;"   data-bs-toggle="modal"
-                                    data-bs-target="#showcallforsupportus">Support Us</div>
-                            </li>
-                            <li>
-                                <div style="cursor: pointer;color: white;"   data-bs-toggle="modal"
-                                    data-bs-target="#showcallforSponsorship">Sponsorship Form</div>
-                            </li>
-                        </ul>
-
-
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="footer-bottom">
-            <div class="container">
-                <div class="row g-4 justify-content-center">
-                    <div class="col-auto">
-                        <p class="mb-0">© Copyright by <a
-                                href="https://computing.kku.ac.th/">College
-                                of Computing KKU</a></p>
-
-                    </div>
-                </div>
-            </div>
-        </div>
-    </footer>
+<?php
+    include './footer.php';
+    ?>
 
 
 <!-- Modal -->

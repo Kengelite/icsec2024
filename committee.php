@@ -13,9 +13,10 @@
     <link rel="stylesheet" href="./assets/css/style.css">
     <link rel="icon" href="./assets/images/organnized/ICSEC.png" type="image/gif" sizes="16x16">
     <style>
-        *{
+        * {
             color: black;
         }
+
         .section-title {
             text-align: center;
         }
@@ -26,160 +27,94 @@
 
         /* Lower the text size of the name */
         .image-bio-container h4 {
-            font-size: 18px; /* Adjust the size as needed */
+            font-size: 18px;
+            /* Adjust the size as needed */
         }
 
         /* Ensure proper alignment of the biography and the name */
         .biography {
-            margin-top: 20px; /* Adjust this value as needed */
+            margin-top: 20px;
+            /* Adjust this value as needed */
         }
 
         .image-container {
-            width: 100%; /* Set the desired width */
-            height: 100%; /* Set the desired height */
-            overflow: hidden; /* Hide the overflowing part of the image */
-            display: flex; /* Use flexbox */
-            justify-content: center; /* Center horizontally */
-            align-items: center; /* Center vertically */
-            margin: auto; /* Center the container itself */
+            width: 100%;
+            /* Set the desired width */
+            height: 100%;
+            /* Set the desired height */
+            overflow: hidden;
+            /* Hide the overflowing part of the image */
+            display: flex;
+            /* Use flexbox */
+            justify-content: center;
+            /* Center horizontally */
+            align-items: center;
+            /* Center vertically */
+            margin: auto;
+            /* Center the container itself */
         }
 
         .image-container img {
-            max-width: 100%; /* Ensure the image retains its aspect ratio */
-            max-height: 100%; /* Ensure the image retains its aspect ratio */
-            object-fit: cover; /* Crop the image to cover the container */
+            max-width: 100%;
+            /* Ensure the image retains its aspect ratio */
+            max-height: 100%;
+            /* Ensure the image retains its aspect ratio */
+            object-fit: cover;
+            /* Crop the image to cover the container */
         }
+
         .footer-top {
-    background-color: #032738; /* Dark blue color code */
-}
-.footer-bottom {
-    background-color: #032738; /* Dark blue color code */
-}
-
-    .text {
-        display: inline-block;
-        width: 100%;
-        text-align: justify;
-    }
-
-    .text {
-        list-style: none;
-        padding: 0;
-        margin: 0;
-    }
-    .left-align {
-    text-align: left;
-}
-
-
-.justify {
-    text-align: justify;
-}
-.two-columns {
-        column-gap: 20px; /* ระยะห่างระหว่างคอลัมน์ */
-    }
-
-    /* สื่อการตอบสนองสำหรับหน้าจอคอมพิวเตอร์ */
-    @media (min-width: 768px) {
-        .two-columns {
-            columns: 2; /* แบ่งเป็น 2 คอลัมน์ */
+            background-color: #032738;
+            /* Dark blue color code */
         }
-    }
+
+        .footer-bottom {
+            background-color: #032738;
+            /* Dark blue color code */
+        }
+
+        .text {
+            display: inline-block;
+            width: 100%;
+            text-align: justify;
+        }
+
+        .text {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+        }
+
+        .left-align {
+            text-align: left;
+        }
+
+
+        .justify {
+            text-align: justify;
+        }
+
+        .two-columns {
+            column-gap: 20px;
+            /* ระยะห่างระหว่างคอลัมน์ */
+        }
+
+        /* สื่อการตอบสนองสำหรับหน้าจอคอมพิวเตอร์ */
+        @media (min-width: 768px) {
+            .two-columns {
+                columns: 2;
+                /* แบ่งเป็น 2 คอลัมน์ */
+            }
+        }
     </style>
 </head>
 
 <body data-bs-spy="scroll" data-bs-target=".navbar">
 
-    <!-- NAVBAR -->
-    <nav class="navbar navbar-expand-lg bg-white sticky-top">
-        <div class="container">
-            <a class="navbar-brand" href="./index.html"><img
-                    src="./assets/images/organnized/ICSEC.png" width="100" alt=""></a>
-            <a class="navbar-brand" href="https://kku.ac.th/"><img
-                    src="./assets/images/organnized/1.png" width="80"
-                    alt=""></a>
-            <a class="navbar-brand"
-                href="https://computing.kku.ac.th/index"><img
-                    src="./assets/images/organnized/2.png" width="100" alt=""></a>
+    <?php
+    include './menu.php';
+    ?>
 
-
-
-
-            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
-                aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-                <span class="navbar-toggler-icon"></span>
-            </button>
-            <div class="collapse navbar-collapse" id="navbarNav">
-                <ul class="navbar-nav ms-auto">
-                    <li class="nav-item">
-                        <a class="nav-link" id="home_index" href="./index.html">HOME</a>
-                    </li>
-                    <li class="nav-item dropdown">
-                        <div class="nav-link dropdown-toggle active" id="navbarDropdown_icsec" role="button"
-                            data-bs-toggle="dropdown" aria-expanded="false">
-                            ICSEC2024
-                        </div>
-                        <div class="dropdown-menu" aria-labelledby="navbarDropdown_icsec">
-                            <a class="dropdown-item" href="./about.html">About</a>
-                            <a class="dropdown-item" data-bs-toggle="modal" data-bs-target="#showcallforpaper">Call
-                                for Papers</a>
-                            <a class="dropdown-item" href="./special_session.html">Special Sessions</a>
-                            <!-- <a class="dropdown-item" href="./Invitedspeakers">Invited speakers</a>-->
-                            <a class="dropdown-item active" href="./committee.html">Committee</a>
-                            <a class="dropdown-item" href="./reviewer.html">Reviewer</a>
-                            <!-- More sub-committee links can be added here -->
-                        </div>
-                    </li>
-                    <li class="nav-item dropdown">
-                        <div class="nav-link dropdown-toggle" id="navbarDropdown_submission" role="button"
-                            data-bs-toggle="dropdown" aria-expanded="false">
-                            Submissions
-                        </div>
-                        <div class="dropdown-menu" aria-labelledby="navbarDropdown_submission">
-                            <a class="dropdown-item" href="./submission.html">Submission Guideline</a>
-                            <a class="dropdown-item"
-                                href="https://edas.info/newPaper.php?c=32081&amp;track=122516"
-                                target="_blank">Submit Your Paper</a>
-                            <a class="dropdown-item" href="./RegistrationFee.html">Registration Fee</a>
-                        </div>
-                    </li>
-
-                    <li class="nav-item dropdown">
-                        <div class="nav-link dropdown-toggle" id="navbarDropdown_program" role="button"
-                            data-bs-toggle="dropdown" aria-expanded="false">
-                            Program
-                        </div>
-                        <div class="dropdown-menu" aria-labelledby="navbarDropdown_submission">
-                            <a class="dropdown-item" href="./keynote.html">Keynote Speakers</a>
-                            <a class="dropdown-item" href="./invited.html">Invited Speakers</a>
-                            <a class="dropdown-item" href="./tutorials.html">Tutorials</a>
-                            <a class="dropdown-item" href="./workshops.html">Workshops</a>
-                            <!-- <a class="dropdown-item" href="./schedules">Schedules</a> -->
-                        </div>
-                    </li>
-
-
-                    <li class="nav-item dropdown">
-                        <div class="nav-link dropdown-toggle" id="navbarDropdown_venues" role="button"
-                            data-bs-toggle="dropdown" aria-expanded="false">
-                            Venues
-                        </div>
-                        <div class="dropdown-menu" aria-labelledby="navbarDropdown_venues">
-                            <a class="dropdown-item" href="./accommodations.html">Accommodations</a>
-                            <a class="dropdown-item" href="./transportation.html">Transportation</a>
-                            <a class="dropdown-item" href="./attractions.html">Attractions</a>
-                        </div>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" id="stdgrants" href="./stdgrants.html">Student Grants</a>
-                    </li>
-                    <!-- <li class="nav-item">
-                        <a class="nav-link" id="contacts" href="./contact">Contact us</a>
-                    </li> -->
-                </ul>
-            </div>
-        </div>
-    </nav>
 
     <!-- HERO -->
     <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
@@ -193,7 +128,7 @@
             <div class="carousel-item active">
                 <img src="./assets/images/silde/bg1.png" class="d-block w-100" alt="...">
                 <div class="carousel-caption d-flex h-100 align-items-center justify-content-center">
-                   <h2 style="color: white;">COMMITTEE</h2>
+                    <h2 style="color: white;">COMMITTEE</h2>
                 </div>
             </div>
             <div class="carousel-item">
@@ -224,7 +159,7 @@
             <span class="visually-hidden">Next</span>
         </button>
     </div>
-    
+
     <!-- Body -->
     <!-- Honorary -->
     <section id="Honorary" class="section-padding">
@@ -326,7 +261,7 @@
                             <li>Punpiti Piamsa-nga<br>Kasetsart University, Thailand</li>
                             <li>Sartra Wongthanavasu<br>Khon Kaen University, Thailand</li>
                         </ul>
-                        
+
                     </div>
                 </div>
             </div>
@@ -451,7 +386,7 @@
             </div>
         </div>
     </section>
-    
+
     <!-- Optional JavaScript -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.bundle.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/@fancyapps/ui@4.0/dist/fancybox.umd.js"></script>
@@ -464,140 +399,65 @@
     </script>
 
 
-   <!-- FOOTER -->
-      <footer style="background-color: #032738;">
-        <div class="footer-top">
-            <div class="container">
-                <div class="row gy-5">
-                    <div class="col-lg-4 col-sm-6">
-                        <a class="navbar-brand" href="./index.html">
-                            <img src="./assets/images/logo2024.png"
-                                width="160" alt="">
-                        </a>
-                        <div class="line"></div>
-                        <p>College of Computing, Khon Kaen University.
-                            <br>123 Vidhayavibaj Building,
-                            Mitraparp road Muang District,
-                            Khon Kaen 40002
-                        </p>
-                        <div class="social-icons">
-                            <a
-                                href="https://www.facebook.com/computing.kku"><i
-                                    class="ri-facebook-fill" style="color: white;"></i></a>
-                            
-                        </div>
-                    </div>
+    <?php
+    include './footer.php';
+    ?>
 
 
-                    <div class="col-lg-3 col-sm-6">
-                        <h5 class="mb-0 text-white">CONTACT</h5>
-                        <div class="line"></div>
-                        <ul>
-                            <li><a href="#" onmouseover="this.style.color='white'"
-                                    onmouseout="this.style.color='rgba(255,255,255,0.7)'">
-                                    <i class="ri-mail-fill text-white"></i> icsec2024@kku.ac.th</a></li>
-                        </ul>
-
-                        <h5 class="mb-0 text-white">Last Updated:</h5>
-                        <div class="line"></div>
-                        <ul>
-                            <li> April 20, 2024 2:25 PM</li>
-                        </ul>
-
-
-                    </div>
-
-                    <div class="col-lg-3 col-sm-6">
-                        <h5 class="mb-0 text-white">SPONSOR</h5>
-                        <div class="line"></div>
-                        <ul>
-                            <li>
-                                <div style="cursor: pointer;color: white;"   data-bs-toggle="modal"
-                                    data-bs-target="#showcallforsupportus">Support Us</div>
-                            </li>
-                            <li>
-                                <div style="cursor: pointer;color: white;"   data-bs-toggle="modal"
-                                    data-bs-target="#showcallforSponsorship">Sponsorship Form</div>
-                            </li>
-                        </ul>
-
-
-                    </div>
+    <!-- Modal -->
+    <div class="modal fade" id="showcallforsupportus" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="showcallforsupportus" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h1 class="modal-title fs-5" id="staticBackdropLabel">Support Us</h1>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    <img src="./assets/images/sponsorus.jpg" alt="" srcset="">
+                </div>
+                <div class="modal-footer">
+                    <a type="button" class="btn btn-primary" target="_blank" href="https://drive.google.com/file/d/122fdTfBbD0QN1bvRtCPpIvuni6LgBux9/view" style="color: white;">dowload</a>
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
                 </div>
             </div>
         </div>
-        <div class="footer-bottom">
-            <div class="container">
-                <div class="row g-4 justify-content-center">
-                    <div class="col-auto">
-                        <p class="mb-0">© Copyright by <a
-                                href="https://computing.kku.ac.th/">College
-                                of Computing KKU</a></p>
+    </div>
 
-                    </div>
+    <div class="modal fade" id="showcallforSponsorship" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="showcallforSponsorship" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h1 class="modal-title fs-5" id="staticBackdropLabel">Sponsorship Form</h1>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    <img src="./assets/images/supform.png" alt="" srcset="">
+                </div>
+                <div class="modal-footer">
+                    <a type="button" class="btn btn-primary" target="_blank" href="https://drive.google.com/file/d/1chDsIkHevS52ziEZ_FhPwf5Nv9lDFg5w/view" style="color: white;">dowload</a>
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
                 </div>
             </div>
         </div>
-    </footer>
+    </div>
 
-
-<!-- Modal -->
-<div class="modal fade" id="showcallforsupportus" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1"
-    aria-labelledby="showcallforsupportus" aria-hidden="true">
-    <div class="modal-dialog">
-        <div class="modal-content">
-            <div class="modal-header">
-                <h1 class="modal-title fs-5" id="staticBackdropLabel">Support Us</h1>
-                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-            </div>
-            <div class="modal-body">
-                <img src="./assets/images/sponsorus.jpg" alt="" srcset="">
-            </div>
-            <div class="modal-footer">
-                <a type="button" class="btn btn-primary" target="_blank" href="https://drive.google.com/file/d/122fdTfBbD0QN1bvRtCPpIvuni6LgBux9/view" style="color: white;">dowload</a>
-                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+    <div class="modal fade" id="showcallforpaper" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="showcallforpaper" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h1 class="modal-title fs-5" id="staticBackdropLabel"></h1>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    <img src="./assets/images/organnized/icsec2024v4.jpg" alt="" srcset="">
+                </div>
+                <div class="modal-footer">
+                    <a type="button" class="btn btn-primary" target="_blank" href="https://drive.google.com/file/d/1bBxnsS_qGDyS2jXqUZJSyYJes4R7Sy41/view" style="color: white;">dowload</a>
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                </div>
             </div>
         </div>
     </div>
-</div>
-
-<div class="modal fade" id="showcallforSponsorship" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1"
-    aria-labelledby="showcallforSponsorship" aria-hidden="true">
-    <div class="modal-dialog">
-        <div class="modal-content">
-            <div class="modal-header">
-                <h1 class="modal-title fs-5" id="staticBackdropLabel">Sponsorship Form</h1>
-                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-            </div>
-            <div class="modal-body">
-                <img src="./assets/images/supform.png" alt="" srcset="">
-            </div>
-            <div class="modal-footer">
-                <a type="button" class="btn btn-primary" target="_blank" href="https://drive.google.com/file/d/1chDsIkHevS52ziEZ_FhPwf5Nv9lDFg5w/view" style="color: white;">dowload</a>
-                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
-            </div>
-        </div>
-    </div>
-</div>
-
-<div class="modal fade" id="showcallforpaper" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1"
-aria-labelledby="showcallforpaper" aria-hidden="true">
-<div class="modal-dialog">
-    <div class="modal-content">
-        <div class="modal-header">
-            <h1 class="modal-title fs-5" id="staticBackdropLabel"></h1>
-            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-        </div>
-        <div class="modal-body">
-            <img src="./assets/images/organnized/icsec2024v4.jpg" alt="" srcset="">
-        </div>
-        <div class="modal-footer">
-            <a type="button" class="btn btn-primary" target="_blank" href="https://drive.google.com/file/d/1bBxnsS_qGDyS2jXqUZJSyYJes4R7Sy41/view" style="color: white;">dowload</a>
-            <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
-        </div>
-    </div>
-</div>
-</div>
 </body>
 
 </html>
