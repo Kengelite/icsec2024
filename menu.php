@@ -1,6 +1,6 @@
 <nav class="navbar navbar-expand-lg bg-white sticky-top">
     <div class="container">
-        <a class="navbar-brand" href="/index"><img src="./assets/images/organnized/ICSEC.png" width="100" alt=""></a>
+        <a class="navbar-brand" href="./index.php"><img src="./assets/images/organnized/ICSEC.png" width="100" alt=""></a>
         <a class="navbar-brand" href="https://kku.ac.th/"><img src="./assets/images/organnized/1.png" width="80" alt=""></a>
         <a class="navbar-brand" href="https://computing.kku.ac.th/index"><img src="./assets/images/organnized/2.png" width="100" alt=""></a>
 
@@ -11,18 +11,18 @@
         <div class="collapse navbar-collapse" id="navbarNav">
             <ul class="navbar-nav ms-auto">
                 <li class="nav-item">
-                    <a class="nav-link" id="home_index" href="/index">HOME</a>
+                    <a class="nav-link" id="home_index" href="./index.php">HOME</a>
                 </li>
                 <li class="nav-item dropdown">
                     <div class="nav-link dropdown-toggle" id="navbarDropdown_icsec" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                         ICSEC2024
                     </div>
                     <div class="dropdown-menu" aria-labelledby="navbarDropdown_icsec">
-                        <a class="dropdown-item" href="/about">About</a>
+                        <a class="dropdown-item" href="./about.php">About</a>
                         <a class="dropdown-item" data-bs-toggle="modal" data-bs-target="#showcallforpaper" id="callForPapers">Call for Papers</a>
-                        <a class="dropdown-item" href="/special_session">Special Sessions</a>
-                        <a class="dropdown-item" href="/committee">Committee</a>
-                        <a class="dropdown-item" href="/reviewer">Reviewer</a>
+                        <a class="dropdown-item" href="./special_session.php">Special Sessions</a>
+                        <a class="dropdown-item" href="./committee.php">Committee</a>
+                        <a class="dropdown-item" href="./reviewer.php">Reviewer</a>
                     </div>
                 </li>
                 <li class="nav-item dropdown">
@@ -30,9 +30,9 @@
                         Submissions
                     </div>
                     <div class="dropdown-menu" aria-labelledby="navbarDropdown_submission">
-                        <a class="dropdown-item" href="/submission">Submission Guideline</a>
+                        <a class="dropdown-item" href="./submission.php">Submission Guideline</a>
                         <a class="dropdown-item" href="https://edas.info/newPaper.php?c=32081&amp;track=122516" target="_blank">Submit Your Paper</a>
-                        <a class="dropdown-item" href="/RegistrationFee">Registration Fee</a>
+                        <a class="dropdown-item" href="./RegistrationFee.php">Registration Fee</a>
                     </div>
                 </li>
                 <li class="nav-item dropdown">
@@ -40,10 +40,10 @@
                         Program
                     </div>
                     <div class="dropdown-menu" aria-labelledby="navbarDropdown_program">
-                        <a class="dropdown-item" href="/keynote">Keynote Speakers</a>
-                        <a class="dropdown-item" href="/invited">Invited Speakers</a>
-                        <a class="dropdown-item" href="/tutorials">Tutorials</a>
-                        <a class="dropdown-item" href="/workshops">Workshops</a>
+                        <a class="dropdown-item" href="./keynote.php">Keynote Speakers</a>
+                        <a class="dropdown-item" href="./invited.php">Invited Speakers</a>
+                        <a class="dropdown-item" href="./tutorials.php">Tutorials</a>
+                        <a class="dropdown-item" href="./workshops.php">Workshops</a>
                     </div>
                 </li>
                 <li class="nav-item dropdown">
@@ -51,18 +51,19 @@
                         Venues
                     </div>
                     <div class="dropdown-menu" aria-labelledby="navbarDropdown_venues">
-                        <a class="dropdown-item" href="/accommodations">Accommodations</a>
-                        <a class="dropdown-item" href="/transportation">Transportation</a>
-                        <a class="dropdown-item" href="/attractions">Attractions</a>
+                        <a class="dropdown-item" href="./accommodations.php">Accommodations</a>
+                        <a class="dropdown-item" href="./transportation.php">Transportation</a>
+                        <a class="dropdown-item" href="./attractions.php">Attractions</a>
                     </div>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" id="stdgrants" href="/stdgrants">Student Grants</a>
+                    <a class="nav-link" id="stdgrants" href="./stdgrants.php">Student Grants</a>
                 </li>
             </ul>
         </div>
     </div>
 </nav>
+
 <script>
 document.addEventListener('DOMContentLoaded', function() {
     var currentUrl = window.location.href;
