@@ -255,7 +255,7 @@
                             <li>Anan Phonphoem<br>Kasetsart University, Thailand</li>
                             <li>Chidchanok Lursinsap<br>Chulalongkorn University, Thailand</li>
                             <li>Ekkarat Boonchieng<br>Chiang Mai University, Thailand</li>
-                            <li>Kosin Chamnongthai<br>King Mongkutâ€™s University of Technology Thonburi, Thailand</li>
+                            <li>Kosin Chamnongthai<br>King Mongkut's University of Technology Thonburi, Thailand</li>
                             <li>Prabhas Chongsitvatana<br>Chulalongkorn University, Thailand</li>
                             <li>Prasong Praneepolgrang<br>Navaminda Kasatriyadhiraj Royal Thai Air Force Academy, Thailand</li>
                             <li>Punpiti Piamsa-nga<br>Kasetsart University, Thailand</li>
