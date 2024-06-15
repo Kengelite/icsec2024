@@ -144,14 +144,15 @@
     <div class="modal-dialog">
         <div class="modal-content">
             <div class="modal-header">
-                <h1 class="modal-title fs-5" id="staticBackdropLabel"></h1>
+                <h1 class="modal-title fs-5" id="staticBackdropLabel">Call for Papers</h1>
                 <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
             </div>
             <div class="modal-body">
                 <img src="./assets/images/organnized/icsec2024v4.jpg" alt="" srcset="">
             </div>
             <div class="modal-footer">
-                <a type="button" class="btn btn-primary" target="_blank" href="https://drive.google.com/file/d/1bBxnsS_qGDyS2jXqUZJSyYJes4R7Sy41/view" style="color: white;">dowload</a>
+                <!-- <a type="button" class="btn btn-primary" target="_blank" href="https://drive.google.com/file/d/1bBxnsS_qGDyS2jXqUZJSyYJes4R7Sy41/view" style="color: white;">dowload</a> -->
+                <a type="button" class="btn btn-primary" target="_blank" href="./assets/images/organnized/icsec2024v4.jpg" download="callforpaper.png" style="color: white;">Download</a>
                 <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
             </div>
         </div>
