@@ -205,7 +205,7 @@
                             <img src=".\assets\images\tutorial\Stephen.jpg" class="img-fluid" alt="Dr. Thanachart Numnonda">
                         </div>
                         <h6 class="mt-3">Prof. Dr. Stephen John Turner</h6>
-                        <h8 class="mt-3">Profile : <a href="https://vistec.ac.th/stephen-john-turner" target="_blank">https://vistec.ac.th/stephen-john-turner</a></h8>
+                        <h8 class="mt-3">Profile : <a href="https://vistec.ac.th/faculty-adjunct-professors-ist-stephen-john-turner?fbclid=IwZXh0bgNhZW0CMTAAAR1dtwS9M2mo8O2-okTCpiQvNoyRVdOf5ig_VhRJh6T4IVralTbC2eo4zpc_aem_ZmFrZWR1bW15MTZieXRlcw" target="_blank">https://vistec.ac.th/stephen-john-turner</a></h8>
                     </div>
                 </div>
                 <div class="col-md-8 biography" data-aos="fade-left" data-aos-delay="200">
