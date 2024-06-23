@@ -399,7 +399,7 @@
             <div class="row">
                 <div class="col-12 text-center" data-aos="fade-down" data-aos-delay="150">
                     <div class="section-title">
-                        <h1 class="display-4 fw-semibold text-uppercase">sponsor BY</h1>
+                        <h1 class="display-4 fw-semibold text-uppercase">sponsored BY</h1>
                         <div class="line"></div>
                         <div class="row">
                             <div class="col-lg-3 d-flex justify-content-center align-items-center">
