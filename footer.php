@@ -121,7 +121,6 @@
         </div>
     </div>
 </div> -->
-
 <div class="modal fade" id="showcallforSponsorship" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="showcallforSponsorship" aria-hidden="true">
     <div class="modal-dialog">
         <div class="modal-content">
@@ -133,12 +132,13 @@
                 <img src="./assets/images/supform.png" alt="Sponsorship Form" id="sponsorshipFormImage">
             </div>
             <div class="modal-footer">
-                <a type="button" class="btn btn-primary" target="_blank" href="./assets/images/supform.png" download="sponsorship_form.png" style="color: white;">Download</a>
+                <a type="button" class="btn btn-primary" target="_blank" href="./assets/images/formsponsor.pdf" download="formsponsor.pdf" style="color: white;">Download</a>
                 <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
             </div>
         </div>
     </div>
 </div>
+
 
 <div class="modal fade" id="showcallforpaper" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="showcallforpaper" aria-hidden="true">
     <div class="modal-dialog">
