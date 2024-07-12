@@ -12,88 +12,88 @@
     <link rel="stylesheet" href="./assets/css/style.css">
     <link rel="icon" href="./assets/images/organnized/ICSEC.png" type="image/gif" sizes="16x16">
     <style>
-        * {
-            color: black;
-        }
+    * {
+        color: black;
+    }
 
-        .section-title {
-            text-align: center;
-        }
+    .section-title {
+        text-align: center;
+    }
 
-        .left-align {
-            text-align: left;
-        }
+    .left-align {
+        text-align: left;
+    }
 
-        /* Lower the text size of the name */
-        .image-bio-container h4 {
-            font-size: 18px;
-            /* Adjust the size as needed */
-        }
+    /* Lower the text size of the name */
+    .image-bio-container h4 {
+        font-size: 18px;
+        /* Adjust the size as needed */
+    }
 
-        /* Ensure proper alignment of the biography and the name */
-        .biography {
-            margin-top: 20px;
-            /* Adjust this value as needed */
-        }
+    /* Ensure proper alignment of the biography and the name */
+    .biography {
+        margin-top: 20px;
+        /* Adjust this value as needed */
+    }
 
-        .image-container {
-            width: 100%;
-            /* Set the desired width */
-            height: 100%;
-            /* Set the desired height */
-            overflow: hidden;
-            /* Hide the overflowing part of the image */
-            display: flex;
-            /* Use flexbox */
-            justify-content: center;
-            /* Center horizontally */
-            align-items: center;
-            /* Center vertically */
-            margin: auto;
-            /* Center the container itself */
-        }
+    .image-container {
+        width: 100%;
+        /* Set the desired width */
+        height: 100%;
+        /* Set the desired height */
+        overflow: hidden;
+        /* Hide the overflowing part of the image */
+        display: flex;
+        /* Use flexbox */
+        justify-content: center;
+        /* Center horizontally */
+        align-items: center;
+        /* Center vertically */
+        margin: auto;
+        /* Center the container itself */
+    }
 
-        .image-container img {
-            max-width: 100%;
-            /* Ensure the image retains its aspect ratio */
-            max-height: 100%;
-            /* Ensure the image retains its aspect ratio */
-            object-fit: cover;
-            /* Crop the image to cover the container */
-        }
+    .image-container img {
+        max-width: 100%;
+        /* Ensure the image retains its aspect ratio */
+        max-height: 100%;
+        /* Ensure the image retains its aspect ratio */
+        object-fit: cover;
+        /* Crop the image to cover the container */
+    }
 
-        .footer-top {
-            background-color: #032738;
-            /* Dark blue color code */
-        }
+    .footer-top {
+        background-color: #032738;
+        /* Dark blue color code */
+    }
 
-        .footer-bottom {
-            background-color: #032738;
-            /* Dark blue color code */
-        }
+    .footer-bottom {
+        background-color: #032738;
+        /* Dark blue color code */
+    }
 
-        .small-square {
-            display: inline-block;
-            width: 50px;
-            height: 5px;
-            background-color: #5054d4;
-            vertical-align: middle;
-            /* Adjusts vertical alignment to be centered with text */
-            margin-right: 5px;
-            /* Adds space between the square and the text */
-        }
+    .small-square {
+        display: inline-block;
+        width: 50px;
+        height: 5px;
+        background-color: #5054d4;
+        vertical-align: middle;
+        /* Adjusts vertical alignment to be centered with text */
+        margin-right: 5px;
+        /* Adds space between the square and the text */
+    }
 
-        .text {
-            display: inline-block;
-            width: 100%;
-            text-align: justify;
-        }
+    .text {
+        display: inline-block;
+        width: 100%;
+        text-align: justify;
+    }
 
-        .text {
-            list-style: none;
-            padding: 0;
-            margin: 0;
-        }
+    .text {
+        list-style: none;
+        padding: 0;
+        margin: 0;
+    }
     </style>
 </head>
 
@@ -103,43 +103,81 @@
     include './menu.php';
     ?>
 
-
-
     <!-- HERO -->
     <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
         <div class="carousel-indicators">
-            <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
-            <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
-            <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
-            <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="3" aria-label="Slide 4"></button>
+            <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active"
+                aria-current="true" aria-label="Slide 1"></button>
+            <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1"
+                aria-label="Slide 2"></button>
+            <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2"
+                aria-label="Slide 3"></button>
+            <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="3"
+                aria-label="Slide 4"></button>
         </div>
         <div class="carousel-inner">
             <div class="carousel-item active">
                 <img src="./assets/images/silde/bg1.png" class="d-block w-100" alt="...">
-                <div class="carousel-caption d-flex h-100 align-items-center justify-content-center">
-                    <h2 style="color: white;">THE
-                        28<sup style="color: white;">TH</sup> INTERNATIONAL COMPUTER SCIENCE AND ENGINEERING CONFERENCE 2024</span></h2>
+                <div class="carousel-caption d-flex flex-column h-100 align-items-center justify-content-center text-center">
+                    <h2 style="color: white;">THE 28<sup style="color: white;">TH</sup> INTERNATIONAL COMPUTER SCIENCE AND ENGINEERING CONFERENCE 2024</h2>
+                    <br>
+                    <h3 style="color: white;">6-8 NOVEMBER 2024</h3>
+                    <h3 style="color: white;">
+                        PAPER SUBMISSION DEADLINE:
+                        <span
+                            style="color: #FF0000; text-decoration: line-through; background-color: rgba(255, 255, 255, 0.7);">12
+                            JULY 2024</span><span style="color: #FF0000; background-color: rgba(255, 255, 255, 0.7);">
+                            EXTENDED 26 JULY
+                            2024</span>
+                    </h3>
                 </div>
             </div>
             <div class="carousel-item">
                 <img src="./assets/images/silde/bg2.png" class="d-block w-100" alt="...">
-                <div class="carousel-caption d-flex h-100 align-items-center justify-content-center">
-                    <h2 style="color: white;">THE
-                        28<sup style="color: white;">TH</sup> INTERNATIONAL COMPUTER SCIENCE AND ENGINEERING CONFERENCE 2024</span></h2>
+                <div class="carousel-caption d-flex flex-column h-100 align-items-center justify-content-center text-center">
+                    <h2 style="color: white;">THE 28<sup style="color: white;">TH</sup> INTERNATIONAL COMPUTER SCIENCE AND ENGINEERING CONFERENCE 2024</h2>
+                    <br>
+                    <h3 style="color: white;">6-8 NOVEMBER 2024</h3>
+                    <h3 style="color: white;">
+                        PAPER SUBMISSION DEADLINE:
+                        <span
+                            style="color: #FF0000; text-decoration: line-through; background-color: rgba(255, 255, 255, 0.7);">12
+                            JULY 2024</span><span style="color: #FF0000; background-color: rgba(255, 255, 255, 0.7);">
+                            EXTENDED 26 JULY
+                            2024</span>
+                    </h3>
                 </div>
             </div>
             <div class="carousel-item">
                 <img src="./assets/images/silde/bg3.png" class="d-block w-100" alt="...">
-                <div class="carousel-caption d-flex h-100 align-items-center justify-content-center">
-                    <h2 style="color: white;">THE
-                        28<sup style="color: white;">TH</sup> INTERNATIONAL COMPUTER SCIENCE AND ENGINEERING CONFERENCE 2024</span></h2>
+                <div class="carousel-caption d-flex flex-column h-100 align-items-center justify-content-center text-center">
+                    <h2 style="color: white;">THE 28<sup style="color: white;">TH</sup> INTERNATIONAL COMPUTER SCIENCE AND ENGINEERING CONFERENCE 2024</h2>
+                    <br>
+                    <h3 style="color: white;">6-8 NOVEMBER 2024</h3>
+                    <h3 style="color: white;">
+                        PAPER SUBMISSION DEADLINE:
+                        <span
+                            style="color: #FF0000; text-decoration: line-through; background-color: rgba(255, 255, 255, 0.7);">12
+                            JULY 2024</span><span style="color: #FF0000; background-color: rgba(255, 255, 255, 0.7);">
+                            EXTENDED 26 JULY
+                            2024</span>
+                    </h3>
                 </div>
             </div>
             <div class="carousel-item">
                 <img src="./assets/images/silde/bg4.png" class="d-block w-100" alt="...">
-                <div class="carousel-caption d-flex h-100 align-items-center justify-content-center">
-                    <h2 style="color: white;">THE
-                        28<sup style="color: white;">TH</sup> INTERNATIONAL COMPUTER SCIENCE AND ENGINEERING CONFERENCE 2024</span></h2>
+                <div class="carousel-caption d-flex flex-column h-100 align-items-center justify-content-center text-center">
+                    <h2 style="color: white;">THE 28<sup style="color: white;">TH</sup> INTERNATIONAL COMPUTER SCIENCE AND ENGINEERING CONFERENCE 2024</h2>
+                    <br>
+                    <h3 style="color: white;">6-8 NOVEMBER 2024</h3>
+                    <h3 style="color: white;">
+                        PAPER SUBMISSION DEADLINE:
+                        <span
+                            style="color: #FF0000; text-decoration: line-through; background-color: rgba(255, 255, 255, 0.7);">12
+                            JULY 2024</span><span style="color: #FF0000; background-color: rgba(255, 255, 255, 0.7);">
+                            EXTENDED 26 JULY
+                            2024</span>
+                    </h3>
                 </div>
             </div>
         </div>
@@ -152,7 +190,6 @@
             <span class="visually-hidden">Next</span>
         </button>
     </div>
-
     <!-- ABOUT -->
     <section id="about" class="section-padding">
         <div class="container">
@@ -167,22 +204,41 @@
                 <div class="col-md-4" data-aos="fade-right" data-aos-delay="100">
                     <div class="image-bio-container text-center">
                         <div class="image-container">
-                            <img src=".\assets\images\tutorial\Thanachart.png" class="img-fluid" alt="Dr. Thanachart Numnonda">
+                            <img src=".\assets\images\tutorial\Thanachart.png" class="img-fluid"
+                                alt="Dr. Thanachart Numnonda">
                         </div>
                         <h6 class="mt-3">Dr. Thanachart Numnonda</h6>
-                        <h8 class="mt-3">Profile : <a href="https://www.thanachart.co.th/en/management/risk-oversight-committee/261/dr-thanachart-numnonda" target="_blank">https://shorturl.at/lWuXj</a></h8>
+                        <h8 class="mt-3">Profile : <a
+                                href="https://www.thanachart.co.th/en/management/risk-oversight-committee/261/dr-thanachart-numnonda"
+                                target="_blank">https://shorturl.at/lWuXj</a></h8>
                     </div>
                 </div>
                 <div class="col-md-8 biography" data-aos="fade-left" data-aos-delay="200">
                     <h5><span style="font-size: 12px;">►</span> Abstract</h5>
-                    <p class="text">Generative AI in data science and analysis, focusing on tools like ChatGPT, Gemini, and Claude.ai. It aims to equip participants with the skills to employ AI technologies in extracting, interpreting, and analyzing data without the need for traditional programming. Attendees will explore the functionalities of ChatGPT across different versions, gaining insights into how these tools can be used for deep data analysis and decision-making processes in various data science contexts.</p>
-                    <p class="text">The workshop will delve into practical aspects of data science, including data engineering, visualization, predictive analytics, and natural language processing, all through the lens of Generative AI. Participants will engage in hands-on lab sessions, applying these AI tools to real-world data science problems, and learning to conduct end-to-end data projects. This program is designed for individuals looking to integrate advanced AI capabilities into their data science toolkit, enabling them to efficiently handle complex data analysis and predictive modeling tasks with minimal reliance on coding or external IT resources.</p>
+                    <p class="text">Generative AI in data science and analysis, focusing on tools like ChatGPT, Gemini,
+                        and Claude.ai. It aims to equip participants with the skills to employ AI technologies in
+                        extracting, interpreting, and analyzing data without the need for traditional programming.
+                        Attendees will explore the functionalities of ChatGPT across different versions, gaining
+                        insights into how these tools can be used for deep data analysis and decision-making processes
+                        in various data science contexts.</p>
+                    <p class="text">The workshop will delve into practical aspects of data science, including data
+                        engineering, visualization, predictive analytics, and natural language processing, all through
+                        the lens of Generative AI. Participants will engage in hands-on lab sessions, applying these AI
+                        tools to real-world data science problems, and learning to conduct end-to-end data projects.
+                        This program is designed for individuals looking to integrate advanced AI capabilities into
+                        their data science toolkit, enabling them to efficiently handle complex data analysis and
+                        predictive modeling tasks with minimal reliance on coding or external IT resources.</p>
                 </div>
             </div>
             <div class="row mt-3">
                 <div class="col-md-12" data-aos="fade-up" data-aos-delay="300">
                     <h5><span style="font-size: 12px;">►</span> Biography</h5>
-                    <p class="text">Dr. Thanachart Numnonda is an executive director of IMC Institute. He has a diverse and extensive professional background. Currently, he holds several key positions, including being an independent director and chairman of risk committees in various companies like Thanachart Capital Limited, SiamEast Solutions public company Limited, VinTcom Technology Public Company Limited, and Humanica public company Limited. He is also involved in academia, serving as a council member and chairman of risk committees in several public universities.</p>
+                    <p class="text">Dr. Thanachart Numnonda is an executive director of IMC Institute. He has a diverse
+                        and extensive professional background. Currently, he holds several key positions, including
+                        being an independent director and chairman of risk committees in various companies like
+                        Thanachart Capital Limited, SiamEast Solutions public company Limited, VinTcom Technology Public
+                        Company Limited, and Humanica public company Limited. He is also involved in academia, serving
+                        as a council member and chairman of risk committees in several public universities.</p>
                 </div>
             </div>
         </div>
@@ -193,7 +249,8 @@
         <div class="container">
             <div class="row">
                 <div class="col-12 text-center" data-aos="fade-down" data-aos-delay="50">
-                    <h1 class="display-4 fw-semibold">Quantum Intelligence : An Introduction to Quantum Computing and Quantum Machine Learning</h1>
+                    <h1 class="display-4 fw-semibold">Quantum Intelligence : An Introduction to Quantum Computing and
+                        Quantum Machine Learning</h1>
                     <h5><span class="small-square"></span></h5>
                     <div class="line"></div>
                 </div>
@@ -202,44 +259,121 @@
                 <div class="col-md-4" data-aos="fade-right" data-aos-delay="100">
                     <div class="image-bio-container text-center">
                         <div class="image-container">
-                            <img src=".\assets\images\tutorial\Stephen.jpg" class="img-fluid" alt="Dr. Thanachart Numnonda">
+                            <img src=".\assets\images\tutorial\Stephen.jpg" class="img-fluid"
+                                alt="Dr. Thanachart Numnonda">
                         </div>
                         <h6 class="mt-3">Prof. Dr. Stephen John Turner</h6>
-                        <h8 class="mt-3">Profile : <a href="https://vistec.ac.th/faculty-adjunct-professors-ist-stephen-john-turner?fbclid=IwZXh0bgNhZW0CMTAAAR1dtwS9M2mo8O2-okTCpiQvNoyRVdOf5ig_VhRJh6T4IVralTbC2eo4zpc_aem_ZmFrZWR1bW15MTZieXRlcw" target="_blank">https://vistec.ac.th/stephen-john-turner</a></h8>
+                        <h8 class="mt-3">Profile : <a
+                                href="https://vistec.ac.th/faculty-adjunct-professors-ist-stephen-john-turner?fbclid=IwZXh0bgNhZW0CMTAAAR1dtwS9M2mo8O2-okTCpiQvNoyRVdOf5ig_VhRJh6T4IVralTbC2eo4zpc_aem_ZmFrZWR1bW15MTZieXRlcw"
+                                target="_blank">https://vistec.ac.th/stephen-john-turner</a></h8>
                     </div>
                 </div>
                 <div class="col-md-8 biography" data-aos="fade-left" data-aos-delay="200">
                     <h5><span style="font-size: 12px;">►</span> Abstract</h5>
-                    <p class="text">Quantum computing is the study of information processing based on the quantum properties of matter. By combining the rich representational power of quantum states with the possibility of exponential parallelism, quantum computing has the potential to revolutionize many aspects of science, technology and industry. While quantum computing is still at an early stage of development, we have recently seen rapid advances in quantum technology, and quantum computers with hundreds of qubits are now readily available via cloud services. In this current “utility” era, quantum computers are demonstrating their potential to provide an advantage over classical computers in certain application areas.</p>
-                    <p class="text">The first part of this tutorial will explain the basic concepts of quantum systems and their properties, including superposition, entanglement and interference, and how the inherent parallelism of quantum computers may be exploited. Examples of quantum algorithms and applications will be given, including quantum networks and security. The second part of the tutorial will describe approaches to quantum machine learning (QML). Some important QML algorithms will be described, including quantum neural networks, with examples taken from real-world applications. Finally, the tutorial will explore the exciting possibilities offered by the convergence of quantum computing and artificial intelligence to form quantum intelligence.</p>
+                    <p class="text">Quantum computing is the study of information processing based on the quantum
+                        properties of matter. By combining the rich representational power of quantum states with the
+                        possibility of exponential parallelism, quantum computing has the potential to revolutionize
+                        many aspects of science, technology and industry. While quantum computing is still at an early
+                        stage of development, we have recently seen rapid advances in quantum technology, and quantum
+                        computers with hundreds of qubits are now readily available via cloud services. In this current
+                        “utility” era, quantum computers are demonstrating their potential to provide an advantage over
+                        classical computers in certain application areas.</p>
+                    <p class="text">The first part of this tutorial will explain the basic concepts of quantum systems
+                        and their properties, including superposition, entanglement and interference, and how the
+                        inherent parallelism of quantum computers may be exploited. Examples of quantum algorithms and
+                        applications will be given, including quantum networks and security. The second part of the
+                        tutorial will describe approaches to quantum machine learning (QML). Some important QML
+                        algorithms will be described, including quantum neural networks, with examples taken from
+                        real-world applications. Finally, the tutorial will explore the exciting possibilities offered
+                        by the convergence of quantum computing and artificial intelligence to form quantum
+                        intelligence.</p>
                 </div>
             </div>
             <div class="row mt-3">
                 <div class="col-md-12" data-aos="fade-up" data-aos-delay="300">
                     <h5><span style="font-size: 12px;">►</span> Biography</h5>
-                    <p class="text">Stephen John Turner is Professorial Fellow in Quantum Computing at Vidyasirimedhi Institute of Science and Technology (Thailand). From 2008-2015, he was full Professor of Computer Science at Nanyang Technological University (Singapore), having joined the University as an Associate Professor in 2000. During his time there, he was Director of the Parallel and Distributed Computing Centre and subsequently Head of the Networks and Distributed Systems Division in the School of Computer Engineering.</p>
-                    <p class="text">He received his MA in Mathematics and Computer Science from Cambridge University (UK) and his MSc and PhD in Computer Science from Manchester University (UK). He is a Chartered IT Professional and Chartered Engineer (UK). His main research interests are: Quantum Computing, Simulation and Optimization, Complex Systems, Internet of Things, and Edge and Cloud Computing. He has published extensively and has received a number of best paper awards, particularly for his work in Parallel and Distributed Simulation.</p>
+                    <p class="text">Stephen John Turner is Professorial Fellow in Quantum Computing at Vidyasirimedhi
+                        Institute of Science and Technology (Thailand). From 2008-2015, he was full Professor of
+                        Computer Science at Nanyang Technological University (Singapore), having joined the University
+                        as an Associate Professor in 2000. During his time there, he was Director of the Parallel and
+                        Distributed Computing Centre and subsequently Head of the Networks and Distributed Systems
+                        Division in the School of Computer Engineering.</p>
+                    <p class="text">He received his MA in Mathematics and Computer Science from Cambridge University
+                        (UK) and his MSc and PhD in Computer Science from Manchester University (UK). He is a Chartered
+                        IT Professional and Chartered Engineer (UK). His main research interests are: Quantum Computing,
+                        Simulation and Optimization, Complex Systems, Internet of Things, and Edge and Cloud Computing.
+                        He has published extensively and has received a number of best paper awards, particularly for
+                        his work in Parallel and Distributed Simulation.</p>
                 </div>
             </div>
         </div>
     </section>
+
+    <!-- ANOTHER ABOUT -->
+    <section id="another-about" class="section-padding">
+        <div class="container">
+            <div class="row">
+                <div class="col-12 text-center" data-aos="fade-down" data-aos-delay="50">
+                    <h1 class="display-4 fw-semibold">An introduction to training and optimizing Large Language Models
+                    </h1>
+                    <h5><span class="small-square"></span></h5>
+                    <div class="line"></div>
+                </div>
+            </div>
+            <div class="row mt-5">
+                <div class="col-md-4" data-aos="fade-right" data-aos-delay="100">
+                    <div class="image-bio-container text-center">
+                        <div class="image-container">
+                            <img src=".\assets\images\tutorial\drjan.png" class="img-fluid"
+                                alt="Dr. Thanachart Numnonda">
+                        </div>
+                        <h6 class="mt-3">Asst. Prof. Dr. Jan N. van Rijn</h6>
+                        <h8 class="mt-3">Profile : <a
+                                href="https://www.universiteitleiden.nl/en/staffmembers/jan-van-rijn#tab-1"
+                                target="_blank">https://www.universiteitleiden.nl</a></h8>
+                    </div>
+                </div>
+                <div class="col-md-8 biography" data-aos="fade-left" data-aos-delay="200">
+                    <h5><span style="font-size: 12px;">►</span> Biography</h5>
+                    <p class="text">Jan N. van Rijn holds a tenured position as assistant professor at Leiden
+                        University, where he works in the computer science department (LIACS) and Automated Design of
+                        Algorithms cluster (ADA). His research interests include trustworthy artificial intelligence,
+                        automated machine learning (AutoML) and metalearning. He obtained his PhD in Computer Science in
+                        2016 at Leiden Institute of Advanced Computer Science (LIACS), Leiden University (the
+                        Netherlands). During his PhD, he developed OpenML.org, an open science platform for machine
+                        learning, enabling sharing of machine learning results. He made several funded research visits
+                        to the University of Waikato (New Zealand) and the University of Porto (Portugal). After
+                        obtaining his PhD, he worked as a postdoctoral researcher in the Machine Learning lab at the
+                        University of Freiburg (Germany), headed by Prof. Dr. Frank Hutter, after which he moved to work
+                        as a postdoctoral researcher at Columbia University in the City of New York (USA). In 2023, he
+                        visited the College of Computing, Khon Kaen University, Thailand. His research aim is to
+                        democratize access to machine learning and artificial intelligence across societal institutions,
+                        by developing knowledge and tools that support domain experts, and make AI-experts more aware of
+                        safety risks. He is one of the authors of the book ‘Metalearning: Applications to Automated
+                        Machine Learning and Data Mining’ (freely accessible, published by Springer).</p>
+
+                </div>
+            </div>
+        </div>
+    </section>
+
 
     <!-- Optional JavaScript -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.bundle.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/@fancyapps/ui@4.0/dist/fancybox.umd.js"></script>
     <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
     <script>
-        AOS.init({
-            duration: 800,
-            once: true
-        });
+    AOS.init({
+        duration: 800,
+        once: true
+    });
     </script>
 
     <?php
     include './footer.php';
     ?>
 
- 
+
 </body>
 
 </html>
