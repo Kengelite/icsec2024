@@ -12,9 +12,9 @@
     <link rel="stylesheet" href="./assets/css/style.css">
     <link rel="icon" href="./assets/images/organnized/ICSEC.png">
     <style>
-        * {
-            color: black;
-        }
+    * {
+        color: black;
+    }
     </style>
 </head>
 
@@ -30,49 +30,99 @@
     <!-- HERO -->
     <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
         <div class="carousel-indicators">
-            <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
-            <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
-            <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
-            <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="3" aria-label="Slide 4"></button>
+            <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active"
+                aria-current="true" aria-label="Slide 1"></button>
+            <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1"
+                aria-label="Slide 2"></button>
+            <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2"
+                aria-label="Slide 3"></button>
+            <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="3"
+                aria-label="Slide 4"></button>
         </div>
         <div class="carousel-inner">
             <div class="carousel-item active">
                 <img src="./assets/images/silde/bg1.png" class="d-block w-100" alt="...">
-                <div class="carousel-caption d-flex h-100 align-items-center justify-content-center">
-                    <h2 style="color: white;">THE
-                        28<sup style="color: white;">TH</sup> INTERNATIONAL COMPUTER SCIENCE AND ENGINEERING CONFERENCE 2024</span></h2>
+                <div
+                    class="carousel-caption d-flex flex-column h-100 align-items-center justify-content-center text-center">
+                    <h2 style="color: white;">THE 28<sup style="color: white;">TH</sup> INTERNATIONAL COMPUTER SCIENCE
+                        AND ENGINEERING CONFERENCE 2024</h2> <br>
+                    <h3 style="color: white;">6-8 NOVEMBER 2024</h3>
+                    <h3 style="color: white;">
+                        PAPER SUBMISSION DEADLINE:
+                        <span
+                            style="color: #FF0000; text-decoration: line-through; background-color: rgba(255, 255, 255, 0.7);">12
+                            JULY 2024</span><span style="color: #FF0000; background-color: rgba(255, 255, 255, 0.7);">
+                            EXTENDED 26 JULY
+                            2024</span>
+                    </h3>
                 </div>
             </div>
-            <div class="carousel-item">
-                <img src="./assets/images/silde/bg2.png" class="d-block w-100" alt="...">
-                <div class="carousel-caption d-flex h-100 align-items-center justify-content-center">
-                    <h2 style="color: white;">THE
-                        28<sup style="color: white;">TH</sup> INTERNATIONAL COMPUTER SCIENCE AND ENGINEERING CONFERENCE 2024</span></h2>
-                </div>
-            </div>
-            <div class="carousel-item">
-                <img src="./assets/images/silde/bg3.png" class="d-block w-100" alt="...">
-                <div class="carousel-caption d-flex h-100 align-items-center justify-content-center">
-                    <h2 style="color: white;">THE
-                        28<sup style="color: white;">TH</sup> INTERNATIONAL COMPUTER SCIENCE AND ENGINEERING CONFERENCE 2024</span></h2>
-                </div>
-            </div>
-            <div class="carousel-item">
-                <img src="./assets/images/silde/bg4.png" class="d-block w-100" alt="...">
-                <div class="carousel-caption d-flex h-100 align-items-center justify-content-center">
-                    <h2 style="color: white;">THE
-                        28<sup style="color: white;">TH</sup> INTERNATIONAL COMPUTER SCIENCE AND ENGINEERING CONFERENCE 2024</span></h2>
-                </div>
+
+        </div>
+
+
+        <div class="carousel-item">
+            <img src="./assets/images/silde/bg2.png" class="d-block w-100" alt="...">
+            <div
+                class="carousel-caption d-flex flex-column h-100 align-items-center justify-content-center text-center">
+                <h2 style="color: white;">THE 28<sup style="color: white;">TH</sup> INTERNATIONAL COMPUTER SCIENCE
+                    AND ENGINEERING CONFERENCE 2024</h2> <br>
+                <h3 style="color: white;">6-8 NOVEMBER 2024</h3>
+                <h3 style="color: white;">
+                    PAPER SUBMISSION DEADLINE:
+                    <span
+                        style="color: #FF0000; text-decoration: line-through; background-color: rgba(255, 255, 255, 0.7);">12
+                        JULY 2024</span><span style="color: #FF0000; background-color: rgba(255, 255, 255, 0.7);">
+                        EXTENDED 26 JULY
+                        2024</span>
+                </h3>
             </div>
         </div>
-        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
-            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-            <span class="visually-hidden">Previous</span>
-        </button>
-        <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
-            <span class="carousel-control-next-icon" aria-hidden="true"></span>
-            <span class="visually-hidden">Next</span>
-        </button>
+        <div class="carousel-item">
+            <img src="./assets/images/silde/bg3.png" class="d-block w-100" alt="...">
+            <div
+                class="carousel-caption d-flex flex-column h-100 align-items-center justify-content-center text-center">
+                <h2 style="color: white;">THE 28<sup style="color: white;">TH</sup> INTERNATIONAL COMPUTER SCIENCE
+                    AND ENGINEERING CONFERENCE 2024</h2> <br>
+                <h3 style="color: white;">6-8 NOVEMBER 2024</h3>
+                <h3 style="color: white;">
+                    PAPER SUBMISSION DEADLINE:
+                    <span
+                        style="color: #FF0000; text-decoration: line-through; background-color: rgba(255, 255, 255, 0.7);">12
+                        JULY 2024</span><span style="color: #FF0000; background-color: rgba(255, 255, 255, 0.7);">
+                        EXTENDED 26 JULY
+                        2024</span>
+                </h3>
+            </div>
+        </div>
+        <div class="carousel-item">
+            <img src="./assets/images/silde/bg4.png" class="d-block w-100" alt="...">
+            <div
+                class="carousel-caption d-flex flex-column h-100 align-items-center justify-content-center text-center">
+                <h2 style="color: white;">THE 28<sup style="color: white;">TH</sup> INTERNATIONAL COMPUTER SCIENCE
+                    AND ENGINEERING CONFERENCE 2024</h2> <br>
+                <h3 style="color: white;">6-8 NOVEMBER 2024</h3>
+                <h3 style="color: white;">
+                    PAPER SUBMISSION DEADLINE:
+                    <span
+                        style="color: #FF0000; text-decoration: line-through; background-color: rgba(255, 255, 255, 0.7);">12
+                        JULY 2024</span><span style="color: #FF0000; background-color: rgba(255, 255, 255, 0.7);">
+                        EXTENDED 26 JULY
+                        2024</span>
+                </h3>
+            </div>
+        </div>
+    </div>
+    <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators"
+        data-bs-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Previous</span>
+    </button>
+    <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators"
+        data-bs-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Next</span>
+    </button>
     </div>
 
 
@@ -183,9 +233,12 @@
                     <div id="counter" class="section-padding d-flex align-items-center">
                         <div class="container text-center">
                             <span class="sm-title text-white" data-aos="fade-down" data-aos-delay="150">
-                                THE 28<sup style="color: white;">TH</sup> INTERNATIONAL COMPUTER SCIENCE AND ENGINEERING CONFERENCE 2024
+                                THE 28<sup style="color: white;">TH</sup> INTERNATIONAL COMPUTER SCIENCE AND ENGINEERING
+                                CONFERENCE 2024
                             </span>
-                            <div id="countdown" class="countdown-container d-flex justify-content-center align-items-center" style="flex-wrap: wrap;">
+                            <div id="countdown"
+                                class="countdown-container d-flex justify-content-center align-items-center"
+                                style="flex-wrap: wrap;">
                                 <div class="time-segment mx-2" data-aos="fade-down" data-aos-delay="150">
                                     <div>
                                         <span class="time-label" style="color: white;">Days</span>
@@ -232,8 +285,13 @@
                                 </div>
                                 <div>
                                     <h5>Paper submission deadline </h5>
-                                    <p>14 June 2024 (Round 1)
-                                        <br>12 July 2024 (Round 2)
+                                    <p><span style="text-decoration: line-through; color: red;">14 June 2024 (Round
+                                            1)</span>
+                                        <br>
+                                        <span style="text-decoration: line-through; color: red;">12 July 2024 (Round
+                                            2)</span>
+                                        <br>
+                                        <span style="color: red;">Extended 26 July 2024</span>
                                     </p>
                                 </div>
                             </div>
@@ -325,7 +383,8 @@
                             readers and authors. The journal aims to publish high quality research works related to
                             engineering and applied science disciplines.</p>
                         <p>Scopus Q2</p>
-                        <p><a href="https://ph01.tci-thaijo.org/index.php/easr">https://ph01.tci-thaijo.org/index.php/easr</a>
+                        <p><a
+                                href="https://ph01.tci-thaijo.org/index.php/easr">https://ph01.tci-thaijo.org/index.php/easr</a>
                         </p>
                         <p>2539-6161 print</p>
                         <p>2539-6218 online</p>
@@ -340,7 +399,8 @@
                         <p>accepts original technical articles in all disciplines of Internet Technology and
                             Applications.</p>
                         <p>Scopus Q3</p>
-                        <p><a href="https://ph01.tci-thaijo.org/index.php/easr">https://ph01.tci-thaijo.org/index.php/easr</a>
+                        <p><a
+                                href="https://ph01.tci-thaijo.org/index.php/easr">https://ph01.tci-thaijo.org/index.php/easr</a>
                         </p>
                         <p>2539-6161 print</p>
                         <p>2539-6218 online</p>
@@ -426,33 +486,33 @@
 
 
     <script>
-        function updateCountdown() {
-            // Set the date as November 8, 2024, 00:00:00 in Thailand time
-            const countdownDate = new Date('November 6, 2024 00:00:00 GMT+0700').getTime();
-            const now = new Date().getTime();
-            const timeleft = countdownDate - now;
+    function updateCountdown() {
+        // Set the date as November 8, 2024, 00:00:00 in Thailand time
+        const countdownDate = new Date('November 6, 2024 00:00:00 GMT+0700').getTime();
+        const now = new Date().getTime();
+        const timeleft = countdownDate - now;
 
-            // Calculating the days, hours, minutes and seconds left
-            const days = Math.floor(timeleft / (1000 * 60 * 60 * 24));
-            const hours = Math.floor((timeleft % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
-            const minutes = Math.floor((timeleft % (1000 * 60 * 60)) / (1000 * 60));
-            const seconds = Math.floor((timeleft % (1000 * 60)) / 1000);
+        // Calculating the days, hours, minutes and seconds left
+        const days = Math.floor(timeleft / (1000 * 60 * 60 * 24));
+        const hours = Math.floor((timeleft % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+        const minutes = Math.floor((timeleft % (1000 * 60 * 60)) / (1000 * 60));
+        const seconds = Math.floor((timeleft % (1000 * 60)) / 1000);
 
-            // Output the result to the respective elements
-            document.getElementById("days").innerText = days < 10 ? '0' + days : days;
-            document.getElementById("hours").innerText = hours < 10 ? '0' + hours : hours;
-            document.getElementById("minutes").innerText = minutes < 10 ? '0' + minutes : minutes;
-            document.getElementById("seconds").innerText = seconds < 10 ? '0' + seconds : seconds;
+        // Output the result to the respective elements
+        document.getElementById("days").innerText = days < 10 ? '0' + days : days;
+        document.getElementById("hours").innerText = hours < 10 ? '0' + hours : hours;
+        document.getElementById("minutes").innerText = minutes < 10 ? '0' + minutes : minutes;
+        document.getElementById("seconds").innerText = seconds < 10 ? '0' + seconds : seconds;
 
-            // If the countdown is over, display expired message
-            if (timeleft < 0) {
-                clearInterval(countdownInterval);
-                document.getElementById("countdown").innerHTML = "EXPIRED";
-            }
+        // If the countdown is over, display expired message
+        if (timeleft < 0) {
+            clearInterval(countdownInterval);
+            document.getElementById("countdown").innerHTML = "EXPIRED";
         }
+    }
 
-        // Update the countdown every second
-        const countdownInterval = setInterval(updateCountdown, 1000);
+    // Update the countdown every second
+    const countdownInterval = setInterval(updateCountdown, 1000);
     </script>
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>

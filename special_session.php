@@ -193,7 +193,8 @@
                                         <strong>➤ Important Dates</strong>
                                     </p>
                                     <ul class="left-align">
-                                        <li>Paper Submission: 14 June 2024 (round 1)/ 12 July 2022 (round 2)</li>
+                                        <li>Paper Submission: <span style="text-decoration: line-through; color: red;">14 June 2024 (Round 1)</span>
+                                        <span style="text-decoration: line-through; color: red;">12 July 2024 (Round 2)</span><span style="color: red;"> Extended 26 July 2024</span></li>
                                         <li>Acceptance Notification: 16 August 2024 (round 1)/ 13 September 2024 (round 2)</li>
                                         <li>Camera-Ready: 16 August 2024 to 30 September 2024
                                         </li>
@@ -482,7 +483,8 @@
                         </ul>
                         <p class="text"><strong>➤ Important Dates</strong> </p>
                         <ul class="left-align">
-                            <li>Paper Submission: 14 June 2024 (round 1)/ 12 July 2022 (round 2)</li>
+                        <li>Paper Submission: <span style="text-decoration: line-through; color: red;">14 June 2024 (Round 1)</span>
+                        <span style="text-decoration: line-through; color: red;">12 July 2024 (Round 2)</span><span style="color: red;"> Extended 26 July 2024</span></li>
                             <li>Acceptance Notification: 16 August 2024 (round 1)/ 13 September 2024 (round 2)</li>
                             <li>Camera-Ready: 16 August 2024 to 30 September 2024</li>
                         </ul>
