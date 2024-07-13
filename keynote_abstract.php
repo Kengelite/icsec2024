@@ -98,12 +98,11 @@
     margin: 0;
 }
 </style>
-
 <body data-bs-spy="scroll" data-bs-target=".navbar">
 
     <?php
-    include './menu.php';
-    ?>
+   include './menu.php';
+   ?>
 
     <!-- HERO -->
     <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
@@ -120,78 +119,85 @@
         <div class="carousel-inner">
             <div class="carousel-item active">
                 <img src="./assets/images/silde/bg1.png" class="d-block w-100" alt="...">
-                <div class="carousel-caption d-flex flex-column h-100 align-items-center justify-content-center text-center">
-                    <h2 style="color: white;">THE 28<sup style="color: white;">TH</sup> INTERNATIONAL COMPUTER SCIENCE AND ENGINEERING CONFERENCE 2024</h2>
-                    <br>
-                    <h3 style="color: white;">6-8 NOVEMBER 2024</h3>
-                    <h3 style="color: white;">
-                        PAPER SUBMISSION DEADLINE:
+                <div
+                    class="carousel-caption d-flex flex-column h-100 align-items-center justify-content-center text-center">
+                    <h2 style="color: white;">THE 28<sup style="color: white;">TH</sup> INTERNATIONAL COMPUTER SCIENCE
+                        AND ENGINEERING CONFERENCE 2024</h2> <br>
+                    <h5 style="color: white;">6-8 November 2024</h5>
+                    <h5 style="color: white;">
+                        Paper submission deadline:
                         <span
                             style="color: #FF0000; text-decoration: line-through; background-color: rgba(255, 255, 255, 0.7);">12
-                            JULY 2024</span><span style="color: #FF0000; background-color: rgba(255, 255, 255, 0.7);">
-                            EXTENDED 26 JULY
+                            july 2024</span><span style="color: #FF0000; background-color: rgba(255, 255, 255, 0.7);">
+                            extended 26 july
                             2024</span>
-                    </h3>
+                    </h5>
                 </div>
             </div>
             <div class="carousel-item">
                 <img src="./assets/images/silde/bg2.png" class="d-block w-100" alt="...">
-                <div class="carousel-caption d-flex flex-column h-100 align-items-center justify-content-center text-center">
-                    <h2 style="color: white;">THE 28<sup style="color: white;">TH</sup> INTERNATIONAL COMPUTER SCIENCE AND ENGINEERING CONFERENCE 2024</h2>
-                    <br>
-                    <h3 style="color: white;">6-8 NOVEMBER 2024</h3>
-                    <h3 style="color: white;">
-                        PAPER SUBMISSION DEADLINE:
+                <div
+                    class="carousel-caption d-flex flex-column h-100 align-items-center justify-content-center text-center">
+                    <h2 style="color: white;">THE 28<sup style="color: white;">TH</sup> INTERNATIONAL COMPUTER SCIENCE
+                        AND ENGINEERING CONFERENCE 2024</h2> <br>
+                    <h5 style="color: white;">6-8 November 2024</h5>
+                    <h5 style="color: white;">
+                        Paper submission deadline:
                         <span
                             style="color: #FF0000; text-decoration: line-through; background-color: rgba(255, 255, 255, 0.7);">12
-                            JULY 2024</span><span style="color: #FF0000; background-color: rgba(255, 255, 255, 0.7);">
-                            EXTENDED 26 JULY
+                            july 2024</span><span style="color: #FF0000; background-color: rgba(255, 255, 255, 0.7);">
+                            extended 26 july
                             2024</span>
-                    </h3>
+                    </h5>
                 </div>
             </div>
             <div class="carousel-item">
                 <img src="./assets/images/silde/bg3.png" class="d-block w-100" alt="...">
-                <div class="carousel-caption d-flex flex-column h-100 align-items-center justify-content-center text-center">
-                    <h2 style="color: white;">THE 28<sup style="color: white;">TH</sup> INTERNATIONAL COMPUTER SCIENCE AND ENGINEERING CONFERENCE 2024</h2>
-                    <br>
-                    <h3 style="color: white;">6-8 NOVEMBER 2024</h3>
-                    <h3 style="color: white;">
-                        PAPER SUBMISSION DEADLINE:
+                <div
+                    class="carousel-caption d-flex flex-column h-100 align-items-center justify-content-center text-center">
+                    <h2 style="color: white;">THE 28<sup style="color: white;">TH</sup> INTERNATIONAL COMPUTER SCIENCE
+                        AND ENGINEERING CONFERENCE 2024</h2> <br>
+                    <h5 style="color: white;">6-8 November 2024</h5>
+                    <h5 style="color: white;">
+                        Paper submission deadline:
                         <span
                             style="color: #FF0000; text-decoration: line-through; background-color: rgba(255, 255, 255, 0.7);">12
-                            JULY 2024</span><span style="color: #FF0000; background-color: rgba(255, 255, 255, 0.7);">
-                            EXTENDED 26 JULY
+                            july 2024</span><span style="color: #FF0000; background-color: rgba(255, 255, 255, 0.7);">
+                            extended 26 july
                             2024</span>
-                    </h3>
+                    </h5>
                 </div>
             </div>
             <div class="carousel-item">
                 <img src="./assets/images/silde/bg4.png" class="d-block w-100" alt="...">
-                <div class="carousel-caption d-flex flex-column h-100 align-items-center justify-content-center text-center">
-                    <h2 style="color: white;">THE 28<sup style="color: white;">TH</sup> INTERNATIONAL COMPUTER SCIENCE AND ENGINEERING CONFERENCE 2024</h2>
-                    <br>
-                    <h3 style="color: white;">6-8 NOVEMBER 2024</h3>
-                    <h3 style="color: white;">
-                        PAPER SUBMISSION DEADLINE:
+                <div
+                    class="carousel-caption d-flex flex-column h-100 align-items-center justify-content-center text-center">
+                    <h2 style="color: white;">THE 28<sup style="color: white;">TH</sup> INTERNATIONAL COMPUTER SCIENCE
+                        AND ENGINEERING CONFERENCE 2024</h2> <br>
+                    <h5 style="color: white;">6-8 November 2024</h5>
+                    <h5 style="color: white;">
+                        Paper submission deadline:
                         <span
                             style="color: #FF0000; text-decoration: line-through; background-color: rgba(255, 255, 255, 0.7);">12
-                            JULY 2024</span><span style="color: #FF0000; background-color: rgba(255, 255, 255, 0.7);">
-                            EXTENDED 26 JULY
+                            july 2024</span><span style="color: #FF0000; background-color: rgba(255, 255, 255, 0.7);">
+                            extended 26 july
                             2024</span>
-                    </h3>
+                    </h5>
                 </div>
             </div>
         </div>
-        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
+        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators"
+            data-bs-slide="prev">
             <span class="carousel-control-prev-icon" aria-hidden="true"></span>
             <span class="visually-hidden">Previous</span>
         </button>
-        <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
+        <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators"
+            data-bs-slide="next">
             <span class="carousel-control-next-icon" aria-hidden="true"></span>
             <span class="visually-hidden">Next</span>
         </button>
     </div>
+    </section>
 
     <!-- ABOUT -->
     <section id="about" class="section-padding">

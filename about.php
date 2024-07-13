@@ -86,15 +86,15 @@
                     class="carousel-caption d-flex flex-column h-100 align-items-center justify-content-center text-center">
                     <h2 style="color: white;">THE 28<sup style="color: white;">TH</sup> INTERNATIONAL COMPUTER SCIENCE
                         AND ENGINEERING CONFERENCE 2024</h2> <br>
-                    <h3 style="color: white;">6-8 NOVEMBER 2024</h3>
-                    <h3 style="color: white;">
-                        PAPER SUBMISSION DEADLINE:
+                    <h5 style="color: white;">6-8 November 2024</h5>
+                    <h5 style="color: white;">
+                        Paper submission deadline:
                         <span
                             style="color: #FF0000; text-decoration: line-through; background-color: rgba(255, 255, 255, 0.7);">12
-                            JULY 2024</span><span style="color: #FF0000; background-color: rgba(255, 255, 255, 0.7);">
-                            EXTENDED 26 JULY
+                            july 2024</span><span style="color: #FF0000; background-color: rgba(255, 255, 255, 0.7);">
+                            extended 26 july
                             2024</span>
-                    </h3>
+                    </h5>
                 </div>
             </div>
             <div class="carousel-item">
@@ -103,15 +103,15 @@
                     class="carousel-caption d-flex flex-column h-100 align-items-center justify-content-center text-center">
                     <h2 style="color: white;">THE 28<sup style="color: white;">TH</sup> INTERNATIONAL COMPUTER SCIENCE
                         AND ENGINEERING CONFERENCE 2024</h2> <br>
-                    <h3 style="color: white;">6-8 NOVEMBER 2024</h3>
-                    <h3 style="color: white;">
-                        PAPER SUBMISSION DEADLINE:
+                    <h5 style="color: white;">6-8 November 2024</h5>
+                    <h5 style="color: white;">
+                        Paper submission deadline:
                         <span
                             style="color: #FF0000; text-decoration: line-through; background-color: rgba(255, 255, 255, 0.7);">12
-                            JULY 2024</span><span style="color: #FF0000; background-color: rgba(255, 255, 255, 0.7);">
-                            EXTENDED 26 JULY
+                            july 2024</span><span style="color: #FF0000; background-color: rgba(255, 255, 255, 0.7);">
+                            extended 26 july
                             2024</span>
-                    </h3>
+                    </h5>
                 </div>
             </div>
             <div class="carousel-item">
@@ -120,15 +120,15 @@
                     class="carousel-caption d-flex flex-column h-100 align-items-center justify-content-center text-center">
                     <h2 style="color: white;">THE 28<sup style="color: white;">TH</sup> INTERNATIONAL COMPUTER SCIENCE
                         AND ENGINEERING CONFERENCE 2024</h2> <br>
-                    <h3 style="color: white;">6-8 NOVEMBER 2024</h3>
-                    <h3 style="color: white;">
-                        PAPER SUBMISSION DEADLINE:
+                    <h5 style="color: white;">6-8 November 2024</h5>
+                    <h5 style="color: white;">
+                        Paper submission deadline:
                         <span
                             style="color: #FF0000; text-decoration: line-through; background-color: rgba(255, 255, 255, 0.7);">12
-                            JULY 2024</span><span style="color: #FF0000; background-color: rgba(255, 255, 255, 0.7);">
-                            EXTENDED 26 JULY
+                            july 2024</span><span style="color: #FF0000; background-color: rgba(255, 255, 255, 0.7);">
+                            extended 26 july
                             2024</span>
-                    </h3>
+                    </h5>
                 </div>
             </div>
             <div class="carousel-item">
@@ -137,15 +137,15 @@
                     class="carousel-caption d-flex flex-column h-100 align-items-center justify-content-center text-center">
                     <h2 style="color: white;">THE 28<sup style="color: white;">TH</sup> INTERNATIONAL COMPUTER SCIENCE
                         AND ENGINEERING CONFERENCE 2024</h2> <br>
-                    <h3 style="color: white;">6-8 NOVEMBER 2024</h3>
-                    <h3 style="color: white;">
-                        PAPER SUBMISSION DEADLINE:
+                    <h5 style="color: white;">6-8 November 2024</h5>
+                    <h5 style="color: white;">
+                        Paper submission deadline:
                         <span
                             style="color: #FF0000; text-decoration: line-through; background-color: rgba(255, 255, 255, 0.7);">12
-                            JULY 2024</span><span style="color: #FF0000; background-color: rgba(255, 255, 255, 0.7);">
-                            EXTENDED 26 JULY
+                            july 2024</span><span style="color: #FF0000; background-color: rgba(255, 255, 255, 0.7);">
+                            extended 26 july
                             2024</span>
-                    </h3>
+                    </h5>
                 </div>
             </div>
         </div>
