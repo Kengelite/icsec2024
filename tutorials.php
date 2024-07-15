@@ -96,6 +96,7 @@
     }
     </style>
 </head>
+
 <body data-bs-spy="scroll" data-bs-target=".navbar">
 
     <?php
@@ -315,7 +316,6 @@
         </div>
     </section>
 
-    <!-- ANOTHER ABOUT -->
     <section id="another-about" class="section-padding">
         <div class="container">
             <div class="row">
@@ -340,6 +340,29 @@
                     </div>
                 </div>
                 <div class="col-md-8 biography" data-aos="fade-left" data-aos-delay="200">
+                    <h5><span style="font-size: 12px;">►</span> Abstract</h5>
+                    <p class="text">Transformer-based language models have achieved milestones in natural language
+                        processing, but they come with challenges, mainly due to their computational footprint.
+                        While large language models are readily available for use, it remains important to do academic
+                        research towards these for the following reasons:
+                    </p>
+                    <p class="text">(i) the training procedure and datasets of these models are typically not disclosed,
+                        and they are essentially operating as black-boxes maintained by companies. </p>
+                    <p class="text">(ii) the size of these models gives them a high computational footprint, even when
+                        deployed (inference-stage). Therefore, developing compute-efficient models that can be deployed
+                        with the computational resources available at the disposal of small- and medium-size enterprises
+                        is crucial. </p>
+                    <p class="text">(iii) models such as ChatGPT interact with society in ways that we could not imagine
+                        several years before, but many open questions remain, related to trustworthiness, privacy,
+                        security, and efficiency, especially in lower-resource contexts. It is therefore important that
+                        the research community addresses these topics and develops open-source models for future
+                        applications.</p>
+                    <p class="text">In this tutorial, we will present our research regarding how to train and optimise
+                        large language models. It will cover both the pre-training as well as the finetuning stage.</p>
+                </div>
+            </div>
+            <div class="row mt-3">
+                <div class="col-md-12" data-aos="fade-up" data-aos-delay="300">
                     <h5><span style="font-size: 12px;">►</span> Biography</h5>
                     <p class="text">Jan N. van Rijn holds a tenured position as assistant professor at Leiden
                         University, where he works in the computer science department (LIACS) and Automated Design of
@@ -357,11 +380,11 @@
                         by developing knowledge and tools that support domain experts, and make AI-experts more aware of
                         safety risks. He is one of the authors of the book ‘Metalearning: Applications to Automated
                         Machine Learning and Data Mining’ (freely accessible, published by Springer).</p>
-
                 </div>
             </div>
         </div>
     </section>
+
 
 
     <!-- Optional JavaScript -->
