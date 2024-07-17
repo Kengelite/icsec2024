@@ -248,7 +248,7 @@
                                 </div>
                             </div>
                             <h4 class="text">Submission</h4>
-                            <p class="text">Papers should be submitted electronically through the online submission system at <a href="https://edas.info/newPaper.php?c=32081&track=122518">https://edas.info/newPaper</a>;
+                            <p class="text">Papers should be submitted electronically through the online submission system at <a href="https://edas.info/login.php?rurl=aHR0cHM6Ly9lZGFzLmluZm8vbmV3UGFwZXIucGhwP2M9MzIwODEmdHJhY2s9MTIyNTE4">https://edas.info/newPaper</a>;
                                 Please indicate that your submission is for the Track = Special Session on AI in Networking and Security.
                             </p>
                             <h4 class="text">Submission Guidelines</h4>
@@ -337,6 +337,8 @@
                                 <li>Quantum machine learning</li>
                                 <li>Quantum cryptography</li>
                             </ol>
+                            <h4 class="text">Submission</h4>
+                            <p class="text">Papers should be submitted electronically through the online submission system at <a href="https://edas.info/login.php?rurl=aHR0cHM6Ly9lZGFzLmluZm8vbmV3UGFwZXIucGhwP2M9MzIwODEmdHJhY2s9MTIzNTUy">https://edas.info/newPaper</a>;</p><br><br>
                             <h4 class="text">Special Session Co-chairs:</h4>
                             <ul class="left-align">
                                 <li><b>Dr. Sanpawat Kantabutra</b>, Center of Excellence in Quantum Technology, Chiang Mai University</li>
@@ -427,6 +429,8 @@
                             <li>Cognitive Science and Applications</li>
                             <li>Biomedical Information Processing</li>
                         </ul>
+                        <h4 class="text">Submission</h4>
+                            <p class="text">Papers should be submitted electronically through the online submission system at <a href="https://edas.info/login.php?rurl=aHR0cHM6Ly9lZGFzLmluZm8vbmV3UGFwZXIucGhwP2M9MzIwODEmdHJhY2s9MTIyOTgz">https://edas.info/newPaper</a>;</p><br><br>
                         <h4 class="text">Special Session Co-chairs:</h4>
                         <ul class="left-align">
                             <li><b>Watanabe Katsumi</b>, Waseda University, Japan.</li>
@@ -469,7 +473,8 @@
                             <li>Standard, Regulatory, and Ethical considerations in AI-driven healthcare</li>
                             <li>Wearable Sensor-Based Human Activity Recognition in the Smart Healthcare System</li>
                         </ul>
-
+                        <h4 class="text">Submission</h4>
+                        <p class="text">Papers should be submitted electronically through the online submission system at <a href="https://edas.info/login.php?rurl=aHR0cHM6Ly9lZGFzLmluZm8vbmV3UGFwZXIucGhwP2M9MzIwODEmdHJhY2s9MTIyNTE4">https://edas.info/newPaper</a>;</p><br><br>
                         <h4 class="text">Honorary Chair </h4>
                         <ul class="left-align">
                             <li><b>Thanaruk Theeramunkong</b>, SIIT, Thammasat University, AIAT, Thailand</li>
@@ -534,6 +539,8 @@
                             <li>Acceptance Notification: 16 August 2024 (round 1)/ 13 September 2024 (round 2)</li>
                             <li>Camera-Ready: 16 August 2024 to 30 September 2024</li>
                         </ul>
+                        <h4 class="text">Submission</h4>
+                        <p class="text">Papers should be submitted electronically through the online submission system at <a href="https://edas.info/login.php?rurl=aHR0cHM6Ly9lZGFzLmluZm8vbmV3UGFwZXIucGhwP2M9MzIwODEmdHJhY2s9MTIzNTUz">https://edas.info/newPaper</a>;</p> <br><br>
                         <p class="text"><strong>➤ Organizers</strong> </p>
                         <ul class="left-align">
                             <li><b>Prof. Dr. Pascal Bouvry</b>, Faculty of Science, Technology and Medicine Department of Computer Science University of Luxembourg, Luxembourg</li>
@@ -594,6 +601,8 @@
                             <li>Innovative remote sensing applications</li>
                             <li>Geo Intelligence in education</li>
                         </ul>
+                        <h4 class="text">Submission</h4>
+                        <p class="text">Papers should be submitted electronically through the online submission system at <a href="https://edas.info/login.php?rurl=aHR0cHM6Ly9lZGFzLmluZm8vbmV3UGFwZXIucGhwP2M9MzIwODEmdHJhY2s9MTI0MjY0">https://edas.info/newPaper</a>;</p>
                         <p class="text"><strong>➤ Special Session Chair </strong> </p>
                         <ul class="left-align">
                             <li><b>Prof. Masahiko Nagai</b>, Center for Research and Application for Satellite Remote Sensing, Yamaguchi University, Japan</li>
