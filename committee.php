@@ -141,7 +141,11 @@
         font-size: 0.625rem;
     }
 }
-
+@media (max-width: 768px) {
+    .carousel-caption h5 span:nth-child(2) {
+        display: block;
+    }
+}
     </style>
 </head>
 <body data-bs-spy="scroll" data-bs-target=".navbar">
@@ -243,7 +247,6 @@
             <span class="visually-hidden">Next</span>
         </button>
     </div>
-    </section>
     <!-- Body -->
     <!-- Honorary -->
     <section id="Honorary" class="section-padding">

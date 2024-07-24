@@ -129,6 +129,11 @@
         font-size: 0.625rem;
     }
 }
+@media (max-width: 768px) {
+    .carousel-caption h5 span:nth-child(2) {
+        display: block;
+    }
+}
 
     </style>
 </head>
@@ -232,7 +237,6 @@
             <span class="visually-hidden">Next</span>
         </button>
     </div>
-    </section>
     <!-- ABOUT -->
     <section id="about" class="section-padding">
         <div class="container">
