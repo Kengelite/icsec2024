@@ -106,6 +106,42 @@
                 /* แบ่งเป็น 2 คอลัมน์ */
             }
         }
+        @media (max-width: 1200px) {
+    .carousel-caption h2 {
+        font-size: 1.75rem;
+    }
+    .carousel-caption h5 {
+        font-size: 1rem;
+    }
+}
+
+@media (max-width: 992px) {
+    .carousel-caption h2 {
+        font-size: 1.5rem;
+    }
+    .carousel-caption h5 {
+        font-size: 0.875rem;
+    }
+}
+
+@media (max-width: 768px) {
+    .carousel-caption h2 {
+        font-size: 1.25rem;
+    }
+    .carousel-caption h5 {
+        font-size: 0.75rem;
+    }
+}
+
+@media (max-width: 576px) {
+    .carousel-caption h2 {
+        font-size: 1rem;
+    }
+    .carousel-caption h5 {
+        font-size: 0.625rem;
+    }
+}
+
     </style>
 </head>
 <body data-bs-spy="scroll" data-bs-target=".navbar">
