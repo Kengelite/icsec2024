@@ -230,7 +230,9 @@ include './menu.php';
                                     <h5 style="color: white;">Ph.D., IEEE Fellow</h5><br>
                                     <p style="color: white;">Ludwig-Maximilians Universität München.
                                     </p>
+                                    <!-- keynot_ab_gitta.php -->
                                     <a href="https://www.ai.math.uni-muenchen.de/members/professor/kutyniok/index.html" class="btn btn-primary" target="_blank">View Profile</a>
+                                    <a href="keynot_ab_gitta.php" class="btn btn-primary">Abstract</a>
                                 </div>
                             </div>
 
