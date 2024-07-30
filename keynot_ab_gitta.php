@@ -188,14 +188,14 @@
                         discuss novel research results in this realm, which reveal possibilities to overcome these
                         current limitations. This will lead us naturally to spiking neural networks and novel computing
                         hardware such as neuromorphic hardware for future AI computing. </p> <br><br>
-                    ll on a standard set of benchmark functions.
+                    <!-- ll on a standard set of benchmark functions. -->
                 </div>
             </div>
             <div class="row mt-5">
                 <div class="col-md-4" data-aos="fade-right" data-aos-delay="100">
                     <div class="image-bio-container">
                         <div class="image-container">
-                            <img src=".\assets\images\keynoteSpeaker\Baeck_Thomas.jpg" class="img-fluid"
+                            <img src=".\assets\images\keynoteSpeaker\GittaKutyniok.jpeg" class="img-fluid"
                                 alt="Peerapon Vateekul">
                         </div>
                     </div>
