@@ -15,47 +15,52 @@
     * {
         color: black;
     }
+
     @media (max-width: 1200px) {
-    .carousel-caption h2 {
-        font-size: 1.75rem;
-    }
-    .carousel-caption h5 {
-        font-size: 1rem;
-    }
-}
+        .carousel-caption h2 {
+            font-size: 1.75rem;
+        }
 
-@media (max-width: 992px) {
-    .carousel-caption h2 {
-        font-size: 1.5rem;
+        .carousel-caption h5 {
+            font-size: 1rem;
+        }
     }
-    .carousel-caption h5 {
-        font-size: 0.875rem;
-    }
-}
 
-@media (max-width: 768px) {
-    .carousel-caption h2 {
-        font-size: 1.25rem;
-    }
-    .carousel-caption h5 {
-        font-size: 0.75rem;
-    }
-}
+    @media (max-width: 992px) {
+        .carousel-caption h2 {
+            font-size: 1.5rem;
+        }
 
-@media (max-width: 576px) {
-    .carousel-caption h2 {
-        font-size: 1rem;
+        .carousel-caption h5 {
+            font-size: 0.875rem;
+        }
     }
-    .carousel-caption h5 {
-        font-size: 0.625rem;
-    }
-}
-@media (max-width: 768px) {
-    .carousel-caption h5 span:nth-child(2) {
-        display: block;
-    }
-}
 
+    @media (max-width: 768px) {
+        .carousel-caption h2 {
+            font-size: 1.25rem;
+        }
+
+        .carousel-caption h5 {
+            font-size: 0.75rem;
+        }
+    }
+
+    @media (max-width: 576px) {
+        .carousel-caption h2 {
+            font-size: 1rem;
+        }
+
+        .carousel-caption h5 {
+            font-size: 0.625rem;
+        }
+    }
+
+    @media (max-width: 768px) {
+        .carousel-caption h5 span:nth-child(2) {
+            display: block;
+        }
+    }
     </style>
 </head>
 
@@ -337,7 +342,14 @@
                                 </div>
                                 <div>
                                     <h5>Notification of acceptance</h5>
-                                    <p>16 August 2024 (Round 1)
+                                    <p>
+                                        <span
+                                            style="color: #FF0000; text-decoration: line-through; background-color: rgba(255, 255, 255, 0.7);">
+                                            16 August 2024 (Round 1)
+                                        </span>
+                                        <span style="color: #FF0000; background-color: rgba(255, 255, 255, 0.7);">
+                                            Notified
+                                        </span>
                                         <br>
                                         13 September 2024 (Round 2)
                                     </p>
