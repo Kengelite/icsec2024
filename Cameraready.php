@@ -295,7 +295,7 @@ include './menu.php';
                                             https://ieee-pdf-express.org/account/login</a>
                                     </li>
                                     <li class="pt-2">
-                                        6.2 Create an account using your email address, Conference ID: 62781X, and a
+                                        6.2 Create an account using your email address, Conference ID: <strong>62781X</strong> , and a
                                         password of your choice, as shown in the screenshot below.
                                         <br>
                                         <div style="text-align: center;">
