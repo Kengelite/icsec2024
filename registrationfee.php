@@ -213,6 +213,27 @@ include './menu.php';
             </div>
         </div>
     </section>
+    <section id="about" class="section-padding">
+    <div class="container">
+        <div class="row">
+            <div class="col-12 text-center" data-aos="fade-down" data-aos-delay="50">
+                <div class="section-title">
+                    <h1 class="display-4 fw-semibold">Registration and Payment</h1>
+                    <div class="line"></div>
+                    
+                    <!-- เพิ่มรูปภาพแทนข้อความ -->
+                    <img src="./assets/images/Registration.png" alt="ICSEC 2024" class="mt-3 mb-4" style="max-width: 100%; height: auto;">
+                    
+                    <!-- เพิ่มลิงก์ดาวน์โหลดไฟล์ PDF และ DOC -->
+                    <div class="download-links mt-3">
+                        <a href="./assets/Registration-and-payment-instruction.pdf" download class="btn btn-primary me-2">Download PDF</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
 
     <!-- SERVICES -->
 
