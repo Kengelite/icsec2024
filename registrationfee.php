@@ -298,7 +298,7 @@ include './menu.php';
 
                         </div>
                         <img src="./assets/images/Regis_payment_p6.png" alt="ICSEC 2024" class="mt-3 mb-4"
-                            style="max-width: 100%; height: 50%;">
+                            style="max-width: 100%; height: auto;">
 
                         <!-- step7  -->
                         <div style="text-align: left;" class="mt-3"><b>Step 7 – Payment:</b> Enter valid card details
