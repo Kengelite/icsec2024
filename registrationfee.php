@@ -239,7 +239,7 @@ include './menu.php';
                                     style="color: blue !important;">https://edas.info</u></a>
                         </div>
                         <img src="./assets/images/Regis_payment_p1.png" alt="ICSEC 2024" class="mt-3 mb-4"
-                            style="max-width: 100%; height: 50%;">
+                            style="max-width: 100%; height: auto;">
 
 
                         <!-- step2 -->
@@ -249,7 +249,7 @@ include './menu.php';
 
                         </div>
                         <img src="./assets/images/Regis_payment_p2.png" alt="ICSEC 2024" class="mt-3 mb-4"
-                            style="max-width: 100%; height: 50%;">
+                            style="max-width: 100%; height: auto;">
 
 
                         <!-- step2 continue -->
@@ -260,7 +260,7 @@ include './menu.php';
 
                         </div>
                         <img src="./assets/images/Regis_payment_p2_2.png" alt="ICSEC 2024" class="mt-3 mb-4"
-                            style="max-width: 100%; height: 50%;">
+                            style="max-width: 100%; height: auto;">
 
                         <!-- step3  -->
                         <div style="text-align: left;" class="mt-3"><b>Step 3</b> – Click on the <b>Cart</b> icon of the
@@ -272,7 +272,7 @@ include './menu.php';
 
                         </div>
                         <img src="./assets/images/Regis_payment_p3.png" alt="ICSEC 2024" class="mt-3 mb-4"
-                            style="max-width: 100%; height: 50%;">
+                            style="max-width: 100%; height: auto;">
 
                         <!-- step4  -->
                         <div style="text-align: left;" class="mt-3"><b>Step 4</b> – On the next page, click on “answer
@@ -280,7 +280,7 @@ include './menu.php';
 
                         </div>
                         <img src="./assets/images/Regis_payment_p4.png" alt="ICSEC 2024" class="mt-3 mb-4"
-                            style="max-width: 100%; height: 50%;">
+                            style="max-width: 100%; height: auto;">
 
                         <!-- step5  -->
                         <div style="text-align: left;" class="mt-3"><b>Step 5</b> – Check the checkbox if Participate
@@ -289,7 +289,7 @@ include './menu.php';
 
                         </div>
                         <img src="./assets/images/Regis_payment_p5.png" alt="ICSEC 2024" class="mt-3 mb-4"
-                            style="max-width: 100%; height: 50%;">
+                            style="max-width: 100%; height: auto;">
 
                         <!-- step6  -->
                         <div style="text-align: left;" class="mt-3"><b>Step 6 – Payment:</b> Choose pay by credit card
@@ -306,7 +306,7 @@ include './menu.php';
                             check the invoice if the information is correct.
                         </div>
                         <img src="./assets/images/Regis_payment_p7.png" alt="ICSEC 2024" class="mt-3 mb-4"
-                            style="max-width: 100%; height: 50%;">
+                            style="max-width: 100%; height: auto;">
 
                         <!-- เพิ่มลิงก์ดาวน์โหลดไฟล์ PDF และ DOC -->
                         <div class="download-links mt-3">
