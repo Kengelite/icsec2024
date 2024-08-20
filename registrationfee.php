@@ -70,6 +70,10 @@
         display: block;
     }
 }
+.section-padding {
+    padding-top: 70px;
+    padding-bottom: 0px;
+}
 </style>
 
 <body data-bs-spy="scroll" data-bs-target=".navbar">
