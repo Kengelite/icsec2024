@@ -23,6 +23,7 @@
                         <a class="dropdown-item" href="./special_session.php">Special Sessions</a>
                         <a class="dropdown-item" href="./committee.php">Committee</a>
                         <a class="dropdown-item" href="./reviewer.php">Reviewer</a>
+                        <a class="dropdown-item" href="./schedule.php">Schedule</a>
                     </div>
                 </li>
                 <li class="nav-item dropdown">
