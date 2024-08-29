@@ -265,14 +265,14 @@
                             </tr>
                             <tr class=" text-start">
                                 <td>Tutorial Session 2 "An introduction to training and optimizing Large Language
-                                    Models" by Asst. Prof. Dr. Jan N. van Rijn (contunue)</td>
+                                    Models" by Asst. Prof. Dr. Jan N. van Rijn (continue)</td>
                             </tr>
                             <tr class=" text-start">
                                 <td>Workshop 1 "Digital Security Engineered for Digital-Age Education" by FORTINET
-                                    SECURITY NETWORK (THAILAND) LTD</td>
+                                    SECURITY NETWORK (THAILAND) LTD (continue)</td>
                             </tr>
                             <tr class=" text-start">
-                                <td>Workshop 2 <i> ...TBD... </i> by Bedrock Anakytics CO., LTD. </td>
+                                <td>Workshop 2 <i> ...TBD... </i> by Bedrock Anakytics CO., LTD.  (continue)</td>
                             </tr>
                             <tr class=" text-start">
                                 <td>Research Collaboration Networking</td>
