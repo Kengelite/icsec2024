@@ -270,8 +270,8 @@
                 </div>
             </div>
             <div class="row justify-content-between align-items-center">
-                <div class="col-lg-6">
-                    <div id="counter" class="section-padding d-flex align-items-center">
+                <div class="col-lg-12">
+                    <div id="counter" class="section-padding d-flex align-items-center p-5">
                         <div class="container text-center">
                             <span class="sm-title text-white" data-aos="fade-down" data-aos-delay="150">
                                 THE 28<sup style="color: white;">TH</sup> INTERNATIONAL COMPUTER SCIENCE AND ENGINEERING
@@ -308,10 +308,10 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-6">
+                <div class="col-lg-12">
                     <div data-aos="fade-down" data-aos-delay="150" class="row">
                         <div class="col-lg-6">
-                            <div class="d-flex mb-2 mt-2">
+                            <div class="d-flex mb-2  mt-5">
                                 <div class="iconbox me-4">
                                     <i class="ri-calendar-2-line"></i>
                                 </div>
@@ -320,7 +320,7 @@
                                     <p> 30 April 2024</p>
                                 </div>
                             </div>
-                            <div class="d-flex mb-2">
+                            <div class="d-flex mt-5">
                                 <div class="iconbox me-4">
                                     <i class="ri-calendar-2-line"></i>
                                 </div>
@@ -336,7 +336,7 @@
                                     </p>
                                 </div>
                             </div>
-                            <div class="d-flex mb-2">
+                            <div class="d-flex ">
                                 <div class="iconbox me-4">
                                     <i class="ri-calendar-2-line"></i>
                                 </div>
@@ -351,14 +351,21 @@
                                             Notified
                                         </span>
                                         <br>
-                                        13 September 2024 (Round 2)
+                                        <span
+                                            style="color: #FF0000; text-decoration: line-through; background-color: rgba(255, 255, 255, 0.7);">
+                                            13 September 2024 (Round 2)
+                                        </span>
+                                        <span style="color: #FF0000; background-color: rgba(255, 255, 255, 0.7);">
+                                            Notified
+                                        </span>
+                                
                                     </p>
 
                                 </div>
                             </div>
                         </div>
                         <div class="col-lg-6">
-                            <div class="d-flex mb-2">
+                            <div class="d-flex mb-2 mt-5 ">
                                 <div class="iconbox me-4">
                                     <i class="ri-calendar-2-line"></i>
                                 </div>
@@ -367,7 +374,7 @@
                                     <p>16 August – 30 September 2024</p>
                                 </div>
                             </div>
-                            <div class="d-flex mb-2">
+                            <div class="d-flex mb-2 mt-5 ">
                                 <div class="iconbox me-4">
                                     <i class="ri-calendar-2-line"></i>
                                 </div>
@@ -376,7 +383,7 @@
                                     <p>16 August – 31 October 2024</p>
                                 </div>
                             </div>
-                            <div class="d-flex mb-2">
+                            <div class="d-flex mb-2 mt-5 ">
                                 <div class="iconbox me-4">
                                     <i class="ri-calendar-2-line"></i>
                                 </div>
