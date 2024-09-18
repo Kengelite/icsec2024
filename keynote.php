@@ -90,7 +90,7 @@ include './menu.php';
    ?>
 
 
-    <div class="container">
+    <div class="container mb-5">
         <div class="row">
 
             <section id="ORGANIZED BY" class="section-padding">
@@ -102,7 +102,7 @@ include './menu.php';
                 </div>
 
                 <div class="row">
-                    <div class="col-md-4">
+                    <div class="col-md-3">
                         <div class="card image-card">
                             <img src="assets\images\keynoteSpeaker\DusitNiyato2.jpeg" class="card-img-top" alt="Image">
 
@@ -123,7 +123,7 @@ include './menu.php';
                         </div>
                     </div>
 
-                    <div class="col-md-4">
+                    <div class="col-md-3">
                         <div class="card image-card">
                             <img src="assets\images\keynoteSpeaker\ThomasBack2.jpeg" class="card-img-top" alt="Image">
 
@@ -144,7 +144,7 @@ include './menu.php';
                         </div>
                     </div>
 
-                    <div class="col-md-4">
+                    <div class="col-md-3">
                         <div class="card image-card">
                             <img src="assets\images\keynoteSpeaker\GittaKutyniok.jpeg" class="card-img-top" alt="Image">
 
@@ -157,6 +157,26 @@ include './menu.php';
                                     <!-- keynot_ab_gitta.php -->
                                     <a href="https://www.ai.math.uni-muenchen.de/members/professor/kutyniok/index.html"
                                         class="btn btn-primary" target="_blank">View Profile</a>
+                                    <a href="keynot_ab_gitta.php" class="btn btn-primary">Abstract</a>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                    <div class="col-md-3">
+                        <div class="card image-card ">
+                            <img src="assets\images\keynoteSpeaker\Prayuth.jpeg" class="card-img-top" alt="Image">
+
+                            <div class="overlay">
+                                <div class="text">
+                                 <!-- (Huawei Thailand, Enterprise CTO) -->
+                                    <h5 style="color: white;">Mr. Prayuth TungsaNgob</h5>
+                                    <h5 style="color: white;">Enterprise CTO</h5><br>
+                                    <p style="color: white;">Huawei Thailand.
+                                    </p>
+                                    <!-- keynot_ab_gitta.php -->
+                                    <!-- <a href="https://www.ai.math.uni-muenchen.de/members/professor/kutyniok/index.html"
+                                        class="btn btn-primary" target="_blank">View Profile</a> -->
                                     <a href="keynot_ab_gitta.php" class="btn btn-primary">Abstract</a>
                                 </div>
                             </div>
