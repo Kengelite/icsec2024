@@ -17,11 +17,14 @@
     * {
         color: black;
     }
+
     .image-card img {
-    width: 100%;
-    height: 400px; /* กำหนดความสูงที่ต้องการ */
-    object-fit: cover; /* จัดการให้ภาพเข้ากับกรอบ */
-}
+        width: 100%;
+        height: 400px;
+        /* กำหนดความสูงที่ต้องการ */
+        object-fit: cover;
+        /* จัดการให้ภาพเข้ากับกรอบ */
+    }
 
     .text {
         color: rgb(255, 255, 255);
@@ -174,7 +177,7 @@ include './menu.php';
 
                             <div class="overlay">
                                 <div class="text">
-                                 <!-- (Huawei Thailand, Enterprise CTO) -->
+                                    <!-- (Huawei Thailand, Enterprise CTO) -->
                                     <h5 style="color: white;">Mr. Prayuth TungsaNgob</h5>
                                     <h5 style="color: white;">Enterprise CTO</h5><br>
                                     <p style="color: white;">Huawei Thailand.
@@ -182,7 +185,8 @@ include './menu.php';
                                     <!-- keynot_ab_gitta.php -->
                                     <!-- <a href="https://www.ai.math.uni-muenchen.de/members/professor/kutyniok/index.html"
                                         class="btn btn-primary" target="_blank">View Profile</a> -->
-                                    <a href="keynot_ab_gitta.php" class="btn btn-primary">Abstract</a>
+                                    <a href="https://th.linkedin.com/in/prayuth-tungsangob-a43061119" target="_blank"
+                                        class="btn btn-primary">View Profile</a>
                                 </div>
                             </div>
 
