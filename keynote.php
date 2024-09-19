@@ -17,6 +17,11 @@
     * {
         color: black;
     }
+    .image-card img {
+    width: 100%;
+    height: 400px; /* กำหนดความสูงที่ต้องการ */
+    object-fit: cover; /* จัดการให้ภาพเข้ากับกรอบ */
+}
 
     .text {
         color: rgb(255, 255, 255);
@@ -165,7 +170,7 @@ include './menu.php';
                     </div>
                     <div class="col-md-3">
                         <div class="card image-card ">
-                            <img src="assets\images\keynoteSpeaker\Prayuth.jpeg" class="card-img-top" alt="Image">
+                            <img src="assets\images\keynoteSpeaker\Prayuth.png" class="card-img-top" alt="Image">
 
                             <div class="overlay">
                                 <div class="text">
