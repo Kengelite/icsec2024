@@ -70,6 +70,7 @@
         display: block;
     }
 }
+
 .section-padding {
     padding-top: 70px;
     padding-bottom: 0px;
@@ -185,7 +186,13 @@ include './menu.php';
                         </div>
                         <img src="./assets/images/Regis_payment_p3.png" alt="ICSEC 2024" class="mt-3 mb-4"
                             style="max-width: 100%; height: auto;">
+                        <div style="text-align: left;" class="mt-3">If you register with multiple papers, please
+                            register each paper separately with discounted registration fee ($180) for the second paper
+                            onward.
 
+                        </div>
+                        <img src="./assets/images/step3_2.png" alt="ICSEC 2024" class="mt-3 mb-4"
+                        style="max-width: 100%; height: auto;">
                         <!-- step4  -->
                         <div style="text-align: left;" class="mt-3"><b>Step 4</b> – On the next page, click on “answer
                             the registration questions” at the bottom.
