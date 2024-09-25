@@ -12,48 +12,52 @@
     <link rel="stylesheet" href="./assets/css/style.css">
 </head>
 <style>
-    *{
-        color: black;
-    }
-    .section-title {
-        text-align: center;
-    }
+* {
+    color: black;
+}
 
-    .left-align {
-        text-align: left;
-    }
+.section-title {
+    text-align: center;
+}
 
-    .text-center {
-        text-align: center;
-    }
+.left-align {
+    text-align: left;
+}
 
-    .left-align {
-        text-align: left;
-    }
+.text-center {
+    text-align: center;
+}
 
-    .section-padding {
-        padding: 50px 0;
-        /* เพิ่ม padding เพื่อระยะห่างของข้อความ */
-    }
+.left-align {
+    text-align: left;
+}
 
-    .text {
-        display: inline-block;
-        width: 100%;
-        text-align: justify;
-    }
+.section-padding {
+    padding: 50px 0;
+    /* เพิ่ม padding เพื่อระยะห่างของข้อความ */
+}
 
-    .text {
-        list-style: none;
-        padding: 0;
-        margin: 0;
-    }
-    * {
-            color: black;
-        }
-        @media (max-width: 1200px) {
+.text {
+    display: inline-block;
+    width: 100%;
+    text-align: justify;
+}
+
+.text {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+* {
+    color: black;
+}
+
+@media (max-width: 1200px) {
     .carousel-caption h2 {
         font-size: 1.75rem;
     }
+
     .carousel-caption h5 {
         font-size: 1rem;
     }
@@ -63,6 +67,7 @@
     .carousel-caption h2 {
         font-size: 1.5rem;
     }
+
     .carousel-caption h5 {
         font-size: 0.875rem;
     }
@@ -72,6 +77,7 @@
     .carousel-caption h2 {
         font-size: 1.25rem;
     }
+
     .carousel-caption h5 {
         font-size: 0.75rem;
     }
@@ -81,24 +87,27 @@
     .carousel-caption h2 {
         font-size: 1rem;
     }
+
     .carousel-caption h5 {
         font-size: 0.625rem;
     }
 }
+
 @media (max-width: 768px) {
     .carousel-caption h5 span:nth-child(2) {
         display: block;
     }
 }
+</style>
 
-</style><body data-bs-spy="scroll" data-bs-target=".navbar">
+<body data-bs-spy="scroll" data-bs-target=".navbar">
 
-<?php
+    <?php
 include './menu.php';
 ?>
 
-<!-- HERO -->
-<?php
+    <!-- HERO -->
+    <?php
    include './slide.php';
    ?>
 
@@ -112,7 +121,8 @@ include './menu.php';
                         <div class="line"></div>
                         <p class="text">
                             ICSEC 2024 is pleased to offer conference participation grants to IEEE student members.
-                            Applications for student grants must be received through the <b>Grant Application Form</b>
+                            Applications for student grants must be received through the<b> <a
+                                 target="_blank"   href="https://forms.gle/7CKSqbpjsALJUFFY6">Grant Application Form</a></b>
                             by the
                             posted deadline provided by the respective conference. ICSEC 2024 reserves the right not to
                             process late or incomplete applications.
@@ -126,7 +136,9 @@ include './menu.php';
 
                             Only one student author per paper will be awarded a grant and a student can receive only one
                             grant from ICSEC 2024.
+                            
                         </p>
+                        <div  class="col-12 text-start" style="color:red;">Deadline: October 30th, 2024</div>
                     </div>
                     <br>
 
@@ -135,35 +147,46 @@ include './menu.php';
                     <ol class="left-align ms-3">
                         <li>The applicant must be a current student (Ph.D., Master's, or Undergraduate).</li>
                         <li>The applicant must be an active student member of IEEE.</li>
-                        <li>The applicant must be the first author or co-author of an accepted paper in ICSEC 2024, attend the conference, and present the paper.</li>
-                        <li>Each applicant must be a full-time student registered toward a Bachelor's, Master's, or Ph.D. degree when applying.</li>
-                        <li>During the expense reimbursement stage, the student applicant must show proof of having registered to attend ICSEC 2024.</li>
+                        <li>The applicant must be the first author or co-author of an accepted paper in ICSEC 2024,
+                            attend the conference, and present the paper.</li>
+                        <li>Each applicant must be a full-time student registered toward a Bachelor's, Master's, or
+                            Ph.D. degree when applying.</li>
+                        <li>During the expense reimbursement stage, the student applicant must show proof of having
+                            registered to attend ICSEC 2024.</li>
                     </ol>
-                    
-                    
 
-                        <p class="left-align"><b>Guidelines for Application:</b>
+
+
+                    <p class="left-align"><b>Guidelines for Application:</b>
+                    </p>
+                    <ol class="left-align ms-3">
+                        <li>To meet the above eligibility criteria, the application must contain a letter from the
+                            student's supervisor on university letterhead as a supporting document, which certifies that
+                        </li>
+
+                        <p class="left-align ms-3 text">a. the student carries at least 50% of a full-time academic
+                            program as a registered undergraduate, master’s, or Ph.D. student in a regular program of
+                            study, and
                         </p>
-                        <ol class="left-align ms-3">
-                        <li>To meet the above eligibility criteria, the application must contain a letter from the student's supervisor on university letterhead as a supporting document, which certifies that</li>
 
-                            <p class="left-align ms-3 text">a. the student carries at least 50% of a full-time academic program as a registered undergraduate, master’s, or Ph.D. student in a regular program of study, and
-                            </p> 
+                        <p class="left-align ms-3 text">b. the student is the major contributor to the paper and
+                            approximately what was the student's contribution in percent to the paper. If the student is
+                            the sole author of the paper, this part is unnecessary. If none of the co-authors have a
+                            supervisory relationship with the student, a declaration signed by all authors confirming
+                            the applicant’s contribution is required.
 
-                            <p class="left-align ms-3 text">b. the student is the major contributor to the paper and approximately what was the student's contribution in percent to the paper. If the student is the sole author of the paper, this part is unnecessary. If none of the co-authors have a supervisory relationship with the student, a declaration signed by all authors confirming the applicant’s contribution is required.
+                        </p>
 
-                            </p>
-                          
-                            <li>Paper ID and Manuscript title must be included in the application package.
-                            </li>
-                        
-                        </ol>
+                        <li>Paper ID and Manuscript title must be included in the application package.
+                        </li>
+
+                    </ol>
                 </div>
             </div>
         </div>
     </section>
 
-    
+
 
 
 
