@@ -187,6 +187,7 @@ include './menu.php';
                                         class="btn btn-primary" target="_blank">View Profile</a> -->
                                     <a href="https://th.linkedin.com/in/prayuth-tungsangob-a43061119" target="_blank"
                                         class="btn btn-primary">View Profile</a>
+                                    <a href="abstra_keynote_ Prayuth.php" class="btn btn-primary">Abstract</a>
                                 </div>
                             </div>
 
