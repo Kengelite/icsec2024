@@ -34,7 +34,7 @@
                     <div class="dropdown-menu" aria-labelledby="navbarDropdown_submission">
                         <a class="dropdown-item" href="./submission.php">Submission Guideline</a>
                         <a class="dropdown-item" href="https://edas.info/newPaper.php?c=32081" target="_blank">Submit Your Paper</a>
-                      
+                        <a class="dropdown-item" href="./registrationfee.php">Registration</a>
                         <a class="dropdown-item" href="./Cameraready.php">Camera Ready</a>
                         <a class="dropdown-item" href="./presentation.php">Presentation Guideline</a>
                     </div>
