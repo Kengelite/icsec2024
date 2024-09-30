@@ -184,7 +184,7 @@
                                     SECURITY NETWORK (THAILAND) LTD (continue)</td>
                             </tr>
                             <tr class=" text-start">
-                                <td>Workshop 2 <i> ...TBD... </i> by Bedrock Anakytics CO., LTD.  (continue)</td>
+                                <td>Workshop 2 <i> ...TBD... </i> by Bedrock Anakytics CO., LTD. (continue)</td>
                             </tr>
                             <tr class=" text-start">
                                 <td>Research Collaboration Networking</td>
@@ -262,29 +262,31 @@
                                 <td>Registration (Onsite Participants) at Pullman Khon Kaen Raja Orchid Hotel</td>
                             </tr>
                             <tr class=" text-start">
-                                <td style="white-space: nowrap;">08.30 AM - 09.30 AM</td>
-                                <td>Representative from Huawei</td>
-                            </tr>
-                            <tr class=" text-start">
-                                <td style="white-space: nowrap;"> 09.30 AM - 10.30 AM</td>
-                                <td>Prof. Dr. Gitta Kutyniok - "Sustainable AI Computing: A Mathematical Perspective"
-                                    (Virtual)</td>
+                                <td style="white-space: nowrap;">08.30 AM - 10.15 AM</td>
+                                <td>AI Forum</td>
                             </tr>
                             <tr class="text-start table-warning">
-                                <td>10.30 AM - 10.45 AM</td>
+                                <td>10.15 AM - 10.30 AM</td>
                                 <td>Coffee Break </td>
                             </tr>
 
+                            <tr class=" text-start">
+                                <td style="white-space: nowrap;"> 10.30 AM - 11.30 AM</td>
+                                <td>Mr. Prayuth TungsaNgob - "Building the Digital University: Framework for the Future of
+                                Learning, Campus, and Research "</td>
+                            </tr>
+
                             <tr class="text-start">
-                                <td style="white-space: nowrap;">10.45 AM - 12.00 PM</td>
-                                <td>AI Forum </td>
+                                <td style="white-space: nowrap;">11.30 AM - 12.30 PM</td>
+                                <td>Prof. Dr. Gitta Kutyniok - "Sustainable AI Computing: A Mathematical Perspective"
+                                (Virtual) </td>
                             </tr>
                             <tr class="text-start table-warning">
-                                <td style="white-space: nowrap;">12.00 PM - 01.00 PM</td>
+                                <td style="white-space: nowrap;">12.30 PM - 01.15 PM</td>
                                 <td>Lunch Break </td>
                             </tr>
                             <tr class="text-start">
-                                <td style="white-space: nowrap;" rowspan="2">01.00 PM - 4.30 PM </td>
+                                <td style="white-space: nowrap;" rowspan="2">01.15 PM - 4.30 PM </td>
                                 <td>Presentations (Parallel Sessions - 7 Tracks) </td>
                             </tr>
                             <tr class="text-start">
@@ -299,8 +301,8 @@
 
                         <!-- เพิ่มลิงก์ดาวน์โหลดไฟล์ PDF และ DOC -->
                         <div class="download-links mt-3">
-                            <a href="./assets/ICSEC2024Schedule.pdf" download
-                                class="btn btn-primary me-2">Download PDF</a>
+                            <a href="./assets/ICSEC2024Schedule.pdf" download class="btn btn-primary me-2">Download
+                                PDF</a>
                         </div>
                     </div>
                 </div>
