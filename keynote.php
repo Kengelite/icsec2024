@@ -89,12 +89,12 @@
 <body data-bs-spy="scroll" data-bs-target=".navbar">
 
     <?php
-include './menu.php';
+include './menu';
 ?>
 
     <!-- HERO -->
     <?php
-   include './slide.php';
+   include './slide';
    ?>
 
 
@@ -125,6 +125,7 @@ include './menu.php';
                                     </p>
                                     <a href="https://personal.ntu.edu.sg/dniyato/" class="btn btn-primary"
                                         target="_blank">View Profile</a>
+                                        <a href="Abstract_keynote_dusit" class="btn btn-primary">Abstract</a>
                                 </div>
                             </div>
 
@@ -145,7 +146,7 @@ include './menu.php';
                                     </p>
                                     <a href="https://www.universiteitleiden.nl/en/staffmembers/thomas-back#tab-2"
                                         class="btn btn-primary" target="_blank">View Profile</a>
-                                    <a href="keynote_abstract.php" class="btn btn-primary">Abstract</a>
+                                    <a href="keynote_abstract" class="btn btn-primary">Abstract</a>
                                 </div>
                             </div>
 
@@ -162,10 +163,10 @@ include './menu.php';
                                     <h5 style="color: white;">Ph.D., IEEE Fellow</h5><br>
                                     <p style="color: white;">Ludwig-Maximilians Universität München.
                                     </p>
-                                    <!-- keynot_ab_gitta.php -->
+                                    <!-- keynot_ab_gitta -->
                                     <a href="https://www.ai.math.uni-muenchen.de/members/professor/kutyniok/index.html"
                                         class="btn btn-primary" target="_blank">View Profile</a>
-                                    <a href="keynot_ab_gitta.php" class="btn btn-primary">Abstract</a>
+                                    <a href="keynot_ab_gitta" class="btn btn-primary">Abstract</a>
                                 </div>
                             </div>
 
@@ -182,12 +183,12 @@ include './menu.php';
                                     <h5 style="color: white;">Enterprise CTO</h5><br>
                                     <p style="color: white;">Huawei Thailand.
                                     </p>
-                                    <!-- keynot_ab_gitta.php -->
+                                    <!-- keynot_ab_gitta -->
                                     <!-- <a href="https://www.ai.math.uni-muenchen.de/members/professor/kutyniok/index.html"
                                         class="btn btn-primary" target="_blank">View Profile</a> -->
                                     <a href="https://th.linkedin.com/in/prayuth-tungsangob-a43061119" target="_blank"
                                         class="btn btn-primary">View Profile</a>
-                                    <a href="abstra_keynote_ Prayuth.php" class="btn btn-primary">Abstract</a>
+                                    <a href="abstra_keynote_Prayuth" class="btn btn-primary">Abstract</a>
                                 </div>
                             </div>
 
@@ -201,7 +202,7 @@ include './menu.php';
 
 
     <?php
-    include './footer.php';
+    include './footer';
     ?>
 
 
