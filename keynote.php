@@ -88,13 +88,12 @@
 
 <body data-bs-spy="scroll" data-bs-target=".navbar">
 
-    <?php
-include './menu';
-?>
+
 
     <!-- HERO -->
     <?php
-   include './slide';
+    include './menu.php';
+   include './slide.php';
    ?>
 
 
@@ -125,7 +124,7 @@ include './menu';
                                     </p>
                                     <a href="https://personal.ntu.edu.sg/dniyato/" class="btn btn-primary"
                                         target="_blank">View Profile</a>
-                                        <a href="Abstract_keynote_dusit" class="btn btn-primary">Abstract</a>
+                                    <a href="Abstract_keynote_dusit" class="btn btn-primary">Abstract</a>
                                 </div>
                             </div>
 
