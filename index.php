@@ -228,7 +228,7 @@
                                 </div>
                                 <div>
                                     <h5>Proposal due for special sessions </h5>
-                                    <p> 30 April 2024</p>
+                                    <p  style="color: #FF0000; text-decoration: line-through; background-color: rgba(255, 255, 255, 0.7);"> 30 April 2024</p>
                                 </div>
                             </div>
                             <div class="d-flex mt-5">
@@ -282,7 +282,7 @@
                                 </div>
                                 <div>
                                     <h5>Camera Ready Submission Deadline </h5>
-                                    <p>30 September 2024</p>
+                                    <p  style="color: #FF0000; text-decoration: line-through; background-color: rgba(255, 255, 255, 0.7);">30 September 2024</p>
                                 </div>
                             </div>
                             <div class="d-flex mb-2 mt-5 ">
