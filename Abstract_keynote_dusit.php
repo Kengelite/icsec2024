@@ -220,25 +220,25 @@
                     </p> -->
                 </div>
             </div>
-            <div class="row mt-5">
-                <div class="col-md-4" data-aos="fade-right" data-aos-delay="100">
-                    <div class="image-bio-container">
-                        <div class="image-container">
-                            <img src="./assets/images/keynoteSpeaker/DusitNiyato2.jpeg" class="img-fluid"
-                                alt="Peerapon Vateekul">
+                <!-- <div class="row mt-5">
+                    <div class="col-md-4" data-aos="fade-right" data-aos-delay="100">
+                        <div class="image-bio-container">
+                            <div class="image-container">
+                                <img src="./assets/images/keynoteSpeaker/DusitNiyato2.jpeg" class="img-fluid"
+                                    alt="Peerapon Vateekul">
+                            </div>
                         </div>
                     </div>
-                </div>
-                <div class="col-md-8 biography" data-aos="fade-left" data-aos-delay="200">
-                    <h5><span style="font-size: 12px;">►</span> Brief Biography</h5>
-                    <p class="text">President's Chair Professor in Computer Science and
-                        Engineering School of
-                        Computer
-                        Science and Engineering (SCSE), Nanyang Technological University, Singapore.</p><br><br>
+                    <div class="col-md-8 biography" data-aos="fade-left" data-aos-delay="200">
+                        <h5><span style="font-size: 12px;">►</span> Brief Biography</h5>
+                        <p class="text">President's Chair Professor in Computer Science and
+                            Engineering School of
+                            Computer
+                            Science and Engineering (SCSE), Nanyang Technological University, Singapore.</p><br><br>
 
 
-                </div>
-            </div>
+                    </div>
+                </div> -->
         </div>
     </section>
 

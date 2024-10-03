@@ -203,7 +203,7 @@
                     </p>
                 </div>
             </div>
-            <div class="row mt-5">
+            <!-- <div class="row mt-5">
                 <div class="col-md-4" data-aos="fade-right" data-aos-delay="100">
                     <div class="image-bio-container">
                         <div class="image-container">
@@ -234,7 +234,7 @@
                         (Springer, 2013), author of Evolutionary Computation in Theory and Practice (OUP, New York,
                         1996) and co-author of Contemporary Evolution Strategies (Springer, 2013).</p>
                 </div>
-            </div>
+            </div> -->
         </div>
     </section>
 

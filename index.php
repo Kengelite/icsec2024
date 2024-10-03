@@ -247,7 +247,7 @@
                                     </p>
                                 </div>
                             </div>
-                            <div class="d-flex ">
+                            <div class="d-flex pt-4">
                                 <div class="iconbox me-4">
                                     <i class="ri-calendar-2-line"></i>
                                 </div>
@@ -269,7 +269,7 @@
                                         <span style="color: #FF0000; background-color: rgba(255, 255, 255, 0.7);">
                                             Notified
                                         </span>
-                                
+
                                     </p>
 
                                 </div>
@@ -291,7 +291,24 @@
                                 </div>
                                 <div>
                                     <h5>Registration </h5>
-                                    <p>16 August – 31 October 2024</p>
+                                    <p> 
+                                        <span>
+                                            7 October 2024
+                                        </span>
+                                        <span>
+                                             ( Author  )
+                                        </span>
+
+                                        <br>
+                                        <span>
+                                            31 October 2024
+                                        </span>
+                                        <span>
+                                            ( Participant  )
+                                        </span>
+                                        
+
+                                    </p>
                                 </div>
                             </div>
                             <div class="d-flex mb-2 mt-5 ">
@@ -365,11 +382,10 @@
                         <p>accepts original technical articles in all disciplines of Internet Technology and
                             Applications.</p>
                         <p>Scopus Q3</p>
-                        <p><a
-                                href="https://ph01.tci-thaijo.org/index.php/easr">https://ph01.tci-thaijo.org/index.php/easr</a>
+                        <p><a href="https://jit.ndhu.edu.tw/">https://jit.ndhu.edu.tw/</a>
                         </p>
-                        <p>2539-6161 print</p>
-                        <p>2539-6218 online</p>
+                        <p>1607-9264 print</p>
+                        <p>2079-4029 online</p>
                     </div>
                 </div>
             </div>

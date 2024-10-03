@@ -185,7 +185,7 @@
                                     <!-- keynot_ab_gitta -->
                                     <!-- <a href="https://www.ai.math.uni-muenchen.de/members/professor/kutyniok/index.html"
                                         class="btn btn-primary" target="_blank">View Profile</a> -->
-                                    <a href="https://th.linkedin.com/in/prayuth-tungsangob-a43061119" target="_blank"
+                                    <a href="./profile_keynote_prayuth" 
                                         class="btn btn-primary">View Profile</a>
                                     <a href="abstra_keynote_Prayuth" class="btn btn-primary">Abstract</a>
                                 </div>

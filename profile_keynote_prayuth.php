@@ -164,59 +164,77 @@
         <div class="container">
             <div class="row">
                 <div class="col-12 text-center" data-aos="fade-down" data-aos-delay="50">
-                    <h1 class="display-4 fw-semibold">Building the Digital University: Framework for the Future of
-                        Learning, Campus, and Research</h1>
+                    <h1 class="display-4 fw-semibold">Mr. Prayuth TungsaNgob</h1>
                     <h5><span class="small-square"></span></h5>
                     <div class="line"></div>
                 </div>
             </div>
-            <div class="row mt-3">
-                <div class="col-md-12" data-aos="fade-up" data-aos-delay="300">
-                    <h5>Abstract </h5>
+            <div class="row ">
+                <div class="col-md-4" data-aos="fade-right" data-aos-delay="100">
+                    <div class="image-bio-container">
+                        <div class="image-container">
+                            <img src=".\assets\images\keynoteSpeaker\Prayuth.png" class="img-fluid"
+                                alt="Peerapon Vateekul">
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-8 biography pt-5" data-aos="fade-left" data-aos-delay="200">
+                    <!-- <h5><span style="font-size: 12px;">►</span> Brief Biography</h5> -->
+                    <p class="text">As the Chief Technology Officer (CTO) of the Enterprise Business Group for Thailand,
+                        I am passionate about leading digital
+                        transformation initiatives that drive innovation and growth across diverse sectors. With a
+                        strong background in wireless technology, data
+                        infrastructure, cloud computing, and artificial intelligence (AI), I specialize in creating
+                        cutting-edge solutions that empower organizations
+                        to thrive in the digital age.</p><br><br>
+                    <p class="text">My experience extends to developing smart city initiatives, revolutionizing
+                        healthcare systems with smart technologies, and enhancing
+                        financial services through intelligent solutions. I am dedicated to leveraging technology to
+                        improve operational efficiency, enhance
+                        customer experiences, and drive business success.</p><br><br>
+                    <p class="text">With a focus on delivering tangible results and driving impactful change, I am
+                        committed to collaborating with stakeholders and
+                        harnessing the power of technology to create a brighter and more connected future for businesses
+                        and communities in Thailand.</p>
 
-                    <p class="text">
-                        We will explore the framework for creating a digital university that embraces next-generation
-                        learning, intelligent
-                        campus environments, and cutting-edge research capabilities. Drawing from Huawei’s vision of
-                        future technology, we
-                        will examine how digital transformation can enhance personalized education, facilitate smart
-                        campus infrastructure,
-                        and foster collaborative research ecosystems. Attendees will gain insights into the role of AI,
-                        cloud, 5G 5.5G, and
-                        data analytics in reshaping educational institutions, ensuring they remain competitive in a
-                        rapidly evolving digital
-                        landscape. </p> <br><br>
-                    <!-- <p class="text">In this presentation, I will introduce and discuss ideas to automatically optimize
-                        the
-                        optimization heuristic. This task can be approached as an algorithm configuration problem, for
-                        which I will present some examples illustrating that this task can be handled by direct global
-                        optimization algorithms – in other words, by “automatically optimizing the optimization
-                        algorithm”. I will give an example how a combinatorial design space of thousands of
-                        configuration variants of evolution strategies in a so-called modular Covariance Matrix
-                        Adaptation Evolution Strategy framework can be searched, and how the results can be analyzed
-                        using data mining. This approach provides an opportunity for discovering the unexplored areas of
-                        the optimization algorithm design space. Extensions towards other algorithm design spaces such
-                        as particle swarm optimization and differential evolution are then outlined, too. </p> <br><br>
-                    <p class="text">
-                        In the second part of the presentation, I will discuss a range of real-world engineering design
-                        applications, for which such an approach could truly provide a competitive advantage. In such
-                        cases, optimizing the optimization algorithm requires a proper definition of the problem class,
-                        for which the optimization is executed. For the example of automotive crash optimization
-                        problems, I will present first results demonstrating that these problems differ a lot from the
-                        classical benchmark test function sets used by academic community, and present an automated
-                        approach to find test functions that properly represent the real-world problem. First results on
-                        the performance gain that can be achieved by optimizing the optimization algorithm on such
-                        real-world problems are also presented.
-                    </p><br><br> -->
-                    <!-- <p class="text">
-                        To conclude, I will briefly show a novel approach for using a large language model in an
-                        iterative loop to automatically generate metaheuristic algorithms for optimization, and how this
-                        approach which we call LLaMEA (Large Language Model Evolutionary Algorithm) can generate novel
-                        metaheuristics that perform very well on a standard set of benchmark functions.
-                    </p> -->
+                    <table class="table table-bordered mt-3">
+                        <thead>
+                            <tr>
+                                <th>Duration</th>
+                                <th>Company</th>
+                                <th>Position</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>2017 - Current</td>
+                                <td>Huawei EBG</td>
+                                <td>CTO</td>
+                            </tr>
+                            <tr>
+                                <td>2015 - 2017</td>
+                                <td>Alcatel Lucent Enterprise (Thailand)</td>
+                                <td>Technical Consultant</td>
+                            </tr>
+                            <tr>
+                                <td>2012 - 2015</td>
+                                <td>Allied Telesis (Thailand)</td>
+                                <td>Technical Support and Service</td>
+                            </tr>
+                            <tr>
+                                <td>2010 - 2012</td>
+                                <td>The Practical Solution</td>
+                                <td>Presale Manager</td>
+                            </tr>
+                            <tr>
+                                <td>2008 - 2010</td>
+                                <td>The Practical Solution</td>
+                                <td>Presale (Network, Security, Virtualization and Storage)</td>
+                            </tr>
+                        </tbody>
+                    </table>
                 </div>
             </div>
-        
         </div>
     </section>
 

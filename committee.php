@@ -229,7 +229,7 @@
                         <h1 class="display-4 fw-semibold">Advisory Committee</h1>
                         <div class="line"></div>
                         <ul class="left-align justify two-columns">
-                            <li>Booncharoen Sirinaovakul<br>King Mongkutâ€™s University of Technology Thonburi, Thailand</li>
+                            <li>Booncharoen Sirinaovakul<br>King Mongkut's University of Technology Thonburi, Thailand</li>
                             <li>Chai Wutiwiwatchai<br>National Electronics and Computer Technology Center, Thailand</li>
                             <li>Boonserm Kijsirikul<br>Chulalongkorn University, Thailand</li>
                             <li>Kanchana Kanchanasut<br>Asian Institute of Technology, Thailand</li>

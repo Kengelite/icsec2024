@@ -138,7 +138,7 @@
                     <!-- ll on a standard set of benchmark functions. -->
                 </div>
             </div>
-            <div class="row mt-5">
+            <!-- <div class="row mt-5">
                 <div class="col-md-4" data-aos="fade-right" data-aos-delay="100">
                     <div class="image-bio-container">
                         <div class="image-container">
@@ -158,7 +158,7 @@
                         LMU-Director, Konrad Zuse School of Excellence in Reliable AI.</p><br><br>
 
                 </div>
-            </div>
+            </div> -->
         </div>
     </section>
 

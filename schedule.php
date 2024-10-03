@@ -224,7 +224,8 @@
                             </tr>
                             <tr class="text-start">
                                 <td style="white-space: nowrap;">11.00 AM - 12.00 PM</td>
-                                <td>Prof.Dr Dusit Niyato - <i> ...TBD... </i> </td>
+                                <td>Prof.Dr Dusit Niyato - "Large Language Models (LLMs) with Retrieval-Augmented Generation
+                                for Next Generation Networking" (Virtual) </td>
                             </tr>
                             <tr class="text-start table-warning">
                                 <td style="white-space: nowrap;">12.00 PM - 01.00 PM</td>
