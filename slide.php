@@ -34,16 +34,14 @@
                     AND ENGINEERING CONFERENCE 2024</h2> <br>
                 <h5 style="color: white;">6-8 November 2024</h5>
                 <h5 style="color: white;">
-                    Camera Ready Submission Deadline :
+                    Registration Author :
                     <span style="color: #FF0000; background-color: rgba(255, 255, 255, 0.7);">
-                        30 September
-                        2024</span>
+                        7 October 2024 </span>
                 </h5>
                 <h5 style="color: white;">
-                    Registration:
+                    Registration Participant :
                     <span style="color: #FF0000; background-color: rgba(255, 255, 255, 0.7);">
-                        16 August – 31 October
-                        2024</span>
+                        31 October 2024</span>
                 </h5>
             </div>
         </div>
