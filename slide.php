@@ -17,7 +17,6 @@
                 <h2 style="color: white;">THE 28<sup style="color: white;">TH</sup> INTERNATIONAL COMPUTER SCIENCE
                     AND ENGINEERING CONFERENCE 2024</h2> <br>
                 <h5 style="color: white;">6-8 November 2024</h5>
-
                 <h5 style="color: white;">
                     Registration Author :
                     <span style="color: #FF0000; background-color: rgba(255, 255, 255, 0.7);">
@@ -26,7 +25,8 @@
                 <h5 style="color: white;">
                     Registration Participant :
                     <span style="color: #FF0000; background-color: rgba(255, 255, 255, 0.7);">
-                        31 O
+                        31 October 2024</span>
+                </h5>
             </div>
         </div>
         <div class="carousel-item">
@@ -45,6 +45,7 @@
                     Registration Participant :
                     <span style="color: #FF0000; background-color: rgba(255, 255, 255, 0.7);">
                         31 October 2024</span>
+                </h5>
                 </h5>
             </div>
         </div>
@@ -69,7 +70,8 @@
                 <h5 style="color: white;">
                     Registration Participant :
                     <span style="color: #FF0000; background-color: rgba(255, 255, 255, 0.7);">
-                        31 O
+                        31 October 2024</span>
+                </h5>
             </div>
         </div>
         <div class="carousel-item">
@@ -93,7 +95,8 @@
                 <h5 style="color: white;">
                     Registration Participant :
                     <span style="color: #FF0000; background-color: rgba(255, 255, 255, 0.7);">
-                        31 O
+                        31 October 2024</span>
+                </h5>
             </div>
         </div>
     </div>
