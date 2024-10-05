@@ -19,11 +19,14 @@
                 <h5 style="color: white;">6-8 November 2024</h5>
 
                 <h5 style="color: white;">
-                    Registration:
+                    Registration Author :
                     <span style="color: #FF0000; background-color: rgba(255, 255, 255, 0.7);">
-                        16 August – 31 October
-                        2024</span>
+                        7 October 2024 </span>
                 </h5>
+                <h5 style="color: white;">
+                    Registration Participant :
+                    <span style="color: #FF0000; background-color: rgba(255, 255, 255, 0.7);">
+                        31 O
             </div>
         </div>
         <div class="carousel-item">
@@ -59,11 +62,14 @@
                         2024</span>
                 </h5>
                 <h5 style="color: white;">
-                    Registration:
+                    Registration Author :
                     <span style="color: #FF0000; background-color: rgba(255, 255, 255, 0.7);">
-                        16 August – 31 October
-                        2024</span>
+                        7 October 2024 </span>
                 </h5>
+                <h5 style="color: white;">
+                    Registration Participant :
+                    <span style="color: #FF0000; background-color: rgba(255, 255, 255, 0.7);">
+                        31 O
             </div>
         </div>
         <div class="carousel-item">
@@ -80,11 +86,14 @@
                         2024</span>
                 </h5>
                 <h5 style="color: white;">
-                    Registration:
+                    Registration Author :
                     <span style="color: #FF0000; background-color: rgba(255, 255, 255, 0.7);">
-                        16 August – 31 October
-                        2024</span>
+                        7 October 2024 </span>
                 </h5>
+                <h5 style="color: white;">
+                    Registration Participant :
+                    <span style="color: #FF0000; background-color: rgba(255, 255, 255, 0.7);">
+                        31 O
             </div>
         </div>
     </div>
