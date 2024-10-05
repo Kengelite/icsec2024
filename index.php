@@ -349,8 +349,8 @@
                     <div class="col-lg-7 col-md-7 m-3">
                         <h3>ECTI Transactions on Computer and Information Technology (ECTI-CIT)</h3>
                         <p>Scopus Q3</p>
-                        <p><a href="https://ecti-thailand.org/">https://ecti-thailand.org/</a></p>
-                        <p><a href="https://www.scopus.com/sourceid/17604">https://www.scopus.com/sourceid/17604</a></p>
+                        <p><a href="https://ecti-thailand.org/" target="_blank">https://ecti-thailand.org/</a></p>
+                        <p><a href="https://www.scopus.com/sourceid/17604" target="_blank">https://www.scopus.com/sourceid/17604</a></p>
                         <p>2286-9131 online</p>
                     </div>
                 </div>
@@ -367,7 +367,7 @@
                             engineering and applied science disciplines.</p>
                         <p>Scopus Q2</p>
                         <p><a
-                                href="https://ph01.tci-thaijo.org/index.php/easr">https://ph01.tci-thaijo.org/index.php/easr</a>
+                                href="https://ph01.tci-thaijo.org/index.php/easr" target="_blank">https://ph01.tci-thaijo.org/index.php/easr</a>
                         </p>
                         <p>2539-6161 print</p>
                         <p>2539-6218 online</p>
@@ -382,7 +382,7 @@
                         <p>accepts original technical articles in all disciplines of Internet Technology and
                             Applications.</p>
                         <p>Scopus Q3</p>
-                        <p><a href="https://jit.ndhu.edu.tw/">https://jit.ndhu.edu.tw/</a>
+                        <p><a href="https://jit.ndhu.edu.tw/" target="_blank">https://jit.ndhu.edu.tw/</a>
                         </p>
                         <p>1607-9264 print</p>
                         <p>2079-4029 online</p>
