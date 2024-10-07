@@ -61,6 +61,11 @@
             display: block;
         }
     }
+    .img_sponsor {
+        width: auto; /* กำหนดขนาดความกว้าง */
+        height: 150px; /* กำหนดขนาดความสูง */
+        object-fit: contain; /* ปรับขนาดรูปภาพให้พอดีภายในขอบเขต */
+    }
     </style>
 </head>
 
@@ -403,32 +408,32 @@
                         <h1 class="display-4 fw-semibold text-uppercase">co-organized BY</h1>
                         <div class="line"></div>
                         <div class="row">
-                            <div class="col-lg-3 d-flex justify-content-center align-items-center">
-                                <img src="./assets/images/organnized/1.png" class="img-fluid" alt="">
+                            <div class="col-lg-4 mt-5 d-flex justify-content-center align-items-center">
+                                <img src="./assets/images/organnized/1.png" class="img-fluid img_sponsor" alt="">
                             </div>
-                            <div class="col-lg-3 d-flex justify-content-center align-items-center">
-                                <img src="./assets/images/organnized/2.png" class="img-fluid" alt="">
+                            <div class="col-lg-4 mt-5 d-flex justify-content-center align-items-center">
+                                <img src="./assets/images/organnized/2.png" class="img-fluid img_sponsor" alt="">
                             </div>
-                            <div class="col-lg-3 d-flex justify-content-center align-items-center">
-                                <img src="./assets/images/organnized/3.png" class="img-fluid" alt="">
+                            <div class="col-lg-4 mt-5 d-flex justify-content-center align-items-center">
+                                <img src="./assets/images/organnized/3.png" class="img-fluid img_sponsor" alt="">
                             </div>
-                            <div class="col-lg-3 d-flex justify-content-center align-items-center">
-                                <img src="./assets/images/organnized/4.png" class="img-fluid" alt="">
+                            <div class="col-lg-4 mt-5 d-flex justify-content-center align-items-center">
+                                <img src="./assets/images/organnized/4.png" class="img-fluid img_sponsor" alt="">
                             </div>
-                            <div class="col-lg-3 d-flex justify-content-center align-items-center">
-                                <img src="./assets/images/organnized/5.png" class="img-fluid" alt="">
+                            <div class="col-lg-4 mt-5 d-flex justify-content-center align-items-center">
+                                <img src="./assets/images/organnized/5.png" class="img-fluid img_sponsor" alt="">
                             </div>
-                            <div class="col-lg-3 d-flex justify-content-center align-items-center">
-                                <img src="./assets/images/organnized/6.png" class="img-fluid" alt="">
+                            <div class="col-lg-4 mt-5 d-flex justify-content-center align-items-center">
+                                <img src="./assets/images/organnized/6.png" class="img-fluid img_sponsor" alt="">
                             </div>
-                            <div class="col-lg-3 d-flex justify-content-center align-items-center">
-                                <img src="./assets/images/organnized/7.png" class="img-fluid" alt="">
+                            <div class="col-lg-4 mt-5 d-flex justify-content-center align-items-center">
+                                <img src="./assets/images/organnized/7.png" class="img-fluid img_sponsor" alt="">
                             </div>
-                            <div class="col-lg-3 d-flex justify-content-center align-items-center">
-                                <img src="./assets/images/organnized/8.png" class="img-fluid" alt="">
+                            <div class="col-lg-4 mt-5 d-flex justify-content-center align-items-center">
+                                <img src="./assets/images/organnized/8.png" class="img-fluid img_sponsor" alt="">
                             </div>
-                            <div class="col-lg-3 d-flex justify-content-center align-items-center">
-                                <img src="./assets/images/organnized/9.png" class="img-fluid" alt="">
+                            <div class="col-lg-4 mt-5 d-flex justify-content-center align-items-center">
+                                <img src="./assets/images/organnized/9.png" class="img-fluid img_sponsor" alt="">
                             </div>
                         </div>
                     </div>
@@ -445,10 +450,16 @@
                         <div class="line"></div>
                         <div class="row">
                             <div class="col-lg-3 d-flex justify-content-center align-items-center">
-                                <img src="./assets/images/techberry.png" class="img-fluid" alt="">
+                                <img src="./assets/images/techberry.png" class="img-fluid img_sponsor" alt="">
                             </div>
                             <div class="col-lg-3 d-flex justify-content-center align-items-center">
-                                <img src="./assets/images/bedrock.png" class="img-fluid" alt="">
+                                <img src="./assets/images/bedrock.png" class="img-fluid img_sponsor" alt="">
+                            </div>
+                            <div class="col-lg-3 d-flex justify-content-center align-items-center">
+                                <img src="./assets/images/sponsor/hp.png" class="img-fluid img_sponsor" alt="">
+                            </div>
+                            <div class="col-lg-3 d-flex justify-content-center align-items-center">
+                                <img src="./assets/images/sponsor/TCC.jfif" class="img-fluid img_sponsor" alt="">
                             </div>
                         </div>
                     </div>
