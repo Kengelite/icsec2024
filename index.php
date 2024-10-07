@@ -449,16 +449,16 @@
                         <h1 class="display-4 fw-semibold text-uppercase">sponsored BY</h1>
                         <div class="line"></div>
                         <div class="row">
-                            <div class="col-lg-3 d-flex justify-content-center align-items-center">
+                            <div class="col-lg-3 mt-5 d-flex justify-content-center align-items-center">
                                 <img src="./assets/images/techberry.png" class="img-fluid img_sponsor" alt="">
                             </div>
-                            <div class="col-lg-3 d-flex justify-content-center align-items-center">
+                            <div class="col-lg-3 mt-5 d-flex justify-content-center align-items-center">
                                 <img src="./assets/images/bedrock.png" class="img-fluid img_sponsor" alt="">
                             </div>
-                            <div class="col-lg-3 d-flex justify-content-center align-items-center">
+                            <div class="col-lg-3 mt-5 d-flex justify-content-center align-items-center">
                                 <img src="./assets/images/sponsor/hp.png" class="img-fluid img_sponsor" alt="">
                             </div>
-                            <div class="col-lg-3 d-flex justify-content-center align-items-center">
+                            <div class="col-lg-3 mt-5 d-flex justify-content-center align-items-center">
                                 <img src="./assets/images/sponsor/TCC.jfif" class="img-fluid img_sponsor" alt="">
                             </div>
                         </div>
