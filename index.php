@@ -412,7 +412,7 @@
                                 <img src="./assets/images/organnized/1.png" class="img-fluid img_sponsor" alt="">
                             </div>
                             <div class="col-lg-4 mt-5 d-flex justify-content-center align-items-center">
-                                <img src="./assets/images/organnized/2.png" class="img-fluid img_sponsor" alt="">
+                                <img src="./assets/images/organnized/2.png" class="img-fluid " alt="">
                             </div>
                             <div class="col-lg-4 mt-5 d-flex justify-content-center align-items-center">
                                 <img src="./assets/images/organnized/3.png" class="img-fluid img_sponsor" alt="">
