@@ -130,7 +130,12 @@
                         <h5>ICSEC 2024 - Tentative Schedule <br>
                             November 6 - 8, 2024 <br>
                             at Pullman Khon Kaen Raja Orchid Hotel, Khon Kean, Thailand
+
+                            <div class="mt-3" style="color:red;">*** The paper numbers presented in the parallel sessions are from those who already
+                                have registered, paid, and indicated their prefered mode of presentation. The organizing
+                                team will keep updating the table. ***</div>
                         </h5>
+
                         <table class="table table-bordered mt-5">
                             <thead class="table-secondary">
                                 <th colspan="2">November 6, 2024 </th>
@@ -191,110 +196,307 @@
                             </tr>
                         </table>
 
+
                         <!-- วันที่ 7  -->
                         <table class="table table-bordered mt-5">
                             <thead class="table-secondary">
-                                <th colspan="2">November 7, 2024 </th>
+                                <th colspan="9">November 7, 2024 </th>
                             </thead>
-                            <tr class=" text-start">
+                            <tr class="text-start" style="background-color:#FED8B1">
                                 <th>Time</th>
-                                <th>Conference Program</th>
+                                <th colspan="8">Conference Program</th>
                             </tr>
                             <tr class=" text-start">
                                 <td style="white-space: nowrap;">08.00 AM - 08.40 AM</td>
-                                <td>Registration (Onsite Participants) at Pullman Khon Kaen Raja Orchid Hotel</td>
+                                <td colspan="8">Registration (Onsite Participants) at Pullman Khon Kaen Raja Orchid
+                                    Hotel</td>
                             </tr>
                             <tr class=" text-start">
                                 <td style="white-space: nowrap;">08.40 AM - 08.50 AM</td>
-                                <td>Video Presentation</td>
+                                <td colspan="8">Video Presentation</td>
                             </tr>
                             <tr class=" text-start">
                                 <td style="white-space: nowrap;"> 08.50 AM - 09.45 AM</td>
-                                <td>Opening Ceremony at Main Conference Hall, Pullman Khon Kaen Raja Orchid Hotel</td>
+                                <td colspan="8">Opening Ceremony at Main Conference Hall, Pullman Khon Kaen Raja Orchid
+                                    Hotel</td>
                             </tr>
                             <tr class="text-start table-warning">
                                 <td>09.45 AM - 10.00 AM</td>
-                                <td>Coffee Break </td>
+                                <td colspan="8">Coffee Break </td>
                             </tr>
 
                             <tr class="text-start">
                                 <td style="white-space: nowrap;">10.00 AM - 11.00 AM</td>
-                                <td>Prof.Dr.Thomas Back - "On the Automated Generation of Optimization Heuristics: A
+                                <td colspan="8">Prof.Dr.Thomas Back - "On the Automated Generation of Optimization
+                                    Heuristics: A
                                     Dream or Reality?" </td>
                             </tr>
                             <tr class="text-start">
                                 <td style="white-space: nowrap;">11.00 AM - 12.00 PM</td>
-                                <td>Prof.Dr Dusit Niyato - "Large Language Models (LLMs) with Retrieval-Augmented Generation
-                                for Next Generation Networking" (Virtual) </td>
+                                <td colspan="8">Prof.Dr Dusit Niyato - "Large Language Models (LLMs) with
+                                    Retrieval-Augmented
+                                    Generation
+                                    for Next Generation Networking" (Virtual) </td>
                             </tr>
                             <tr class="text-start table-warning">
-                                <td style="white-space: nowrap;">12.00 PM - 01.00 PM</td>
-                                <td>Lunch Break </td>
+                                <td>12.00 PM - 01.15 PM</td>
+                                <td colspan="8">Lunch Break </td>
+                            </tr>
+                            <tr class=" text-start">
+                                <td style="white-space: nowrap;" rowspan="3">01.15 PM - 02.30 PM</td>
+                                <td style="text-align:center; background-color:lightblue" colspan="3">Room#1</td>
+                                <td style="text-align:center;background-color:lightpink" colspan="3">Room#2</td>
+                                <td style="text-align:center;background-color:lightgreen" colspan="2">Room#3</td>
+                            </tr>
+                            <tr class=" text-start">
+                                <td colspan="3">"Real-Time AI-Based Video Analytics: Theory and Applications"</td>
+                                <td colspan="3">"Nature-inspired Robot Intelligence: From Nature to Advanced Robotics
+                                    Technology"</td>
+                                <td colspan="2"> "Revolutionizing Healthcare with Digital Twins: The Power of Generative
+                                    AI Integration"</td>
+                            </tr>
+                            <tr class=" text-start">
+                                <td colspan="3">Prof. Dr. Peerapon Vateekul, Chulalongkorn University, Thailand </td>
+                                <td colspan="3">Prof. Dr. Poramate Manoonpong, VISTEC, Thailand </td>
+                                <td colspan="2">
+                                    Prof.Dr. Paisarn Muneesawang, Computer Engineering, Mahidol University</td>
+                            </tr>
+                            <tr class="table-success ">
+                                <th colspan="9">Presentations (Parallel Sessions) </th>
+                            </tr>
+                            <tr class=" text-start">
+                                <td style="white-space: nowrap;" rowspan="1"></td>
+                                <td colspan="1" style="text-align:center;">Room#1</td>
+                                <td colspan="1" style="text-align:center;">Room#2</td>
+                                <td colspan="1" style="text-align:center;">Room#3</td>
+                                <td colspan="1" style="text-align:center;">Room#4</td>
+                                <td colspan="1" style="text-align:center;">Room#5</td>
+                                <td colspan="1" style="text-align:center;">Room#6</td>
+                                <td colspan="1" style="text-align:center;">Room#7</td>
+                                <td colspan="1" style="text-align:center;">Room#8</td>
+                            </tr>
+                            <tr class=" text-start">
+                                <td style="white-space: nowrap;" rowspan="1">Topics</td>
+                                <td colspan="1">Applied AI, Generative AI, and Machine Learning</td>
+                                <td colspan="1">Big Data, Data Science, and Applications</td>
+                                <td colspan="1">Natural Language Processing</td>
+                                <td colspan="1">Computer Educational Technology</td>
+                                <td colspan="1">Computer Vision and Image Processing</td>
+                                <td colspan="1">Computer Simulation and Modeling</td>
+                                <td colspan="1">Geo-informatics and Remote Sensing</td>
+                                <td colspan="1">Special Session: HPC, Data Lakes, and Computing Continuum (HPC-ComCon
+                                    2024)</td>
+                            </tr>
+                            <tr class=" text-start" style="background-color:#FFFFD0">
+                                <td style="white-space: nowrap;" rowspan="1">Session Chair</td>
+                                <td colspan="1">Asst. Prof. Dr. Jan N. van Rijn</td>
+                                <td colspan="1">Assoc. Prof. Wararat Songpan</td>
+                                <td colspan="1">Dr. Pongsathorn Janyoi and Dr. Arfat Ahmad Khan</td>
+                                <td colspan="1">Assoc. Prof. Dr. Kanda Runapongsa Saikaew</td>
+                                <td colspan="1"> Prof. Dr. Poramate Manoonpong</td>
+                                <td colspan="1">Asst. Prof. Dr. Khamron</td>
+                                <td colspan="1">Prof. Masahiko Nagai and Dr. Sakpod Tongleamnak</td>
+                                <td colspan="1">Prof. Pascal Bouvry</td>
+                            </tr>
+                            <tr class=" text-start">
+                                <td style="white-space: nowrap;" rowspan="5">02.30 PM - 05.00 PM</td>
+                                <td colspan="1">1571038517</td>
+                                <td colspan="1">1571048275</td>
+                                <td colspan="1">1571049090</td>
+                                <td colspan="1">1571037497</td>
+                                <td colspan="1">1571055857</td>
+                                <td colspan="1">1571056256</td>
+                                <td colspan="1">1571051358</td>
+                                <td colspan="1">1571054432</td>
                             </tr>
                             <tr class="text-start">
-                                <td style="white-space: nowrap;">01.00 PM - 2.30 PM</td>
-                                <td>Invited Speakers </td>
+                                <td colspan="1">1571054576</td>
+                                <td colspan="1">1571049136</td>
+                                <td colspan="1">1571035405</td>
+                                <td colspan="1">1571048580</td>
+                                <td colspan="1">1571038665</td>
+                                <td colspan="1">1571038480</td>
+                                <td colspan="1">1571055588</td>
+                                <td colspan="1"></td>
                             </tr>
+                            <tr class="text-start">
+                                <td colspan="1"></td>
+                                <td colspan="1"></td>
+                                <td colspan="1"></td>
+                                <td colspan="1">1571056345</td>
+                                <td colspan="1">1571048239</td>
+                                <td colspan="1">1571054846</td>
+                                <td colspan="1"></td>
+                                <td colspan="1"></td>
+                            </tr>
+                            <tr class="text-start">
+                                <td colspan="1"></td>
+                                <td colspan="1"></td>
+                                <td colspan="1"></td>
+                                <td colspan="1"></td>
+                                <td colspan="1"></td>
+                                <td colspan="1">1571055924</td>
+                                <td colspan="1"></td>
+                                <td colspan="1"></td>
+                            </tr>
+                            <tr class="text-start">
+                                <td colspan="1"></td>
+                                <td colspan="1"></td>
+                                <td colspan="1"></td>
+                                <td colspan="1"></td>
+                                <td colspan="1"></td>
+                                <td colspan="1">1571054437</td>
+                                <td colspan="1"></td>
+                                <td colspan="1"></td>
+                            </tr>
+
                             <tr class="text-start table-warning">
-                                <td style="white-space: nowrap;">02.30 PM - 2.45 PM</td>
-                                <td>Coffee Break </td>
-                            </tr>
-                            <tr class="text-start">
-                                <td style="white-space: nowrap;">02.45 PM - 05.00 PM</td>
-                                <td>Presentations (Parallel Sessions - 7 Tracks) </td>
-                            </tr>
-                            <tr class="text-start">
-                                <td style="white-space: nowrap;">06.00 PM - 10.00 PM</td>
-                                <td>Banquet and Research Networking </td>
+                                <td>06.30 PM - 09.00 PM</td>
+                                <td colspan="8">Reception and Best paper awards </td>
                             </tr>
                         </table>
+
+
+
+                        <!-- วันที่ 8  -->
 
                         <!-- วันที่ 8  -->
                         <table class="table table-bordered mt-5">
                             <thead class="table-secondary">
-                                <th colspan="2">November 8, 2024 </th>
+                                <th colspan="9">November 8, 2024 </th>
                             </thead>
-                            <tr class=" text-start">
+                            <tr class="text-start" style="background-color:#FED8B1">
                                 <th>Time</th>
-                                <th>Conference Program</th>
+                                <th colspan="8">Conference Program</th>
                             </tr>
                             <tr class=" text-start">
                                 <td style="white-space: nowrap;">08.00 AM - 08.30 AM</td>
-                                <td>Registration (Onsite Participants) at Pullman Khon Kaen Raja Orchid Hotel</td>
+                                <td colspan="8">Registration (Onsite Participants) at Pullman Khon Kaen Raja Orchid
+                                    Hotel</td>
                             </tr>
                             <tr class=" text-start">
                                 <td style="white-space: nowrap;">08.30 AM - 10.15 AM</td>
-                                <td>AI Forum</td>
+                                <td colspan="8">AI Forum</td>
                             </tr>
                             <tr class="text-start table-warning">
                                 <td>10.15 AM - 10.30 AM</td>
-                                <td>Coffee Break </td>
+                                <td colspan="8">Coffee Break </td>
                             </tr>
 
                             <tr class=" text-start">
                                 <td style="white-space: nowrap;"> 10.30 AM - 11.30 AM</td>
-                                <td>Mr. Prayuth TungsaNgob - "Building the Digital University: Framework for the Future of
-                                Learning, Campus, and Research "</td>
+                                <td colspan="8">Mr. Prayuth TungsaNgob - "Building the Digital University: Framework for
+                                    the Future
+                                    of
+                                    Learning, Campus, and Research "</td>
                             </tr>
 
                             <tr class="text-start">
                                 <td style="white-space: nowrap;">11.30 AM - 12.30 PM</td>
-                                <td>Prof. Dr. Gitta Kutyniok - "Sustainable AI Computing: A Mathematical Perspective"
-                                (Virtual) </td>
+                                <td colspan="8">Prof. Dr. Gitta Kutyniok - "Sustainable AI Computing: A Mathematical
+                                    Perspective"
+                                    (Virtual) </td>
                             </tr>
                             <tr class="text-start table-warning">
                                 <td style="white-space: nowrap;">12.30 PM - 01.15 PM</td>
-                                <td>Lunch Break </td>
+                                <td colspan="8">Lunch Break </td>
+                            </tr>
+                            <tr class="table-success ">
+                                <th colspan="9">Presentations (Parallel Sessions) </th>
+                            </tr>
+                            <tr class=" text-start">
+                                <td style="white-space: nowrap;" rowspan="1"></td>
+                                <td colspan="1" style="text-align:center;">Room#1</td>
+                                <td colspan="1" style="text-align:center;">Room#2</td>
+                                <td colspan="1" style="text-align:center;">Room#3</td>
+                                <td colspan="1" style="text-align:center;">Room#4</td>
+                                <td colspan="1" style="text-align:center;">Room#5</td>
+                                <td colspan="1" style="text-align:center;">Room#6</td>
+                                <td colspan="1" style="text-align:center;">Room#7</td>
+                                <td colspan="1" style="text-align:center;">Room#8</td>
+                            </tr>
+                            <tr class=" text-start">
+                                <td style="white-space: nowrap;" rowspan="1">Topics</td>
+                                <td colspan="1">Special Session: AI in Medical and Healthcare (AIMedHealth 2024)</td>
+                                <td colspan="1">Applied AI and Machine Learning</td>
+                                <td colspan="1">Business Intelligence</td>
+                                <td colspan="1">Cyber Security, Embedded Systems, and Robotics</td>
+                                <td colspan="1">Internet of Things, Wireless Networks and Communications</td>
+                                <td colspan="1">HCI, Software Engineering, and Software Development</td>
+                                <td colspan="1">Dr. Prinya Hom-anek
+                                    <br>
+                                    (1.30 - 2.30)
+                                    <br>
+                                    - TBA -
+                                </td>
+                                <td colspan="1" rowspan="7">Steering committee meeting</td>
+                            </tr>
+                            <tr class=" text-start" style="background-color:#FFFFD0">
+                                <td style="white-space: nowrap;" rowspan="1">Session Chair</td>
+                                <td colspan="1">Dr. Thepchai Supnithi (NECTEC)</td>
+                                <td colspan="1">Assoc.Prof. Suphakant Phimoltares and Dr. Praisan Padungweang</td>
+                                <td colspan="1">Assoc. Prof. Punyaphol Horata</td>
+                                <td colspan="1">Prof. Deepak Prashar</td>
+                                <td colspan="1">Dr. Isoon Kansurat</td>
+                                <td colspan="1">Assoc. Prof. Dr. Kanda Runapongsa Saikaew </td>
+                                <td colspan="1"></td>
                             </tr>
                             <tr class="text-start">
-                                <td style="white-space: nowrap;" rowspan="2">01.15 PM - 4.30 PM </td>
-                                <td>Presentations (Parallel Sessions - 7 Tracks) </td>
+                                <td style="white-space: nowrap;" rowspan="5">01.15 PM - 02.45 PM</td>
+                                <td colspan="1">1571055893</td>
+                                <td colspan="1">1571056139</td>
+                                <td colspan="1">1571046180</td>
+                                <td colspan="1">1571038341</td>
+                                <td colspan="1">1571038720</td>
+                                <td colspan="1">1571048826</td>
+                                <td colspan="1"></td>
                             </tr>
                             <tr class="text-start">
-                                <td>Streering Committee Meeting </td>
+                                <td colspan="1"></td>
+                                <td colspan="1">1571055829</td>
+                                <td colspan="1">1571051617</td>
+                                <td colspan="1">1571056251</td>
+                                <td colspan="1"></td>
+                                <td colspan="1"></td>
+                                <td colspan="1"></td>
                             </tr>
                             <tr class="text-start">
-                                <td style="white-space: nowrap;">4.40 PM</td>
+                                <td colspan="1"></td>
+                                <td colspan="1">1571049093</td>
+                                <td colspan="1"></td>
+                                <td colspan="1">1571048652</td>
+                                <td colspan="1"></td>
+                                <td colspan="1"></td>
+                                <td colspan="1"></td>
+                            </tr>
+                            <tr class="text-start">
+                                <td colspan="1"></td>
+                                <td colspan="1"></td>
+                                <td colspan="1"></td>
+                                <td colspan="1"></td>
+                                <td colspan="1"></td>
+                                <td colspan="1"></td>
+                                <td colspan="1"></td>
+                            </tr>
+                            <tr class="text-start">
+                                <td colspan="1"></td>
+                                <td colspan="1"></td>
+                                <td colspan="1"></td>
+                                <td colspan="1"></td>
+                                <td colspan="1"></td>
+                                <td colspan="1"></td>
+                                <td colspan="1"></td>
+                            </tr>
+                            <tr class="text-start table-warning">
+                                <td>02.45 PM - 03.00 PM</td>
+                                <td colspan="8">Coffee Break </td>
+                            </tr>
+                            <tr class="text-start ">
+                                <td>01:15 PM - 04.30 PM</td>
+                                <td colspan="8">City Tour </td>
+                            </tr>
+                            <tr class="text-start">
+                                <td style="white-space: nowrap;">04.40 PM</td>
                                 <td>Conference Closed </td>
                             </tr>
 

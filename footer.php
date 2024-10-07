@@ -31,7 +31,7 @@
                     <h5 class="mb-0 text-white">Last Updated:</h5>
                     <div class="line"></div>
                     <ul>
-                        <li> September 30, 2024 2:25 PM</li>
+                        <li> October 7, 2024 2:25 PM</li>
                     </ul>
 
 
