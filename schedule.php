@@ -145,11 +145,11 @@
                                 <th>Conference Program</th>
                             </tr>
                             <tr class=" text-start">
-                                <td style="white-space: nowrap;">12.30 PM - 1.00 PM</td>
+                                <td style="white-space: nowrap;">12.30 PM - 01.00 PM</td>
                                 <td>Registration (Onsite Participants) at Pullman Khon Kaen Raja Orchid Hotel</td>
                             </tr>
                             <tr class=" text-start">
-                                <td rowspan="5" style="white-space: nowrap;">1.00 PM - 2.30 PM</td>
+                                <td rowspan="5" style="white-space: nowrap;">01.00 PM - 02.30 PM</td>
                                 <td>Parallel Sessions for Tutorials and Workshops</td>
                             </tr>
                             <tr class=" text-start">
@@ -165,15 +165,15 @@
                                     SECURITY NETWORK (THAILAND) LTD</td>
                             </tr>
                             <tr class=" text-start">
-                                <td>Workshop 2 <i> ...TBD... </i> by Bedrock Anakytics CO., LTD. </td>
+                                <td>Workshop 1 "Your city, smarter than ever with City Digital Data Platform" by Bedrock Anakytics CO., LTD. </td>
                             </tr>
                             <tr class="text-start table-warning">
-                                <td>2.30 PM - 2.45 PM</td>
+                                <td>02.30 PM - 02.45 PM</td>
                                 <td>Coffee Break </td>
                             </tr>
 
                             <tr class="text-start">
-                                <td rowspan="6" style="white-space: nowrap;">2.45 PM - 4.30 PM</td>
+                                <td rowspan="6" style="white-space: nowrap;">02.45 PM - 04.30 PM</td>
                                 <td>Parallel Sessions for Tutorials and Workshops</td>
                             </tr>
                             <tr class=" text-start">
@@ -189,7 +189,7 @@
                                     SECURITY NETWORK (THAILAND) LTD (continue)</td>
                             </tr>
                             <tr class=" text-start">
-                                <td>Workshop 2 <i> ...TBD... </i> by Bedrock Anakytics CO., LTD. (continue)</td>
+                                <td>Workshop 2  "Deepzoom Platform"  by Bedrock Anakytics CO., LTD. (continue)</td>
                             </tr>
                             <tr class=" text-start">
                                 <td>Research Collaboration Networking</td>
@@ -504,7 +504,7 @@
 
                         <!-- เพิ่มลิงก์ดาวน์โหลดไฟล์ PDF และ DOC -->
                         <div class="download-links mt-3">
-                            <a href="./assets/ICSEC2024Schedule.pdf" download class="btn btn-primary me-2">Download
+                            <a href="./assets/ICSEC2024Schedule_v1.pdf" download class="btn btn-primary me-2">Download
                                 PDF</a>
                         </div>
                     </div>
