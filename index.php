@@ -305,10 +305,10 @@
                                 <div>
                                     <h5>Registration </h5>
                                     <p>
-                                        <span>
+                                        <span style="color: #FF0000; text-decoration: line-through; background-color: rgba(255, 255, 255, 0.7);">
                                             7 October 2024
                                         </span>
-                                        <span>
+                                        <span style="color: #FF0000; text-decoration: line-through; background-color: rgba(255, 255, 255, 0.7);">
                                             ( Author )
                                         </span>
 
