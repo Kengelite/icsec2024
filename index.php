@@ -61,10 +61,14 @@
             display: block;
         }
     }
+
     .img_sponsor {
-        width: auto; /* กำหนดขนาดความกว้าง */
-        height: 150px; /* กำหนดขนาดความสูง */
-        object-fit: contain; /* ปรับขนาดรูปภาพให้พอดีภายในขอบเขต */
+        width: auto;
+        /* กำหนดขนาดความกว้าง */
+        height: 150px;
+        /* กำหนดขนาดความสูง */
+        object-fit: contain;
+        /* ปรับขนาดรูปภาพให้พอดีภายในขอบเขต */
     }
     </style>
 </head>
@@ -233,7 +237,9 @@
                                 </div>
                                 <div>
                                     <h5>Proposal due for special sessions </h5>
-                                    <p  style="color: #FF0000; text-decoration: line-through; background-color: rgba(255, 255, 255, 0.7);"> 30 April 2024</p>
+                                    <p
+                                        style="color: #FF0000; text-decoration: line-through; background-color: rgba(255, 255, 255, 0.7);">
+                                        30 April 2024</p>
                                 </div>
                             </div>
                             <div class="d-flex mt-5">
@@ -287,7 +293,9 @@
                                 </div>
                                 <div>
                                     <h5>Camera Ready Submission Deadline </h5>
-                                    <p  style="color: #FF0000; text-decoration: line-through; background-color: rgba(255, 255, 255, 0.7);">30 September 2024</p>
+                                    <p
+                                        style="color: #FF0000; text-decoration: line-through; background-color: rgba(255, 255, 255, 0.7);">
+                                        30 September 2024</p>
                                 </div>
                             </div>
                             <div class="d-flex mb-2 mt-5 ">
@@ -296,12 +304,12 @@
                                 </div>
                                 <div>
                                     <h5>Registration </h5>
-                                    <p> 
+                                    <p>
                                         <span>
                                             7 October 2024
                                         </span>
                                         <span>
-                                             ( Author  )
+                                            ( Author )
                                         </span>
 
                                         <br>
@@ -309,9 +317,9 @@
                                             31 October 2024
                                         </span>
                                         <span>
-                                            ( Participant  )
+                                            ( Participant )
                                         </span>
-                                        
+
 
                                     </p>
                                 </div>
@@ -355,7 +363,8 @@
                         <h3>ECTI Transactions on Computer and Information Technology (ECTI-CIT)</h3>
                         <p>Scopus Q3</p>
                         <p><a href="https://ecti-thailand.org/" target="_blank">https://ecti-thailand.org/</a></p>
-                        <p><a href="https://www.scopus.com/sourceid/17604" target="_blank">https://www.scopus.com/sourceid/17604</a></p>
+                        <p><a href="https://www.scopus.com/sourceid/17604"
+                                target="_blank">https://www.scopus.com/sourceid/17604</a></p>
                         <p>2286-9131 online</p>
                     </div>
                 </div>
@@ -371,8 +380,8 @@
                             readers and authors. The journal aims to publish high quality research works related to
                             engineering and applied science disciplines.</p>
                         <p>Scopus Q2</p>
-                        <p><a
-                                href="https://ph01.tci-thaijo.org/index.php/easr" target="_blank">https://ph01.tci-thaijo.org/index.php/easr</a>
+                        <p><a href="https://ph01.tci-thaijo.org/index.php/easr"
+                                target="_blank">https://ph01.tci-thaijo.org/index.php/easr</a>
                         </p>
                         <p>2539-6161 print</p>
                         <p>2539-6218 online</p>
@@ -449,17 +458,21 @@
                         <h1 class="display-4 fw-semibold text-uppercase">sponsored BY</h1>
                         <div class="line"></div>
                         <div class="row">
-                            <div class="col-lg-3 mt-5 d-flex justify-content-center align-items-center">
+                            <div class="col-lg-4 mt-5 d-flex justify-content-center align-items-center">
                                 <img src="./assets/images/techberry.png" class="img-fluid img_sponsor" alt="">
                             </div>
-                            <div class="col-lg-3 mt-5 d-flex justify-content-center align-items-center">
+                            <div class="col-lg-4 mt-5 d-flex justify-content-center align-items-center">
                                 <img src="./assets/images/bedrock.png" class="img-fluid img_sponsor" alt="">
                             </div>
-                            <div class="col-lg-3 mt-5 d-flex justify-content-center align-items-center">
+                            <div class="col-lg-4 mt-5 d-flex justify-content-center align-items-center">
                                 <img src="./assets/images/sponsor/hp.png" class="img-fluid img_sponsor" alt="">
                             </div>
-                            <div class="col-lg-3 mt-5 d-flex justify-content-center align-items-center">
+                            <div class="col-lg-4 mt-5 d-flex justify-content-center align-items-center">
                                 <img src="./assets/images/sponsor/TCC.jfif" class="img-fluid img_sponsor" alt="">
+                            </div>
+                            <div class="col-lg-4 mt-5 d-flex justify-content-center align-items-center">
+                                <img src="https://scontent-bkk1-2.xx.fbcdn.net/v/t39.30808-6/387060045_713160577507080_2138768143565764974_n.png?_nc_cat=1&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=uiuAL3SpbIEQ7kNvgGHQzOp&_nc_ht=scontent-bkk1-2.xx&_nc_gid=AzB9hb2vIDlEapNX_EbFfyZ&oh=00_AYAaBgcW8AQ3HPyiuyJ69jub2as37271weR77hdEckQCvg&oe=670AB531"
+                                    class="img-fluid img_sponsor" alt="">
                             </div>
                         </div>
                     </div>
