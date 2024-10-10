@@ -193,7 +193,8 @@
                         Kaen airport and just a short walking distance to shopping malls.
                         <span class="ms-3">
                             To request the conference discount rate from Pullman Khon Kaen Raja Orchid, please fill the
-                            form <a href="./assets/pdf/Pullman Khon Kaen Raja Orchid Hotel.pdf" download><u style="color:blue;">download form</u></a>
+                            form <a href="./assets/pdf/Pullman Khon Kaen Raja Orchid Hotel.pdf" download><u
+                                    style="color:blue;">download form</u></a>
                             and contact
                             <a href="mailto:rsvn@pullmankhonkaen.com">rsvn@pullmankhonkaen.com</a>
                             or call the hotel at 043-913333.
@@ -316,7 +317,8 @@
                         </span>
                         <span class="ms-3">
                             To request the conference discount rate from Kosa Hotel Khon Kaen please check the
-                            information <a href="./assets/pdf/Kosa Hotel Hotel.pdf" download><u style="color:blue;">download
+                            information <a href="./assets/pdf/Kosa Hotel Hotel.pdf" download><u
+                                    style="color:blue;">download
                                     form</u></a>
                             and contact
                             <a href="mailto:reservations@kosahotel.com">reservations@kosahotel.com</a>
@@ -325,6 +327,78 @@
                     </p>
                 </div>
             </div>
+
+
+
+
+            <!-- Charoen Thani Hotel -->
+            <div class="row mt-5">
+
+                <div class="col-lg-6" data-aos="fade-left">
+                    <!-- ข้อความข้างๆรูปภาพ -->
+                    <h2>Charoen Thani Hotel Khon Kaen</h2>
+                    <p class="about-text" style="text-align: justify;">
+                        <span class="ms-3">
+                            Charoen Thani Khon Kaen Hotel is only 12 kilometers away from Khon Kaan International
+                            Airport. This 19 story hotel has a total of 320 rooms equipped with modern facilities. All
+                            rooms are exquisitely decorated. Non smoking rooms, air conditioning, bathrobes, writing
+                            desk, hair dryer, WiFi, in room safe, TV, elevator, coffee shop (cafe), bar,
+                            laundry cleaning service, meeting room, nightclub, restaurant On the first floor, there
+                            are leisure activities such as massage, massage bathtub, fitness center, sauna, spa center,
+                            outdoor swimming pool, etc. This hotel places great emphasis on customers' feelings, so you
+                            can rest assured of comfort and relaxation.
+                        </span>
+                        <br>
+
+                        <span class="ms-3">
+                            To get the conference discount rate at Charoen Thani Hotel Khon Kaen, please download the <a
+                                href="./assets/pdf/Charoen Thani Hotel Khon Kaen - ICSEC 2024 (6-8 Nov.2024).pdf"
+                                download><u style="color:blue;">reservation form</u></a> and contact the hotel at <a
+                                href="mailto:rsvn@charoenthanikhonkaen.com">rsvn@charoenthanikhonkaen.com</a> or call
+                            +66 4322 0400 14.
+                        </span>
+
+                    </p>
+                </div>
+                <div class="col-lg-6">
+                    <div id="charoenthani" class="carousel slide carousel-fade" data-bs-ride="carousel"
+                        data-aos="fade-right">
+                        <div class="carousel-inner" data-bs-interval="50">
+                            <div class="carousel-item active">
+                                <img src="https://api.tourismthailand.org/upload/live/business_content_main_image_mobile/11838/P02000094_1.jpeg"
+                                    class="d-block " alt="...">
+                            </div>
+                            <div class="carousel-item">
+                                <img src="https://hotelimg.lowestfare.com.hk/c/1466/1466908/Image/44897_15072414310032971062.jpg" class="d-block " alt="...">
+                            </div>
+                            <div class="carousel-item">
+                                <img src="https://hotelimg.lowestfare.com.hk/c/1466/1466908/Image/44897_15072414310032971086.jpg" class="d-block " alt="...">
+                            </div>
+                            <div class="carousel-item">
+                                <img src="https://www.kayak.co.th/rimg/himg/23/ec/b2/expediav2-95845-f2fa02-438955.jpg?width=1366&height=768&crop=true" class="d-block " alt="...">
+                            </div>
+                            <div class="carousel-item">
+                                <img src="https://lh3.googleusercontent.com/Bu69jlDS1gJsbe7Ue3ybTVay5zuAAzkYdWcl3ykrtNL7C9ehZI6Gn8_W26bU6na7ac1HIdHJKmW7l-r3iO0CuyYrcKbA7QmWNf1CHw=w984-h656-l80-e31" class="d-block " alt="...">
+                            </div>
+
+                        </div>
+                        <button class="carousel-control-prev" type="button" data-bs-target="#charoenthani"
+                            data-bs-slide="prev">
+                            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                            <span class="visually-hidden">Previous</span>
+                        </button>
+                        <button class="carousel-control-next" type="button" data-bs-target="#charoenthani"
+                            data-bs-slide="next">
+                            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                            <span class="visually-hidden">Next</span>
+                        </button>
+                    </div>
+                </div>
+            </div>
+
+
+
+
             <br><br>
         </div>
     </section>
