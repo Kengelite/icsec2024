@@ -305,10 +305,12 @@
                                 <div>
                                     <h5>Registration </h5>
                                     <p>
-                                        <span style="color: #FF0000; text-decoration: line-through; background-color: rgba(255, 255, 255, 0.7);">
+                                        <span
+                                            style="color: #FF0000; text-decoration: line-through; background-color: rgba(255, 255, 255, 0.7);">
                                             7 October 2024
                                         </span>
-                                        <span style="color: #FF0000; text-decoration: line-through; background-color: rgba(255, 255, 255, 0.7);">
+                                        <span
+                                            style="color: #FF0000; text-decoration: line-through; background-color: rgba(255, 255, 255, 0.7);">
                                             ( Author )
                                         </span>
 
@@ -462,18 +464,25 @@
                                 <img src="./assets/images/techberry.png" class="img-fluid img_sponsor" alt="">
                             </div>
                             <div class="col-lg-4 mt-5 d-flex justify-content-center align-items-center">
+                                <img src="https://lh3.googleusercontent.com/proxy/0ykufYFOytg5hLK4Ky34dJ8IoBYbSTcDY9jx3Ul67sQgM0fy2ndGNeGpno0pRlS90M7qLtIauzos2DGHwy6MX7SXx6hn0dzs0GhHDg"
+                                    class="img-fluid img_sponsor" alt="">
+                            </div>
+
+                            <div class="col-lg-4 mt-5 d-flex justify-content-center align-items-center">
                                 <img src="./assets/images/bedrock.png" class="img-fluid img_sponsor" alt="">
-                            </div>
-                            <div class="col-lg-4 mt-5 d-flex justify-content-center align-items-center">
-                                <img src="./assets/images/sponsor/hp.png" class="img-fluid img_sponsor" alt="">
-                            </div>
-                            <div class="col-lg-4 mt-5 d-flex justify-content-center align-items-center">
-                                <img src="./assets/images/sponsor/TCC.jfif" class="img-fluid img_sponsor" alt="">
                             </div>
                             <div class="col-lg-4 mt-5 d-flex justify-content-center align-items-center">
                                 <img src="https://scontent-bkk1-2.xx.fbcdn.net/v/t39.30808-6/387060045_713160577507080_2138768143565764974_n.png?_nc_cat=1&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=uiuAL3SpbIEQ7kNvgGHQzOp&_nc_ht=scontent-bkk1-2.xx&_nc_gid=AzB9hb2vIDlEapNX_EbFfyZ&oh=00_AYAaBgcW8AQ3HPyiuyJ69jub2as37271weR77hdEckQCvg&oe=670AB531"
                                     class="img-fluid img_sponsor" alt="">
                             </div>
+                            <div class="col-lg-4 mt-5 d-flex justify-content-center align-items-center">
+                                <img src="./assets/images/sponsor/TCC.jfif" class="img-fluid img_sponsor" alt="">
+                            </div>
+
+                            <div class="col-lg-4 mt-5 d-flex justify-content-center align-items-center">
+                                <img src="./assets/images/sponsor/gt.jpg" class="img-fluid img_sponsor" alt="">
+                            </div>
+
                         </div>
                     </div>
                 </div>
