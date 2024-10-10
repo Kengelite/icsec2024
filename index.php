@@ -482,7 +482,10 @@
                             <div class="col-lg-4 mt-5 d-flex justify-content-center align-items-center">
                                 <img src="./assets/images/sponsor/gt.jpg" class="img-fluid img_sponsor" alt="">
                             </div>
-
+                            <div class="col-lg-4 mt-5 d-flex justify-content-center align-items-center">
+                                <img src="https://www.nutanix.com/content/dam/nutanix/logos/with-padding/logo_fortinet.png" class="img-fluid img_sponsor" alt="">
+                            </div>
+                            
                         </div>
                     </div>
                 </div>
