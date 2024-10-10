@@ -24,7 +24,7 @@
                     <h5 class="mb-0 text-white">CONTACT</h5>
                     <div class="line"></div>
                     <ul>
-                        <li><a href="#" onmouseover="this.style.color='white'" onmouseout="this.style.color='rgba(255,255,255,0.7)'">
+                        <li><a href="mailto:icsec2024@kku.ac.th" onmouseover="this.style.color='white'" onmouseout="this.style.color='rgba(255,255,255,0.7)'">
                                 <i class="ri-mail-fill text-white"></i> icsec2024@kku.ac.th</a></li>
                     </ul>
 
