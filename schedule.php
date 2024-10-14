@@ -293,8 +293,8 @@
                                 <td colspan="1">Assoc. Prof. Wararat Songpan</td>
                                 <td colspan="1">Dr. Pongsathorn Janyoi and Dr. Arfat Ahmad Khan</td>
                                 <td colspan="1">Assoc. Prof. Dr. Kanda Runapongsa Saikaew</td>
-                                <td colspan="1"> Prof. Dr. Poramate Manoonpong</td>
-                                <td colspan="1">Asst. Prof. Dr. Khamron</td>
+                                <td colspan="1">Prof. Dr. Poramate Manoonpong</td>
+                                <td colspan="1">Assoc.Prof. Dr. Olarik Surinta</td>
                                 <td colspan="1">Prof. Masahiko Nagai and Dr. Sakpod Tongleamnak</td>
                                 <td colspan="1">Prof. Pascal Bouvry</td>
                             </tr>
@@ -314,7 +314,7 @@
                                 <td colspan="1">1571048275</td>
                                 <td colspan="1">1571049090</td>
                                 <td colspan="1">1571048580</td>
-                                <td colspan="1">1571038665</td>
+                                <td colspan="1">1571048928</td>
                                 <td colspan="1">1571038480</td>
                                 <td colspan="1">1571051358</td>
                                 <td colspan="1">1571047854</td>
@@ -324,7 +324,7 @@
                                 <td colspan="1">1571052530</td>
                                 <td colspan="1">1571039074</td>
                                 <td colspan="1">1571056345</td>
-                                <td colspan="1">1571048239</td>
+                                <td colspan="1">1571038665</td>
                                 <td colspan="1">1571054846</td>
                                 <td colspan="1">1571055588</td>
                                 <td colspan="1">1571071673</td>
@@ -334,7 +334,7 @@
                                 <td colspan="1">1571049136</td>
                                 <td colspan="1">1571056048</td>
                                 <td colspan="1"></td>
-                                <td colspan="1">1571048928</td>
+                                <td colspan="1">1571048239</td>
                                 <td colspan="1">1571055924</td>
                                 <td colspan="1"></td>
                                 <td colspan="1"></td>
@@ -444,7 +444,7 @@
                                 <td style="white-space: nowrap;" rowspan="1">Session Chair</td>
                                 <td colspan="1">Dr. Thepchai Supnithi (NECTEC)</td>
                                 <td colspan="1">Assoc.Prof. Suphakant Phimoltares and Dr. Praisan Padungweang</td>
-                                <td colspan="1">Assoc. Prof. Punyaphol Horata</td>
+                                <td colspan="1">Assoc. Prof. Punyaphol Horata and Dr. Jakkrit Kaewyotha</td>
                                 <td colspan="1">Prof. Deepak Prashar</td>
                                 <td colspan="1">Dr. Isoon Kansurat</td>
                                 <td colspan="1">Assoc. Prof. Dr. Kanda Runapongsa Saikaew </td>
@@ -454,16 +454,16 @@
                                 <td style="white-space: nowrap;" rowspan="5">01.15 PM - 02.45 PM</td>
                                 <td colspan="1">1571055893</td>
                                 <td colspan="1">1571056139</td>
-                                <td colspan="1">1571046180</td>
+                                <td colspan="1">1571051617</td>
                                 <td colspan="1">1571048687</td>
                                 <td colspan="1">1571038720</td>
                                 <td colspan="1">1571048826</td>
                                 <td colspan="1"></td>
                             </tr>
                             <tr class="text-start">
-                                <td colspan="1"></td>
+                                <td colspan="1">1571051917</td>
                                 <td colspan="1">1571056241</td>
-                                <td colspan="1">1571051617</td>
+                                <td colspan="1">1571049112</td>
                                 <td colspan="1">1571038341</td>
                                 <td colspan="1">1571047783</td>
                                 <td colspan="1">1571056052</td>
@@ -472,7 +472,7 @@
                             <tr class="text-start">
                                 <td colspan="1"></td>
                                 <td colspan="1">1571055829</td>
-                                <td colspan="1"></td>
+                                <td colspan="1">1571046180</td>
                                 <td colspan="1">1571056251</td>
                                 <td colspan="1">1571049029</td>
                                 <td colspan="1">1571056055</td>
@@ -481,7 +481,7 @@
                             <tr class="text-start">
                                 <td colspan="1"></td>
                                 <td colspan="1">1571049093</td>
-                                <td colspan="1"></td>
+                                <td colspan="1">1571056252</td>
                                 <td colspan="1">1571049216</td>
                                 <td colspan="1">1571056231</td>
                                 <td colspan="1">1571056056</td>
@@ -506,7 +506,7 @@
                             </tr>
                             <tr class="text-start">
                                 <td style="white-space: nowrap;">04.40 PM</td>
-                                <td>Conference Closed </td>
+                                <td colspan="8">Conference Closed </td>
                             </tr>
 
                         </table>
