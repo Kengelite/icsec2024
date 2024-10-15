@@ -472,7 +472,7 @@
                                 <img src="./assets/images/bedrock.png" class="img-fluid img_sponsor" alt="">
                             </div>
                             <div class="col-lg-4 mt-5 d-flex justify-content-center align-items-center">
-                                <img src="https://scontent-bkk1-2.xx.fbcdn.net/v/t39.30808-6/387060045_713160577507080_2138768143565764974_n.png?_nc_cat=1&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=uiuAL3SpbIEQ7kNvgGHQzOp&_nc_ht=scontent-bkk1-2.xx&_nc_gid=AzB9hb2vIDlEapNX_EbFfyZ&oh=00_AYAaBgcW8AQ3HPyiuyJ69jub2as37271weR77hdEckQCvg&oe=670AB531"
+                                <img src="https://consumer.huawei.com/.resources/huawei-cbg-site-lm-basic/webresources/mkt/etc/designs/huawei-cbg-site/clientlib-campaign-v4/common-v4/images/logo.svg"
                                     class="img-fluid img_sponsor" alt="">
                             </div>
                             <div class="col-lg-4 mt-5 d-flex justify-content-center align-items-center">
