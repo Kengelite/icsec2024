@@ -461,31 +461,35 @@
                         <div class="line"></div>
                         <div class="row">
                             <div class="col-lg-4 mt-5 d-flex justify-content-center align-items-center">
-                                <img src="./assets/images/techberry.png" class="img-fluid img_sponsor" alt="">
+                                <img src="./assets/images/bedrock.png" class="img-fluid img_sponsor" alt="bed">
+                            </div>
+                            <div class="col-lg-4 mt-5 d-flex justify-content-center align-items-center">
+                                <img src="./assets/images/sponsor/pt.png" class="img-fluid img_sponsor" alt="pt">
+                            </div>
+                            <div class="col-lg-4 mt-5 d-flex justify-content-center align-items-center">
+                                <img src="./assets/images/sponsor/TCC.jfif" class="img-fluid img_sponsor" alt="tcc">
                             </div>
                             <div class="col-lg-4 mt-5 d-flex justify-content-center align-items-center">
                                 <img src="https://lh3.googleusercontent.com/proxy/0ykufYFOytg5hLK4Ky34dJ8IoBYbSTcDY9jx3Ul67sQgM0fy2ndGNeGpno0pRlS90M7qLtIauzos2DGHwy6MX7SXx6hn0dzs0GhHDg"
-                                    class="img-fluid img_sponsor" alt="">
+                                    class="img-fluid img_sponsor" alt="nt">
                             </div>
-
                             <div class="col-lg-4 mt-5 d-flex justify-content-center align-items-center">
-                                <img src="./assets/images/bedrock.png" class="img-fluid img_sponsor" alt="">
+                                <img src="./assets/images/techberry.png" class="img-fluid img_sponsor" alt="tech">
                             </div>
                             <div class="col-lg-4 mt-5 d-flex justify-content-center align-items-center">
                                 <img src="https://consumer.huawei.com/.resources/huawei-cbg-site-lm-basic/webresources/mkt/etc/designs/huawei-cbg-site/clientlib-campaign-v4/common-v4/images/logo.svg"
-                                    class="img-fluid img_sponsor" alt="">
+                                    class="img-fluid img_sponsor" alt="hua">
                             </div>
-                            <div class="col-lg-4 mt-5 d-flex justify-content-center align-items-center">
-                                <img src="./assets/images/sponsor/TCC.jfif" class="img-fluid img_sponsor" alt="">
-                            </div>
+                          
 
                             <div class="col-lg-4 mt-5 d-flex justify-content-center align-items-center">
-                                <img src="./assets/images/sponsor/gt.jpg" class="img-fluid img_sponsor" alt="">
+                                <img src="./assets/images/sponsor/gt.jpg" class="img-fluid img_sponsor" alt="gt">
                             </div>
                             <div class="col-lg-4 mt-5 d-flex justify-content-center align-items-center">
-                                <img src="https://www.nutanix.com/content/dam/nutanix/logos/with-padding/logo_fortinet.png" class="img-fluid img_sponsor" alt="">
+                                <img src="https://www.nutanix.com/content/dam/nutanix/logos/with-padding/logo_fortinet.png"
+                                    class="img-fluid img_sponsor" alt="for">
                             </div>
-                            
+
                         </div>
                     </div>
                 </div>
