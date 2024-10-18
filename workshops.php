@@ -160,6 +160,10 @@ include './menu.php';
                                     easy it is to deploy, configure, and enable an organization to maintain security and
                                     control for a safe learning environment.</td>
                             </tr>
+                            <tr>
+                                <th>Affiliation</th>
+                                <td class="text">Fortinet Security Network (Thailand) Limited.</td>
+                            </tr>
                         </table>
 
                     </div>
@@ -210,6 +214,10 @@ include './menu.php';
                                 <th>Speaker</th>
                                 <td>Arun Ongartsittigul</td>
                             </tr>
+                            <tr>
+                                <th>Affiliation</th>
+                                <td class="text">Bedrock Analysis Company Limited.</td>
+                            </tr>
                         </table>
 
                     </div>
@@ -255,6 +263,10 @@ include './menu.php';
                             <tr>
                                 <th>Speaker</th>
                                 <td>Kasisdis Mahakijdechachai</td>
+                            </tr>
+                            <tr>
+                                <th>Affiliation</th>
+                                <td class="text">Bedrock Analysis Company Limited.</td>
                             </tr>
                         </table>
 
