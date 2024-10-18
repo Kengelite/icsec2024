@@ -216,7 +216,7 @@ include './menu.php';
                             </tr>
                             <tr>
                                 <th>Affiliation</th>
-                                <td class="text">Bedrock Analysis Company Limited.</td>
+                                <td class="text">Bedrock Analytics Company Limited.</td>
                             </tr>
                         </table>
 
@@ -266,7 +266,7 @@ include './menu.php';
                             </tr>
                             <tr>
                                 <th>Affiliation</th>
-                                <td class="text">Bedrock Analysis Company Limited.</td>
+                                <td class="text">Bedrock Analytics Company Limited.</td>
                             </tr>
                         </table>
 
