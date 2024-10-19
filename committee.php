@@ -377,8 +377,8 @@
                         <h1 class="display-4 fw-semibold">General Secretary</h1>
                         <div class="line"></div>
                         <ul class="left-align justify">
-                            <li>Chitsutha Soomlek<br>Chair of Information Technology Program, Khon Kaen University, Thailand</li>
-                            <li>Yanika Kongsorot<br>Chair of Cybersecurity Program, Khon Kaen University, Thailand</li>
+                            <li>Chitsutha Soomlek<br>Associate Dean for Research and Innovation,  Khon Kaen University, Thailand</li>
+                            <li>Yanika Kongsorot<br>College of Computing, Khon Kaen University, Thailand</li>
                         </ul>
                     </div>
                 </div>
