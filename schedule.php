@@ -513,7 +513,7 @@
 
                         <!-- เพิ่มลิงก์ดาวน์โหลดไฟล์ PDF และ DOC -->
                         <div class="download-links mt-3">
-                            <a href="./assets/ICSEC2024Schedule_v1.pdf" download class="btn btn-primary me-2">Download
+                            <a href="./assets/schedule.pdf" download class="btn btn-primary me-2">Download
                                 PDF</a>
                         </div>
                     </div>
