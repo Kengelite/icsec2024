@@ -443,8 +443,8 @@
                             <tr class=" text-start" style="background-color:#FFFFD0">
                                 <td style="white-space: nowrap;" rowspan="1">Session Chair</td>
                                 <td colspan="1">Dr. Thepchai Supnithi (NECTEC)</td>
-                                <td colspan="1">Assoc.Prof. Suphakant Phimoltares and Dr. Praisan Padungweang</td>
-                                <td colspan="1"> Dr. Jakkrit Kaewyotha</td>
+                                <td colspan="1">Dr. Praisan Padungweang</td>
+                                <td colspan="1">Dr. Jakkrit Kaewyotha</td>
                                 <td colspan="1">Prof. Deepak Prashar and Assoc. Prof. Punyaphol Horata</td>
                                 <td colspan="1">Dr. Isoon Kansurat</td>
                                 <td colspan="1">Assoc. Prof. Dr. Kanda Runapongsa Saikaew </td>
