@@ -470,6 +470,9 @@
                                 <img src="./assets/images/sponsor/f1-01.png" class="img-fluid img_sponsor" alt="pt">
                             </div>
                             <div class="col-lg-4 mt-5 d-flex justify-content-center align-items-center">
+                                <img src="./assets/images/sponsor/HPE.jpg" class="img-fluid img_sponsor" alt="pt">
+                            </div>
+                            <div class="col-lg-4 mt-5 d-flex justify-content-center align-items-center">
                                 <img src="./assets/images/sponsor/TCC.jfif" class="img-fluid img_sponsor" alt="tcc">
                             </div>
                             <div class="col-lg-4 mt-5 d-flex justify-content-center align-items-center">
