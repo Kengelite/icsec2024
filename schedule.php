@@ -673,13 +673,13 @@
                                     02.30 PM - 05.00 PM
                                 </td>
                                 <td colspan="1" style="background-color:#b7ebb2">1571038517</td>
-                                <td colspan="1" style="background-color:#f9fdb5">1571048575</td>
-                                <td colspan="1" style="background-color:#b7ebb2">1571038788</td>
+                                <td colspan="1" style="background-color:#b7ebb2">1571048575</td>
+                                <td colspan="1" style="background-color:#f9fdb5">1571038788</td>
                                 <td colspan="1" style="background-color:#b7ebb2">1571037497</td>
                                 <td colspan="1" style="background-color:#b7ebb2">1571055857</td>
                                 <td colspan="1" style="background-color:#b7ebb2">1571056256</td>
-                                <td colspan="1" style="background-color:#b7ebb2">1571056376</td>
-                                <td colspan="1" style="background-color:#f9fdb5">1571054432</td>
+                                <td colspan="1" style="background-color:#f9fdb5">1571056376</td>
+                                <td colspan="1" style="background-color:#b7ebb2">1571054432</td>
                             </tr>
                             <tr class="text-start">
                                 <td colspan="1" style="background-color:#b7ebb2">1571054980</td>
