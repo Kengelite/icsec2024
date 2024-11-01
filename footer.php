@@ -173,7 +173,7 @@
             </div>
             <div class="modal-footer">
                 <!-- <a type="button" class="btn btn-primary" target="_blank" href="https://drive.google.com/file/d/1bBxnsS_qGDyS2jXqUZJSyYJes4R7Sy41/view" style="color: white;">dowload</a> -->
-                <a type="button" class="btn btn-primary" target="_blank" href="./assets/2024-11-01-Program-City-Tour-Khon-Kaen.pdf" download="callforpaper.png" style="color: white;">Download</a>
+                <a type="button" class="btn btn-primary" target="_blank" href="./assets/2024-11-01-Program-City-Tour-Khon-Kaen.pdf" download="2024-11-01-Program-City-Tour-Khon-Kaen.pdf" style="color: white;">Download</a>
                 <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
             </div>
         </div>
