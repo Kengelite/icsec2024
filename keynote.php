@@ -173,20 +173,21 @@
                     </div>
                     <div class="col-md-3">
                         <div class="card image-card ">
-                            <img src="assets\images\keynoteSpeaker\Prayuth.png" class="card-img-top" alt="Image">
+                            <img src="assets\images\keynoteSpeaker\Thanapop.jpg" class="card-img-top" alt="Image">
 
                             <div class="overlay">
                                 <div class="text">
                                     <!-- (Huawei Thailand, Enterprise CTO) -->
-                                    <h5 style="color: white;">Mr. Prayuth TungsaNgob</h5>
-                                    <h5 style="color: white;">Enterprise CTO</h5><br>
-                                    <p style="color: white;">Huawei Thailand.
+                                    <h5 style="color: white;">Mr. Thanapop Juthavantana</h5>
+                                    
+                                    <p style="color: white;">Technical Director
+                                    Commercial and Distribution Sales Dept, Huawei Thailand
                                     </p>
                                     <!-- keynot_ab_gitta -->
                                     <!-- <a href="https://www.ai.math.uni-muenchen.de/members/professor/kutyniok/index.html"
                                         class="btn btn-primary" target="_blank">View Profile</a> -->
-                                    <a href="./profile_keynote_prayuth" 
-                                        class="btn btn-primary">View Profile</a>
+                                    <!-- <a href="./profile_keynote_prayuth" 
+                                        class="btn btn-primary">View Profile</a> -->
                                     <a href="abstra_keynote_Prayuth" class="btn btn-primary">Abstract</a>
                                 </div>
                             </div>
