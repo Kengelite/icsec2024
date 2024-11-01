@@ -429,6 +429,9 @@
                                 <img src="./assets/images/organnized/3.png" class="img-fluid img_sponsor" alt="">
                             </div>
                             <div class="col-lg-4 mt-5 d-flex justify-content-center align-items-center">
+                                <img src="./assets/images/organnized/inter.jpg" class="img-fluid img_sponsor" alt="">
+                            </div>
+                            <div class="col-lg-4 mt-5 d-flex justify-content-center align-items-center">
                                 <img src="./assets/images/organnized/4.png" class="img-fluid img_sponsor" alt="">
                             </div>
                             <div class="col-lg-4 mt-5 d-flex justify-content-center align-items-center">

@@ -48,6 +48,7 @@
                         <a class="dropdown-item" href="./invited">Invited Speakers</a>
                         <a class="dropdown-item" href="./tutorials">Tutorials</a>
                         <a class="dropdown-item" href="./workshops">Workshops</a>
+                        <a class="dropdown-item" data-bs-toggle="modal" data-bs-target="#showCityTour" id="CityTour">City Tour</a>
                     </div>
                 </li>
                 <li class="nav-item dropdown">
@@ -84,6 +85,34 @@ document.addEventListener('DOMContentLoaded', function() {
     dropdownItems.forEach(function(dropdownItem) {
         // ตรวจสอบว่าไม่ใช่ callForPapers เพื่อไม่ให้ active ตลอดเวลา
         if (dropdownItem !== callForPapers && currentUrl.indexOf(dropdownItem.href) !== -1) {
+            dropdownItem.classList.add('active');
+            var parentDropdown = dropdownItem.closest('.dropdown');
+            if (parentDropdown) {
+                var parentLink = parentDropdown.querySelector('.nav-link.dropdown-toggle');
+                if (parentLink) {
+                    parentLink.classList.add('active');
+                }
+            }
+        }
+    });
+});
+</script>
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    var currentUrl = window.location.href;
+    var menuItems = document.querySelectorAll('.navbar-nav a');
+    var dropdownItems = document.querySelectorAll('.dropdown-menu a');
+    var CityTour = document.getElementById('CityTour');
+
+    menuItems.forEach(function(menuItem) {
+        if (menuItem !== CityTour &&  currentUrl.indexOf(menuItem.href) !== -1) {
+            menuItem.classList.add('active');
+        }
+    });
+
+    dropdownItems.forEach(function(dropdownItem) {
+        // ตรวจสอบว่าไม่ใช่ CityTour เพื่อไม่ให้ active ตลอดเวลา
+        if (dropdownItem !== CityTour && currentUrl.indexOf(dropdownItem.href) !== -1) {
             dropdownItem.classList.add('active');
             var parentDropdown = dropdownItem.closest('.dropdown');
             if (parentDropdown) {
