@@ -458,12 +458,12 @@
                                             <table class="table table-bordered">
                                                 <thead>
                                                     <tr style="background-color: #f2a08a;">
-                                                        <th style="width: 10%; background-color: #f2a08a;">Room#</th>
-                                                        <th style="width: 30%; background-color: #f2a08a;">ChatTan 2
+                                                        <th style="width: 10%; background-color: #f2a08a;" class="text-center">Room#</th>
+                                                        <th style="width: 30%; background-color: #f2a08a;" class="text-center">ChatTan 2
                                                         </th>
-                                                        <th style="width: 30%; background-color: #f2a08a;">Fahmui 1 & 2
+                                                        <th style="width: 30%; background-color: #f2a08a;" class="text-center">Fahmui 1 & 2
                                                         </th>
-                                                        <th style="width: 30%; background-color: #f2a08a;">Erawan 2</th>
+                                                        <th style="width: 30%; background-color: #f2a08a;" class="text-center">Erawan 2</th>
                                                     </tr>
                                                 </thead>
                                                 <tbody>
@@ -592,10 +592,10 @@
                                             <table class="table table-bordered">
                                                 <thead>
                                                     <tr style="background-color: #99ccff;">
-                                                        <th style="width: 10%; background-color: #99ccff;">Room#</th>
+                                                        <th style="width: 10%; background-color: #99ccff;" class="text-center">Room#</th>
                                                         <th style="width: 30%; background-color: #99ccff;"></th>
-                                                        <th style="width: 30%; background-color: #99ccff;">Erawan 2</th>
-                                                        <th style="width: 30%; background-color: #99ccff;">Fah Mui 1 & 2
+                                                        <th style="width: 30%; background-color: #99ccff;" class="text-center">Erawan 2</th>
+                                                        <th style="width: 30%; background-color: #99ccff;" class="text-center">Fah Mui 1 & 2
                                                         </th>
                                                     </tr>
                                                 </thead>
