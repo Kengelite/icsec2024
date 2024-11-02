@@ -321,7 +321,7 @@
                                         <td style="background-color: #99cc99; width: 80%;">Coffee Break</td>
                                     </tr>
                                     <tr>
-                                        <td>1.00 PM - 2.30 PM</td>
+                                        <td>2.45 PM - 4.30 PM</td>
                                         <td class="inner-cell">
                                             <table class="table sub-table mt-2">
                                                 <thead>
