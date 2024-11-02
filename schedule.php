@@ -427,8 +427,8 @@
                                         <td>10.00 AM - 11.00 AM</td>
                                         <td>
                                             <b>Keynote</b><br><b>
-                                            "On the Automated Generation of Optimization Heuristics: A Dream or
-                                            Reality?"<br></b>
+                                                "On the Automated Generation of Optimization Heuristics: A Dream or
+                                                Reality?"<br></b>
                                             <span style="color: blue;">Professor Thomas Bäck, Ph.D., IEEE
                                                 Fellow</span><br>The Leiden Institute of Advanced Computer
                                             Science (LIACS), Leiden University, The Netherlands
@@ -438,8 +438,9 @@
                                         <td>11.00 AM - 12.00 PM</td>
                                         <td>
                                             <b>Keynote</b><br>
-                                            <b>"Large Language Models (LLMs) with Retrieval-Augmented Generation for Next
-                                            Generation Networking" <br>(Virtual presentation)</b>
+                                            <b>"Large Language Models (LLMs) with Retrieval-Augmented Generation for
+                                                Next
+                                                Generation Networking" <br>(Virtual presentation)</b>
                                             <br>
                                             <span style="color: blue;">Professor Dusit (Tao) Niyato, Ph.D., IEEE Fellow,
                                                 IET Fellow </span><br>
@@ -458,12 +459,16 @@
                                             <table class="table table-bordered">
                                                 <thead>
                                                     <tr style="background-color: #f2a08a;">
-                                                        <th style="width: 10%; background-color: #f2a08a;" class="text-center">Room#</th>
-                                                        <th style="width: 30%; background-color: #f2a08a;" class="text-center">ChatTan 2
+                                                        <th style="width: 10%; background-color: #f2a08a;"
+                                                            class="text-center">Room#</th>
+                                                        <th style="width: 30%; background-color: #f2a08a;"
+                                                            class="text-center">ChatTan 2
                                                         </th>
-                                                        <th style="width: 30%; background-color: #f2a08a;" class="text-center">Fahmui 1 & 2
+                                                        <th style="width: 30%; background-color: #f2a08a;"
+                                                            class="text-center">Fahmui 1 & 2
                                                         </th>
-                                                        <th style="width: 30%; background-color: #f2a08a;" class="text-center">Erawan 2</th>
+                                                        <th style="width: 30%; background-color: #f2a08a;"
+                                                            class="text-center">Erawan 2</th>
                                                     </tr>
                                                 </thead>
                                                 <tbody>
@@ -564,8 +569,8 @@
                                         <td>10.30 AM - 11.30 AM</td>
                                         <td>
                                             <b>Keynote</b><br><b>
-                                            "Building the Digital University: Framework for the Future of Learning,
-                                            Campus, and Research" <br></b>
+                                                "Building the Digital University: Framework for the Future of Learning,
+                                                Campus, and Research" <br></b>
                                             <span style="color: blue;">Mr. Thanapop Juthavantana</span><br>
                                             Technical Director Commercial and Distribution Sales Dept, Huawei Thailand,
                                             Thailand
@@ -575,8 +580,9 @@
                                         <td>11.30 AM - 12.30 PM</td>
                                         <td>
                                             <b>Keynote</b><br><b>
-                                            "Sustainable AI Computing: A Mathematical Perspective" <br>(Virtual
-                                            presentation) <br></b><span style="color: blue;">Professor Gitta Kutyniok,
+                                                "Sustainable AI Computing: A Mathematical Perspective" <br>(Virtual
+                                                presentation) <br></b><span style="color: blue;">Professor Gitta
+                                                Kutyniok,
                                                 Ph.D., IEEE Fellow </span><br>
                                             The Institute of Mathematics at the Ludwig Maximilian, University of Munich,
                                             Germany
@@ -592,10 +598,13 @@
                                             <table class="table table-bordered">
                                                 <thead>
                                                     <tr style="background-color: #99ccff;">
-                                                        <th style="width: 10%; background-color: #99ccff;" class="text-center">Room#</th>
+                                                        <th style="width: 10%; background-color: #99ccff;"
+                                                            class="text-center">Room#</th>
                                                         <th style="width: 30%; background-color: #99ccff;"></th>
-                                                        <th style="width: 30%; background-color: #99ccff;" class="text-center">Erawan 2</th>
-                                                        <th style="width: 30%; background-color: #99ccff;" class="text-center">Fah Mui 1 & 2
+                                                        <th style="width: 30%; background-color: #99ccff;"
+                                                            class="text-center">Erawan 2</th>
+                                                        <th style="width: 30%; background-color: #99ccff;"
+                                                            class="text-center">Fah Mui 1 & 2
                                                         </th>
                                                     </tr>
                                                 </thead>
@@ -842,9 +851,12 @@
 
                     <!-- เพิ่มลิงก์ดาวน์โหลดไฟล์ PDF และ DOC -->
                     <div class="download-links mt-3">
-                        <a href="./assets/Schedule_ICSEC2024-ENG.pdf" download class="btn btn-primary me-2">Download
-                            PDF</a>
+                        <a href="./assets/Schedule_ICSEC2024-ENG.pdf" download
+                            class="btn btn-primary me-2 d-inline-block">Download Schedule PDF</a>
+                        <a href="./assets/ICSEC2024_AbstractBooklet_electronics_2Nov24.pdf" download
+                            class="btn btn-primary me-2 d-inline-block">Download Abstract Booklet PDF</a>
                     </div>
+
                 </div>
             </div>
         </div>
