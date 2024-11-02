@@ -246,6 +246,7 @@
                                                         <tr class="sub-header">
                                                             <th class="text-center">Room#</th>
                                                             <th class="text-center">Fahmui 1 & 2</th>
+                                                            <th class="text-center">Chat Tan 1</th>
                                                             <th class="text-center">Fahmui 4 & 5</th>
                                                             <th class="text-center">Erawan 1 & 2</th>
                                                             <th class="text-center">Chat Tan 1 & 2</th>
@@ -256,6 +257,7 @@
                                                         <tr>
                                                             <th class="text-center">Activity</th>
                                                             <td class="text-center">Tutorial#1</td>
+                                                            <td class="text-center">Tutorial#2</td>
                                                             <td class="text-center">Tutorial#3</td>
                                                             <td class="text-center">Workshop#1</td>
                                                             <td class="text-center">Workshop#2</td>
@@ -265,6 +267,7 @@
                                                             <th class="text-center">Topic</th>
                                                             <td><b>Quantum Intelligence:<br>An Introduction to Quantum
                                                                     Computing and Quantum Machine Learning</b></td>
+                                                            <td><b>Generative AI in Data Science and Analysis</b></td>
                                                             <td><b>An introduction to training and optimizing Large
                                                                     Language Models</b></td>
                                                             <td><b>Digital Security Engineered for Digital-Age
@@ -282,6 +285,11 @@
                                                                     Ph.D.</span><br><span
                                                                     style="font-style: italic;">Vidyasirimedhi Institute
                                                                     of Science and Technology (VISTEC), Thailand</span>
+                                                            </td>
+                                                            <td><span style="color: blue;">Thanachart Numnonda,
+                                                                    Ph.D.</span><br><span
+                                                                    style="font-style: italic;">Khon Kaen University,
+                                                                    Thailand</span>
                                                             </td>
                                                             <td><span style="color: blue;">Asst. Prof. Jan N. van Rijn,
                                                                     Ph.D.</span><br><span
@@ -323,13 +331,15 @@
                                                         <th class="text-center">Fahmui 4 & 5</th>
                                                         <th class="text-center">Erawan 1 & 2</th>
                                                         <th class="text-center">Chat Tan 1 & 2</th>
-                                                        <th class="text-center">Fah Mui 3</th>
+                                                        <th class="text-center" style="width: 15%;">Fah Mui 3</th>
                                                     </tr>
                                                 </thead>
                                                 <tbody>
                                                     <tr>
                                                         <th class="text-center">Activity</th>
-                                                        <td class="text-center">Tutorial#2</td>
+                                                        <td style="text-align: center; vertical-align: middle;"
+                                                            rowspan="3">Research Collaboration and
+                                                            Networking Session</td>
                                                         <td class="text-center">Tutorial#3 (Continue)</td>
                                                         <td class="text-center">Workshop#1 (Continue)</td>
                                                         <td class="text-center">Workshop#3</td>
@@ -337,20 +347,17 @@
                                                     </tr>
                                                     <tr>
                                                         <th class="text-center">Topic</th>
-                                                        <td><b>Generative AI in Data Science and Analysis</b></td>
+
                                                         <td><b>An introduction to training and optimizing Large Language
                                                                 Models</b></td>
-                                                        <td><b>Topic "Digital Security Engineered for Digital-Age
-                                                                Education"</b><br><span style="font-style: italic;">by
-                                                                FORTINET SECURITY NETWORK (THAILAND) LTD</span></td>
-                                                        <td><b>Topic "Deepzoom Platform"</b></td>
-                                                        <td><b>Research Collaboration and Networking Session</b></td>
+                                                        <td><b>Digital Security Engineered for Digital-Age Education
+                                                        </td>
+                                                        <td><b>Deepzoom Platform</b></td>
+                                                        <td rowspan="2" style="text-align: center;">TBA</td>
                                                     </tr>
                                                     <tr>
                                                         <th class="text-center">Speakers</th>
-                                                        <td><span style="color: blue;">Thanachart Numnonda,
-                                                                Ph.D.</span><br><span style="font-style: italic;">IMC
-                                                                Institute, Thailand</span></td>
+
                                                         <td><span style="color: blue;">Asst. Prof. Jan N. van Rijn,
                                                                 Ph.D.</span><br><span style="font-style: italic;">The
                                                                 Leiden Institute of Advanced Computer Science (LIACS),
@@ -363,7 +370,7 @@
                                                                 Mahakijdechachai</span><br><span
                                                                 style="font-style: italic;">Bedrock Analytics Co.,
                                                                 Ltd.</span></td>
-                                                        <td></td>
+
                                                     </tr>
                                                 </tbody>
                                             </table>
@@ -419,9 +426,9 @@
                                     <tr>
                                         <td>10.00 AM - 11.00 AM</td>
                                         <td>
-                                            <b>Keynote</b><br>
+                                            <b>Keynote</b><br><b>
                                             "On the Automated Generation of Optimization Heuristics: A Dream or
-                                            Reality?"<br>
+                                            Reality?"<br></b>
                                             <span style="color: blue;">Professor Thomas Bäck, Ph.D., IEEE
                                                 Fellow</span><br>The Leiden Institute of Advanced Computer
                                             Science (LIACS), Leiden University, The Netherlands
@@ -431,8 +438,8 @@
                                         <td>11.00 AM - 12.00 PM</td>
                                         <td>
                                             <b>Keynote</b><br>
-                                            "Large Language Models (LLMs) with Retrieval-Augmented Generation for Next
-                                            Generation Networking" <br>(Virtual presentation)
+                                            <b>"Large Language Models (LLMs) with Retrieval-Augmented Generation for Next
+                                            Generation Networking" <br>(Virtual presentation)</b>
                                             <br>
                                             <span style="color: blue;">Professor Dusit (Tao) Niyato, Ph.D., IEEE Fellow,
                                                 IET Fellow </span><br>
@@ -477,8 +484,8 @@
                                                     </tr>
                                                     <tr>
                                                         <th>Speakers</th>
-                                                        <td><span style="color: blue;">Assoc. Prof. Peerayoot Vateekul,
-                                                                Ph.D.</span><br>
+                                                        <td><span style="color: blue;">Assoc.Prof. Peerapon Vateekul,
+                                                                Ph.D. </span><br>
                                                             <span style="font-style: italic;">Chulalongkorn University,
                                                                 Thailand</span>
                                                         </td>
@@ -544,7 +551,9 @@
                                     <tr>
                                         <td>08.30 AM - 10.15 AM</td>
                                         <td><b>AI Forum: Thailand AI Development Plan Forum (2024 – 2030)</b><br>
-                                            Computer Science Cooperative Research Network (CSCRN)
+                                            Computer Science Cooperative Research Network (CSCRN) <br>
+                                            Professor Chidchanok Lursinsap, Ph.D and Professor Sartra Wongthanavasu,
+                                            Ph.D.
                                         </td>
                                     </tr>
                                     <tr>
@@ -554,20 +563,20 @@
                                     <tr>
                                         <td>10.30 AM - 11.30 AM</td>
                                         <td>
-                                            <b>Keynote</b><br>
+                                            <b>Keynote</b><br><b>
                                             "Building the Digital University: Framework for the Future of Learning,
-                                            Campus, and Research"<br>
-                                            <span style="color: blue;">Prayuth Tungsangob, Ph.D.</span><br>
-                                            Chief Technology Officer of the Enterprise Business Group for Thailand,
-                                            Huawei Thailand, Thailand
+                                            Campus, and Research" <br></b>
+                                            <span style="color: blue;">Mr. Thanapop Juthavantana</span><br>
+                                            Technical Director Commercial and Distribution Sales Dept, Huawei Thailand,
+                                            Thailand
                                         </td>
                                     </tr>
                                     <tr>
                                         <td>11.30 AM - 12.30 PM</td>
                                         <td>
-                                            <b>Keynote</b><br>
+                                            <b>Keynote</b><br><b>
                                             "Sustainable AI Computing: A Mathematical Perspective" <br>(Virtual
-                                            presentation) <br><span style="color: blue;">Professor Gitta Kutyniok,
+                                            presentation) <br></b><span style="color: blue;">Professor Gitta Kutyniok,
                                                 Ph.D., IEEE Fellow </span><br>
                                             The Institute of Mathematics at the Ludwig Maximilian, University of Munich,
                                             Germany
@@ -833,7 +842,7 @@
 
                     <!-- เพิ่มลิงก์ดาวน์โหลดไฟล์ PDF และ DOC -->
                     <div class="download-links mt-3">
-                        <a href="./assets/schedulenew.pdf" download class="btn btn-primary me-2">Download
+                        <a href="./assets/Schedule_ICSEC2024-ENG.pdf" download class="btn btn-primary me-2">Download
                             PDF</a>
                     </div>
                 </div>
@@ -848,8 +857,8 @@
                     <div class="section-title">
                         <h1 class="display-4 fw-semibold">Floor plan</h1>
                         <div class="line"></div>
-                        <img src="./assets/images/Floorplan1.jpg" >
-                        <img src="./assets/images/Floorplan2.jpg" >
+                        <img src="./assets/images/Floorplan1.jpg">
+                        <img src="./assets/images/Floorplan2.jpg">
                     </div>
                     <div class="download-links mt-3">
                         <a href="./assets/Floorplan.pdf" download class="btn btn-primary me-2">Download
