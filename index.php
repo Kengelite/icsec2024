@@ -485,10 +485,10 @@
                             <div class="col-lg-4 mt-5 d-flex justify-content-center align-items-center">
                                 <img src="./assets/images/techberry.png" class="img-fluid img_sponsor" alt="tech">
                             </div>
-                            <div class="col-lg-4 mt-5 d-flex justify-content-center align-items-center">
+                            <!-- <div class="col-lg-4 mt-5 d-flex justify-content-center align-items-center">
                                 <img src="https://consumer.huawei.com/.resources/huawei-cbg-site-lm-basic/webresources/mkt/etc/designs/huawei-cbg-site/clientlib-campaign-v4/common-v4/images/logo.svg"
                                     class="img-fluid img_sponsor" alt="hua">
-                            </div>
+                            </div> -->
                             <div class="col-lg-4 mt-5 d-flex justify-content-center align-items-center">
                                 <img src="./assets/images/sponsor/gt.jpg" class="img-fluid img_sponsor" alt="gt">
                             </div>
