@@ -317,7 +317,7 @@
                 <div class="col-md-4 text-center" data-aos="fade-right" data-aos-delay="100">
                     <img src="./assets/images/invited/Paisarn.jpg" class="img-fluid " alt="Poramate Manoonpong">
                     <h6 class="mt-3">Paisarn Muneesawang, Ph.D.</h6>
-                    <p>Professor of Computer Engineering,  <br> Mahidol University</p>
+                    <p>Professor of Computer Engineering, <br> Mahidol University</p>
                 </div>
                 <div class="col-md-8" data-aos="fade-left" data-aos-delay="200">
                     <h5><span style="font-size: 12px;">► </span>Abstract</h5>
@@ -332,6 +332,7 @@
 
                 </div>
             </div>
+
             <div class="row mt-3">
                 <div class="col-md-12" data-aos="fade-up" data-aos-delay="300">
                     <!-- <h5><span style="font-size: 12px;">►</span> Biography</h5>
@@ -382,6 +383,87 @@
                             industry, service.</p>
                         .
                     </div> -->
+                </div>
+            </div>
+        </div>
+    </section>
+    <section id="another-about" class="ANOTHER-ABOUT section-padding">
+
+        <div class="container">
+            <div class="row">
+                <div class="col-12 text-center" data-aos="fade-down" data-aos-delay="50">
+                    <h1 class="display-4 fw-semibold">From Cybersecurity (3rd Gen) to Cyber Resilience (4th Gen) Concept
+                        & Mindset</h1>
+                    <h5><span class="small-square"></span></h5>
+                    <div class="line"></div>
+                </div>
+            </div>
+            <div class="row mt-5">
+                <div class="col-md-4 text-center" data-aos="fade-right" data-aos-delay="100">
+                    <img src="https://www.prinya.org/wp-content/uploads/2023/09/prin2.jpg" class="img-fluid "
+                        alt="Poramate Manoonpong">
+                    <h6 class="mt-3"> Prinya Hom-anek</h6>
+                    <p>CISSP, CSSLP, SSCP</p>
+                </div>
+                <div class="col-md-8" data-aos="fade-left" data-aos-delay="200">
+                    <h5><span style="font-size: 12px;">► </span>Abstract</h5>
+                    <p class="text">The shift from Cybersecurity (3rd Generation) to Cyber Resilience (4th Generation)
+                        represents an evolution in concept and mindset in response to the rapidly changing threat
+                        landscape and digital transformation.</p>
+
+                </div>
+            </div>
+
+            <div class="row mt-3">
+                <div class="col-md-12" data-aos="fade-up" data-aos-delay="300">
+                    <!-- <h5><span style="font-size: 12px;">►</span> Biography</h5>
+            <div class="text">
+                <p> <span class="ms-4"> He </span> is a Professor at the School of Information Science &
+                    Technology, Vidyasirimedhi Institute
+                    of
+                    Science & Technology (VISTEC), located in Rayong, Thailand. In addition to his primary role,
+                    he
+                    holds an ancillary academic position as a Professor of Biorobotics at the University of
+                    Southern
+                    Denmark (SDU), Denmark. Furthermore, he serves as the head of the Research Center for
+                    Advanced
+                    Robotics and Intelligent Automation at VISTEC.
+                </p>
+
+
+                <p> <span class="ms-4"> As </span> author or co-author, he has published over 120 publications
+                    in journals (e.g., Nature
+                    Physics, Nature Machine Intelligence, IEEE Transactions on Cybernetics, IEEE Transactions on
+                    Neural Networks and Learning Systems, IEEE Robotics and Automation Letters) and conferences
+                    (e.g., IROS, ICRA) and his articles have been cited in total more than 3100 citations. His
+                    H-index is 29 (from google scholar).</p>
+
+                <p><span class="ms-4"> He </span> has been the Principal Investigator (PI) or co-Principal
+                    Investigator (co-PI) on more
+                    than 10
+                    funded projects, including those funded by EU Horizon 2020, Human Frontier Science Program
+                    (HFSP), and Doctoral Networks - Marie Skłodowska-Curie Actions. Currently, he serves as an
+                    associate editor of IEEE Robotics and Automation Letters, Frontiers in Neuroscience
+                    (Neurorobotics), and Adaptive Behavior (SAGE), a guest associate editor of Frontiers in
+                    Robotics
+                    and AI, and an associate editor for IEEE International Conference on Soft Robotics
+                    (2020,2021,2022). He also serves as the editorial board of the Scientific Reports and
+                    Journal of
+                    the Royal Society Interface.</p>
+                <p> <span class="ms-4"> The </span> central goal of his research is to understand “how
+                    brain-like mechanisms and
+                    biomechanics
+                    can be realized in robots so they can become more intelligent like living creatures?”.
+                    According
+                    to this, his team has developed bio-inspired behaving robots with general bio-inspired
+                    machine
+                    learning methods and could show that these robots can acquire complex behaviors with
+                    learning
+                    and adaptation. In addition to this, his team also focuses on transferring biomechanical and
+                    neural developments of robots to other real-world applications, like inspection, healthcare,
+                    industry, service.</p>
+                .
+            </div> -->
                 </div>
             </div>
         </div>
