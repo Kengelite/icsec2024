@@ -249,7 +249,7 @@
                                                             <th class="text-center">Chat Tan 1</th>
                                                             <th class="text-center">Fahmui 4 & 5</th>
                                                             <th class="text-center">Erawan 1 & 2</th>
-                                                            <th class="text-center">Chat Tan 1 & 2</th>
+                                                            <th class="text-center">Chat Tan 2</th>
                                                             <th class="text-center">Fah Mui 3</th>
                                                         </tr>
                                                     </thead>
@@ -330,7 +330,7 @@
                                                         <th class="text-center">Fahmui 1 & 2</th>
                                                         <th class="text-center">Fahmui 4 & 5</th>
                                                         <th class="text-center">Erawan 1 & 2</th>
-                                                        <th class="text-center">Chat Tan 1 & 2</th>
+                                                        <th class="text-center">Chat Tan 2</th>
                                                         <th class="text-center" style="width: 15%;">Fah Mui 3</th>
                                                     </tr>
                                                 </thead>
@@ -622,9 +622,10 @@
                                                     </tr>
                                                     <tr>
                                                         <th>Speakers</th>
-                                                        <td><span style="color: blue;">Prinya Hom-anek, Ph.D.</span><br>
-                                                            <span style="font-style: italic;">ACIS Professional Center
-                                                                Co., Ltd., Thailand</span>
+                                                        
+                                                        <td><span style="color: blue;">Prinya Hom-anek</span><br>
+                                                            <span style="font-style: italic;">CISSP, CSSLP, SSCP</span>
+                                                            <br> From Cybersecurity (3rd Gen) to Cyber Resilience (4th Gen) Concept & Mindset
                                                         </td>
                                                     </tr>
                                                 </tbody>

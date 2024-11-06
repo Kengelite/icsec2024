@@ -400,7 +400,7 @@
             </div>
             <div class="row mt-5">
                 <div class="col-md-4 text-center" data-aos="fade-right" data-aos-delay="100">
-                    <img src="https://www.prinya.org/wp-content/uploads/2023/09/prin2.jpg" class="img-fluid "
+                    <img src="./assets/images/invited/parinya.png" class="img-fluid "
                         alt="Poramate Manoonpong">
                     <h6 class="mt-3"> Prinya Hom-anek</h6>
                     <p>CISSP, CSSLP, SSCP</p>
