@@ -392,7 +392,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-12 text-center" data-aos="fade-down" data-aos-delay="50">
-                    <h1 class="display-4 fw-semibold">From Cybersecurity (3rd Gen) to Cyber Resilience (4th Gen) Concept
+                    <h1 class="display-4 fw-semibold">Cybersecurity (3rd Gen) to Cyber Resilience (4th Gen) Concept
                         & Mindset</h1>
                     <h5><span class="small-square"></span></h5>
                     <div class="line"></div>
