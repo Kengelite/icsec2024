@@ -86,7 +86,21 @@
    ?>
 
 
+<section id="event" class="section-padding">
+        <div class="container">
+            <div class="row">
+                <div class="col-12 text-center" data-aos="fade-down" data-aos-delay="50">
+                    <div class="section-title">
+                        <h1 class="display-4 fw-semibold">Event Photos</h1>
+                        <div class="line"></div>
+                        <p>Link: <a href="https://icsec2024photo.computing.kku.ac.th/library/albums/asmhng6jnp5rad5b/6-november-2024-icsec2024">https://icsec2024photo.computing.kku.ac.th/library/albums/asmhng6jnp5rad5b/6-november-2024-icsec2024</a></p>
+                    </div>
+                </div>
 
+
+            </div>
+        </div>
+    </section>
     <!-- ABOUT -->
     <section id="about" class="section-padding">
         <div class="container">
