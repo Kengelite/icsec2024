@@ -11,66 +11,65 @@
     </div>
     <div class="carousel-inner">
         <div class="carousel-item active">
-            <img src="./assets/images/silde/bg1.png" class="d-block w-100" alt="...">
-            <div
-                class="carousel-caption d-flex flex-column h-100 align-items-center justify-content-center text-center">
-                <h2 style="color: white;">THE 28<sup style="color: white;">TH</sup> INTERNATIONAL COMPUTER SCIENCE
-                    AND ENGINEERING CONFERENCE 2024</h2> <br>
-                <h5 style="color: white;">6-8 November 2024</h5>
-               
-                <h5 style="color: white;">
-                    Registration Participant :
-                    <span style="color: #FF0000; background-color: rgba(255, 255, 255, 0.7);">
-                        31 October 2024</span>
-                </h5>
-            </div>
-        </div>
-        <div class="carousel-item">
-            <img src="./assets/images/silde/bg2.png" class="d-block w-100" alt="...">
-            <div
-                class="carousel-caption d-flex flex-column h-100 align-items-center justify-content-center text-center">
-                <h2 style="color: white;">THE 28<sup style="color: white;">TH</sup> INTERNATIONAL COMPUTER SCIENCE
-                    AND ENGINEERING CONFERENCE 2024</h2> <br>
-                <h5 style="color: white;">6-8 November 2024</h5>
-               
-                <h5 style="color: white;">
-                    Registration Participant :
-                    <span style="color: #FF0000; background-color: rgba(255, 255, 255, 0.7);">
-                        31 October 2024</span>
-                </h5>
-                </h5>
-            </div>
-        </div>
-        <div class="carousel-item">
             <img src="./assets/images/silde/bg3.png" class="d-block w-100" alt="...">
             <div
-                class="carousel-caption d-flex flex-column h-100 align-items-center justify-content-center text-center">
-                <h2 style="color: white;">THE 28<sup style="color: white;">TH</sup> INTERNATIONAL COMPUTER SCIENCE
+                class="carousel-caption d-flex flex-column h-100 align-items-center justify-content-center text-center" >
+                <h2 style="color: white; text-shadow: 2px 2px 10px black;">THE 28<sup style="color: white; text-shadow: 2px 2px 10px black;">TH</sup> INTERNATIONAL COMPUTER SCIENCE
                     AND ENGINEERING CONFERENCE 2024</h2> <br>
-                <h5 style="color: white;">6-8 November 2024</h5>
-                
+                <h5 style="color: white; text-shadow: 2px 2px 20px black;">6-8 November 2024</h5>
                
-                <h5 style="color: white;">
+                <!-- <h5 style="color: white;">
                     Registration Participant :
                     <span style="color: #FF0000; background-color: rgba(255, 255, 255, 0.7);">
                         31 October 2024</span>
-                </h5>
+                </h5> -->
             </div>
         </div>
         <div class="carousel-item">
-            <img src="./assets/images/silde/bg4.png" class="d-block w-100" alt="...">
+            <img src="./assets/images/silde/icsec07-1.png" class="d-block w-100" alt="...">
             <div
                 class="carousel-caption d-flex flex-column h-100 align-items-center justify-content-center text-center">
-                <h2 style="color: white;">THE 28<sup style="color: white;">TH</sup> INTERNATIONAL COMPUTER SCIENCE
+                <h2 style="color: white; text-shadow: 2px 2px 10px black;">THE 28<sup style="color: white; text-shadow: 2px 2px 10px black;">TH</sup> INTERNATIONAL COMPUTER SCIENCE
                     AND ENGINEERING CONFERENCE 2024</h2> <br>
-                <h5 style="color: white;">6-8 November 2024</h5>
-              
+                <h5 style="color: white; text-shadow: 2px 2px 20px black;">6-8 November 2024</h5>
                
-                <h5 style="color: white;">
+                <!-- <h5 style="color: white;">
                     Registration Participant :
                     <span style="color: #FF0000; background-color: rgba(255, 255, 255, 0.7);">
                         31 October 2024</span>
-                </h5>
+                </h5> -->
+            </div>
+        </div>
+        <div class="carousel-item">
+            <img src="./assets/images/silde/icsec07-2.png" class="d-block w-100" alt="...">
+            <div
+                class="carousel-caption d-flex flex-column h-100 align-items-center justify-content-center text-center">
+                <h2 style="color: white; text-shadow: 2px 2px 10px black;">THE 28<sup style="color: white; text-shadow: 2px 2px 10px black;">TH</sup> INTERNATIONAL COMPUTER SCIENCE
+                    AND ENGINEERING CONFERENCE 2024</h2> <br>
+                <h5 style="color: white; text-shadow: 2px 2px 20px black;">6-8 November 2024</h5>
+                
+               
+                <!-- <h5 style="color: white;">
+                    Registration Participant :
+                    <span style="color: #FF0000; background-color: rgba(255, 255, 255, 0.7);">
+                        31 October 2024</span>
+                </h5> -->
+            </div>
+        </div>
+        <div class="carousel-item">
+            <img src="./assets/images/silde/icsec07-3.png" class="d-block w-100" alt="...">
+            <div
+                class="carousel-caption d-flex flex-column h-100 align-items-center justify-content-center text-center">
+                <h2 style="color: white; text-shadow: 2px 2px 10px black;">THE 28<sup style="color: white; text-shadow: 2px 2px 10px black;">TH</sup> INTERNATIONAL COMPUTER SCIENCE
+                    AND ENGINEERING CONFERENCE 2024</h2> <br>
+                <h5 style="color: white; text-shadow: 2px 2px 20px black;">6-8 November 2024</h5>
+              
+               
+                <!-- <h5 style="color: white;">
+                    Registration Participant :
+                    <span style="color: #FF0000; background-color: rgba(255, 255, 255, 0.7);">
+                        31 October 2024</span>
+                </h5> -->
             </div>
         </div>
     </div>
