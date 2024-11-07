@@ -102,8 +102,11 @@
                            
                         </div>
                         <a
-                            href="https://icsec2024photo.computing.kku.ac.th/library/albums/asmhng6jnp5rad5b/6-november-2024-icsec2024"><button
-                                class="btn btn-primary">Click here: ICSEC2024photo</button></a>
+                            href="https://icsec2024photo.computing.kku.ac.th/library/albums/asmhng6jnp5rad5b/6-november-2024-icsec2024" target="_blank"><button
+                                class="btn btn-primary">Click here: ICSEC2024photo 06 NOV 2024</button></a>
+                        <a
+                            href="https://icsec2024photo.computing.kku.ac.th/s/ku0u1rldat" target="_blank"><button
+                                class="btn btn-primary">Click here: ICSEC2024photo 07 NOV 2024</button></a>
                     </div>
                 </div>
             </div>
