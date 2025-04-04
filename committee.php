@@ -13,141 +13,148 @@
     <link rel="stylesheet" href="./assets/css/style.css">
     <link rel="icon" href="./assets/images/organnized/ICSEC.png" type="image/gif" sizes="16x16">
     <style>
-        * {
-            color: black;
-        }
+    * {
+        color: black;
+    }
 
-        .section-title {
-            text-align: center;
-        }
+    .section-title {
+        text-align: center;
+    }
 
-        .left-align {
-            text-align: left;
-        }
+    .left-align {
+        text-align: left;
+    }
 
-        /* Lower the text size of the name */
-        .image-bio-container h4 {
-            font-size: 18px;
-            /* Adjust the size as needed */
-        }
+    /* Lower the text size of the name */
+    .image-bio-container h4 {
+        font-size: 18px;
+        /* Adjust the size as needed */
+    }
 
-        /* Ensure proper alignment of the biography and the name */
-        .biography {
-            margin-top: 20px;
-            /* Adjust this value as needed */
-        }
+    /* Ensure proper alignment of the biography and the name */
+    .biography {
+        margin-top: 20px;
+        /* Adjust this value as needed */
+    }
 
-        .image-container {
-            width: 100%;
-            /* Set the desired width */
-            height: 100%;
-            /* Set the desired height */
-            overflow: hidden;
-            /* Hide the overflowing part of the image */
-            display: flex;
-            /* Use flexbox */
-            justify-content: center;
-            /* Center horizontally */
-            align-items: center;
-            /* Center vertically */
-            margin: auto;
-            /* Center the container itself */
-        }
+    .image-container {
+        width: 100%;
+        /* Set the desired width */
+        height: 100%;
+        /* Set the desired height */
+        overflow: hidden;
+        /* Hide the overflowing part of the image */
+        display: flex;
+        /* Use flexbox */
+        justify-content: center;
+        /* Center horizontally */
+        align-items: center;
+        /* Center vertically */
+        margin: auto;
+        /* Center the container itself */
+    }
 
-        .image-container img {
-            max-width: 100%;
-            /* Ensure the image retains its aspect ratio */
-            max-height: 100%;
-            /* Ensure the image retains its aspect ratio */
-            object-fit: cover;
-            /* Crop the image to cover the container */
-        }
+    .image-container img {
+        max-width: 100%;
+        /* Ensure the image retains its aspect ratio */
+        max-height: 100%;
+        /* Ensure the image retains its aspect ratio */
+        object-fit: cover;
+        /* Crop the image to cover the container */
+    }
 
-        .footer-top {
-            background-color: #032738;
-            /* Dark blue color code */
-        }
+    .footer-top {
+        background-color: #032738;
+        /* Dark blue color code */
+    }
 
-        .footer-bottom {
-            background-color: #032738;
-            /* Dark blue color code */
-        }
+    .footer-bottom {
+        background-color: #032738;
+        /* Dark blue color code */
+    }
 
-        .text {
-            display: inline-block;
-            width: 100%;
-            text-align: justify;
-        }
+    .text {
+        display: inline-block;
+        width: 100%;
+        text-align: justify;
+    }
 
-        .text {
-            list-style: none;
-            padding: 0;
-            margin: 0;
-        }
+    .text {
+        list-style: none;
+        padding: 0;
+        margin: 0;
+    }
 
-        .left-align {
-            text-align: left;
-        }
+    .left-align {
+        text-align: left;
+    }
 
 
-        .justify {
-            text-align: justify;
-        }
+    .justify {
+        text-align: justify;
+    }
 
+    .two-columns {
+        column-gap: 20px;
+        /* ระยะห่างระหว่างคอลัมน์ */
+    }
+
+    /* สื่อการตอบสนองสำหรับหน้าจอคอมพิวเตอร์ */
+    @media (min-width: 768px) {
         .two-columns {
-            column-gap: 20px;
-            /* ระยะห่างระหว่างคอลัมน์ */
+            columns: 2;
+            /* แบ่งเป็น 2 คอลัมน์ */
+        }
+    }
+
+    @media (max-width: 1200px) {
+        .carousel-caption h2 {
+            font-size: 1.75rem;
         }
 
-        /* สื่อการตอบสนองสำหรับหน้าจอคอมพิวเตอร์ */
-        @media (min-width: 768px) {
-            .two-columns {
-                columns: 2;
-                /* แบ่งเป็น 2 คอลัมน์ */
-            }
+        .carousel-caption h5 {
+            font-size: 1rem;
         }
-        @media (max-width: 1200px) {
-    .carousel-caption h2 {
-        font-size: 1.75rem;
     }
-    .carousel-caption h5 {
-        font-size: 1rem;
-    }
-}
 
-@media (max-width: 992px) {
-    .carousel-caption h2 {
-        font-size: 1.5rem;
-    }
-    .carousel-caption h5 {
-        font-size: 0.875rem;
-    }
-}
+    @media (max-width: 992px) {
+        .carousel-caption h2 {
+            font-size: 1.5rem;
+        }
 
-@media (max-width: 768px) {
-    .carousel-caption h2 {
-        font-size: 1.25rem;
+        .carousel-caption h5 {
+            font-size: 0.875rem;
+        }
     }
-    .carousel-caption h5 {
-        font-size: 0.75rem;
-    }
-}
 
-@media (max-width: 576px) {
-    .carousel-caption h2 {
-        font-size: 1rem;
+    @media (max-width: 768px) {
+        .carousel-caption h2 {
+            font-size: 1.25rem;
+        }
+
+        .carousel-caption h5 {
+            font-size: 0.75rem;
+        }
     }
-    .carousel-caption h5 {
-        font-size: 0.625rem;
+
+    @media (max-width: 576px) {
+        .carousel-caption h2 {
+            font-size: 1rem;
+        }
+
+        .carousel-caption h5 {
+            font-size: 0.625rem;
+        }
     }
-}
-@media (max-width: 768px) {
-    .carousel-caption h5 span:nth-child(2) {
-        display: block;
+
+    @media (max-width: 768px) {
+        .carousel-caption h5 span:nth-child(2) {
+            display: block;
+        }
     }
-}
     </style>
 </head>
+
 <body data-bs-spy="scroll" data-bs-target=".navbar">
 
     <?php
@@ -171,7 +178,8 @@
                         <ul class="left-align justify">
                             <li>Supavadee Aramvith<br>IEEE Thailand Section, Thailand</li>
                             <li>David Banjerdpongchai<br>ECTI Association, Thailand</li>
-                            <li>Thanaruk Theeramunkong<br>Artificial Intelligence Association of Thailand (AIAT), Thailand</li>
+                            <li>Thanaruk Theeramunkong<br>Artificial Intelligence Association of Thailand (AIAT),
+                                Thailand</li>
                             <li>Chetneti Srisa-an<br>Council of IT Deans of Thailand (CITT), Thailand</li>
                         </ul>
                     </div>
@@ -229,14 +237,17 @@
                         <h1 class="display-4 fw-semibold">Advisory Committee</h1>
                         <div class="line"></div>
                         <ul class="left-align justify two-columns">
-                            <li>Booncharoen Sirinaovakul<br>King Mongkut's University of Technology Thonburi, Thailand</li>
+                            <li>Booncharoen Sirinaovakul<br>King Mongkut's University of Technology Thonburi, Thailand
+                            </li>
                             <li>Chai Wutiwiwatchai<br>National Electronics and Computer Technology Center, Thailand</li>
                             <li>Boonserm Kijsirikul<br>Chulalongkorn University, Thailand</li>
                             <li>Kanchana Kanchanasut<br>Asian Institute of Technology, Thailand</li>
                             <li>Peter Haddawy<br>Mahidol University, Thailand</li>
                             <li>Veera Boonjing<br>King Mongkut's Institute of Technology Ladkrabang, Thailand</li>
-                            <li>Sukit Limpijumnong<br>National Science and Technology Development Agency (NSTDA), Thailand</li>
-                            <li>Thepchai Supnithi<br>Artificial Intelligence Association of Thailand (AIAT), Thailand</li>
+                            <li>Sukit Limpijumnong<br>National Science and Technology Development Agency (NSTDA),
+                                Thailand</li>
+                            <li>Thepchai Supnithi<br>Artificial Intelligence Association of Thailand (AIAT), Thailand
+                            </li>
                         </ul>
                     </div>
                 </div>
@@ -256,7 +267,8 @@
                             <li>Ekkarat Boonchieng<br>Chiang Mai University, Thailand</li>
                             <li>Kosin Chamnongthai<br>King Mongkut's University of Technology Thonburi, Thailand</li>
                             <li>Prabhas Chongsitvatana<br>Chulalongkorn University, Thailand</li>
-                            <li>Prasong Praneepolgrang<br>Navaminda Kasatriyadhiraj Royal Thai Air Force Academy, Thailand</li>
+                            <li>Prasong Praneepolgrang<br>Navaminda Kasatriyadhiraj Royal Thai Air Force Academy,
+                                Thailand</li>
                             <li>Punpiti Piamsa-nga<br>Kasetsart University, Thailand</li>
                             <li>Sartra Wongthanavasu<br>Khon Kaen University, Thailand</li>
                         </ul>
@@ -291,9 +303,11 @@
                         <div class="line"></div>
                         <ul class="left-align justify">
                             <li>Khamron Sunat (Chair)<br>Khon Kaen University, Thailand</li>
-                            <li>Chakchai So-In (Co-Chair)<br>IEEE Computer Society Chapter / Khon Kaen University, Thailand</li>
+                            <li>Chakchai So-In (Co-Chair)<br>IEEE Computer Society Chapter / Khon Kaen University,
+                                Thailand</li>
                             <li>Jan N. van Rijn (Co-Chair)<br>Leiden University, The Netherlands</li>
-                            <li>Krisana Chinnasarn (Co-Chair)<br>IEEE Computer Society Chapter / Burapha University, Thailand</li>
+                            <li>Krisana Chinnasarn (Co-Chair)<br>IEEE Computer Society Chapter / Burapha University,
+                                Thailand</li>
                             <li>Dusit Niyato (Co-Chair)<br>Nanyang Technological University, Singapore</li>
                         </ul>
                     </div>
@@ -358,10 +372,13 @@
                         <h1 class="display-4 fw-semibold">Local Arrangement Chairs</h1>
                         <div class="line"></div>
                         <ul class="left-align justify">
-                            <li>Monlica Wattana<br>Chair of Information Technology Program, Khon Kaen University, Thailand</li>
+                            <li>Monlica Wattana<br>Chair of Information Technology Program, Khon Kaen University,
+                                Thailand</li>
                             <li>Phet Aimtongkham<br>Chair of Cybersecurity Program, Khon Kaen University, Thailand</li>
-                            <li>Wachirawut Tamviset<br>Chair of Computer Science Program, Khon Kaen University, Thailand</li>
-                            <li>Praisan Padungweang<br>Chair of Artificial Intelligence Program, Khon Kaen University, Thailand</li>
+                            <li>Wachirawut Tamviset<br>Chair of Computer Science Program, Khon Kaen University, Thailand
+                            </li>
+                            <li>Praisan Padungweang<br>Chair of Artificial Intelligence Program, Khon Kaen University,
+                                Thailand</li>
                             <li>Urawan Chanket<br>Chair of Geo-informatics Program, Khon Kaen University, Thailand</li>
                         </ul>
                     </div>
@@ -377,7 +394,8 @@
                         <h1 class="display-4 fw-semibold">General Secretary</h1>
                         <div class="line"></div>
                         <ul class="left-align justify">
-                            <li>Chitsutha Soomlek<br>Associate Dean for Research and Innovation,  Khon Kaen University, Thailand</li>
+                            <li>Chitsutha Soomlek<br>Associate Dean for Research and Innovation, Khon Kaen University,
+                                Thailand</li>
                             <li>Yanika Kongsorot<br>College of Computing, Khon Kaen University, Thailand</li>
                         </ul>
                     </div>
@@ -385,16 +403,33 @@
             </div>
         </div>
     </section>
+    <section id="Honorary" class="section-padding">
+        <div class="container">
+            <div class="row">
+                <div class="col-12 text-center" data-aos="fade-down" data-aos-delay="50">
+                    <div class="section-title">
+                        <div class="download-links mt-3">
+                            <a href="./assets/committee.pdf" download
+                                class="btn btn-primary me-2">Download
+                                PDF Committee</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
 
     <!-- Optional JavaScript -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.bundle.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/@fancyapps/ui@4.0/dist/fancybox.umd.js"></script>
     <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
     <script>
-        AOS.init({
-            duration: 800,
-            once: true
-        });
+    AOS.init({
+        duration: 800,
+        once: true
+    });
     </script>
 
 
@@ -403,7 +438,7 @@
     ?>
 
 
-   
+
 </body>
 
 </html>
